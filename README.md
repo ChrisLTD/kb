@@ -2,7 +2,7 @@
 description: Welcome
 ---
 
-# My Knowledge
+# Knowledge Base
 
 Inspired by [https://wiki.nikitavoloboev.xyz/](https://wiki.nikitavoloboev.xyz/)
 
