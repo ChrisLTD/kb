@@ -1,4 +1,4 @@
 # Table of contents
 
-* [My Knowledge](README.md)
+* [Knowledge Base](README.md)
 
