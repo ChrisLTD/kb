@@ -9,6 +9,7 @@
 * [Be Focused Pro](https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517?mt=12) - Pomodoro timer
 * [CodeRunner](https://coderunnerapp.com/) - Playground for different programming languages
 * [DaisyDisk](https://daisydiskapp.com/) - Helps cleanup old files
+* [Dropbox](https://www.dropbox.com/) - Sync files
 * [Encrypt.me](https://encrypt.me/) - VPN
 * [Forecast](https://overcast.fm/forecast) - Edit tags for podcast mp3s
 * [HandBrake](https://handbrake.fr/) - Convert video files
@@ -37,8 +38,4 @@
 * [Viscosity](https://www.sparklabs.com/viscosity/) - OpenVPN client
 * [Visual Studio Code](https://code.visualstudio.com/) - Light code text editor
 * [XScope](https://xscopeapp.com/) - Measure things on screen
-
-
-
-
 
