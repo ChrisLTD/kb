@@ -15,3 +15,10 @@
 * [Ubuntu Server](cheat-sheets/ubuntu-server.md)
 * [Vim](cheat-sheets/vim.md)
 
+## App Favorites
+
+* [Windows](app-favorites/windows.md)
+* [Mac](app-favorites/mac.md)
+* [ChromeOS](app-favorites/chromeos.md)
+* [iOS](app-favorites/ios.md)
+
