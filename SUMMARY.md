@@ -21,4 +21,5 @@
 * [Mac](app-favorites/mac.md)
 * [ChromeOS](app-favorites/chromeos.md)
 * [iOS](app-favorites/ios.md)
+* [Browser](app-favorites/browser.md)
 
