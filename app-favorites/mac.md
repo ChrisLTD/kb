@@ -1,5 +1,7 @@
 # Mac
 
+I've left default Apple apps off this list \(like Calendar, and Music\), but I use those as well.
+
 * [1Password](https://1password.com/) - Password vault
 * [Acorn](https://flyingmeat.com/acorn/) - Image editor
 * [Arq Backup](https://www.arqbackup.com/) - Backup archived files to B2 or S3
