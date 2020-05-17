@@ -35,6 +35,7 @@ I've left default Apple apps off this list \(like Calendar, and Music\), but I u
 * [SuperDuper!](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html)  - Full disk backup
 * [Todoist](https://todoist.com/)  - Cross platform to do list service
 * [ToothFairy](https://c-command.com/toothfairy/) - Connect to AirPods from menu bar
+* [Transmit](https://panic.com/transmit/) - File transfer to remote 
 * [TripMode](https://www.tripmode.ch/) - Throttle apps while on cellular data
 * [Turbo Boost Switcher Pro](https://www.rugarciap.com/turbo-boost-switcher-for-os-x/) - Turn off CPU turbo boost while on battery power
 * [Viscosity](https://www.sparklabs.com/viscosity/) - OpenVPN client
