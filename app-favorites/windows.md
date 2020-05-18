@@ -10,8 +10,11 @@ I can get by working on Windows in a pinch. Using SharpKeys to remap my keyboard
 * [Foo IRC](https://www.microsoft.com/en-us/p/foo-irc/9wzdncrdct50/0010) - Chat client
 * [OpenCalc](https://www.skytopia.com/software/opalcalc/) - Better calculator
 * [SharpKeys](https://github.com/randyrants/sharpkeys) - Swap ctrl and alt to be more like a Mac keyboard layout
+* [Stopwatch + Timer](https://www.microsoft.com/store/productId/9NBLGGGZKFMV) - What I use for pomodoros 
+* [Todoist](https://todoist.com/)  - Cross platform to do list service
 * [Ubuntu](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6) - What a time to be alive
 * [Visual Studio Code](https://code.visualstudio.com/) - Light code text editor
+* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) - A store app for some reason
 
 **Links:**
 
