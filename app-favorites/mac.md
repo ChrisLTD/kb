@@ -33,6 +33,7 @@ I've left default Apple apps off this list \(like Calendar, and Music\), but I u
 * [Soulver](https://acqualia.com/soulver/) - A better calculator
 * [SourceTree](https://www.sourcetreeapp.com/) - Free Git GUI
 * [SuperDuper!](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html)  - Full disk backup
+* [Textual](https://apps.apple.com/us/app/textual-7/id1262957439?mt=12) - IRC client
 * [Todoist](https://todoist.com/)  - Cross platform to do list service
 * [ToothFairy](https://c-command.com/toothfairy/) - Connect to AirPods from menu bar
 * [Transmit](https://panic.com/transmit/) - File transfer to remote 
