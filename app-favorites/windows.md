@@ -16,6 +16,8 @@ I can get by working on Windows in a pinch. Using SharpKeys to remap my keyboard
 * [Visual Studio Code](https://code.visualstudio.com/) - Light code text editor
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) - A store app for some reason
 
+I use the built in Win key search as an app launcher. I use the built in Snip & Sketch tool for screenshots. Check my ChromeOS list for some of the web apps I also use for productivity.
+
 **Links:**
 
 * [Windows Dev with WSL 2](https://char.gd/blog/2019/windows-web-dev-with-wsl2)
