@@ -2,6 +2,8 @@
 
 I can get by working on Windows in a pinch. Using SharpKeys to remap my keyboard to be more "Mac Like" with Alt Swapped for Control and Caps Lock mapped to Esc really helps. 
 
+To try: [Windows Power Toys](https://github.com/microsoft/PowerToys) Keyboard Manager to replace SharpKeys
+
 * [1Password](https://1password.com/) - Password vault
 * [Appy Text](https://www.microsoft.com/en-us/p/appy-text/9nblggh51knm) - Text editor
 * [Cyberduck](https://www.microsoft.com/en-us/p/cyberduck/9nblggh43htb/0010) - SFTP client
@@ -16,7 +18,7 @@ I can get by working on Windows in a pinch. Using SharpKeys to remap my keyboard
 * [Visual Studio Code](https://code.visualstudio.com/) - Light code text editor
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) - A store app for some reason
 
-I use the built in Win key search as an app launcher. I use the built in Snip & Sketch tool for screenshots. Check my ChromeOS list for some of the web apps I also use for productivity.
+I use the built in Win key search as an app launcher. I use the built in Snip & Sketch tool for screenshots. Check my ChromeOS list for some of the web apps I also use for productivity. 
 
 **Links:**
 
