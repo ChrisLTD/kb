@@ -1,8 +1,6 @@
 # Windows
 
-I can get by working on Windows in a pinch. Using SharpKeys to remap my keyboard to be more "Mac Like" with Alt Swapped for Control and Caps Lock mapped to Esc really helps. 
-
-To try: [Windows Power Toys](https://github.com/microsoft/PowerToys) Keyboard Manager to replace SharpKeys
+I can get by working on Windows in a pinch. Using Power Toys to remap my keyboard to be more "Mac Like" with Alt Swapped for Control and Caps Lock mapped to Esc really helps. 
 
 * [1Password](https://1password.com/) - Password vault
 * [Appy Text](https://www.microsoft.com/en-us/p/appy-text/9nblggh51knm) - Text editor
@@ -11,7 +9,7 @@ To try: [Windows Power Toys](https://github.com/microsoft/PowerToys) Keyboard Ma
 * [Encrypt.me](https://encrypt.me/) - VPN
 * [Foo IRC](https://www.microsoft.com/en-us/p/foo-irc/9wzdncrdct50/0010) - Chat client
 * [OpenCalc](https://www.skytopia.com/software/opalcalc/) - Better calculator
-* [SharpKeys](https://github.com/randyrants/sharpkeys) - Swap ctrl and alt to be more like a Mac keyboard layout
+* [Power Toys](https://github.com/microsoft/PowerToys) - Add Spotlight'esque search and swap ctrl and alt keys with Keyboard Manager
 * [Stopwatch + Timer](https://www.microsoft.com/store/productId/9NBLGGGZKFMV) - What I use for pomodoros 
 * [Todoist](https://todoist.com/)  - Cross platform to do list service
 * [Ubuntu](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6) - What a time to be alive
