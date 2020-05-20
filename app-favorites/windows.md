@@ -18,6 +18,21 @@ I can get by working on Windows in a pinch. Using Power Toys to remap my keyboar
 
 I use the built in Win key search as an app launcher. I use the built in Snip & Sketch tool for screenshots. Check my ChromeOS list for some of the web apps I also use for productivity. 
 
+**Power Toys Settings:**
+
+Always run as Administrator
+
+Keyboard remapping
+
+* Caps Lock -&gt; Esc
+* Esc -&gt; Caps Lock
+* Alt \(Left\) -&gt; Ctrl \(Left\)
+* Ctrl \(Left\) -&gt; Alt \(Left\)
+* Alt \(Right\) -&gt; Ctrl \(Right\)
+* Ctrl \(Right\) -&gt; Alt \(Right\)
+
+PowerToys Run set to Ctrl + Space
+
 **Links:**
 
 * [Windows Dev with WSL 2](https://char.gd/blog/2019/windows-web-dev-with-wsl2)
