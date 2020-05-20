@@ -3,6 +3,7 @@
 I can get by working on Windows in a pinch. Using Power Toys to remap my keyboard to be more "Mac Like" with Alt Swapped for Control and Caps Lock mapped to Esc really helps. 
 
 * [1Password](https://1password.com/) - Password vault
+* [Affinity Photo](https://www.microsoft.com/store/productId/9NBLGGH35LXN) - Lighter weight and cheaper alternative to Photoshop
 * [Appy Text](https://www.microsoft.com/en-us/p/appy-text/9nblggh51knm) - Text editor
 * [Cyberduck](https://www.microsoft.com/en-us/p/cyberduck/9nblggh43htb/0010) - SFTP client
 * [Dropbox](https://www.dropbox.com/) - Sync files
