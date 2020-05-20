@@ -22,7 +22,7 @@ I use the built in Win key search as an app launcher. I use the built in Snip & 
 
 Always run as Administrator
 
-Keyboard remapping
+Keyboard Manager
 
 * Caps Lock -&gt; Esc
 * Esc -&gt; Caps Lock
