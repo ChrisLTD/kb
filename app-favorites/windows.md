@@ -23,6 +23,7 @@ I use the built in Win key search as an app launcher. I use the built in Snip & 
 * [Windows Dev with WSL 2](https://char.gd/blog/2019/windows-web-dev-with-wsl2)
 * [Mac App Alternatives on Windows](https://docs.google.com/spreadsheets/d/1zHNhWfis0iJULrYAHOYPeMRGhNUVWVxInIn8YKswlIA/htmlview)
 * [Ruby on Rails dev on Windows](https://www.hanselman.com/blog/RubyOnRailsOnWindowsIsNotJustPossibleItsFabulousUsingWSL2AndVSCode.aspx)
+* [Use Bitlocker on Windows 10](https://www.windowscentral.com/how-use-bitlocker-encryption-windows-10)
 
 
 
