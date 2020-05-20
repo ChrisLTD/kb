@@ -5,11 +5,11 @@ I can get by working on Windows in a pinch. Using Power Toys to remap my keyboar
 * [1Password](https://1password.com/) - Password vault
 * [Affinity Photo](https://www.microsoft.com/store/productId/9NBLGGH35LXN) - Lighter weight and cheaper alternative to Photoshop
 * [Appy Text](https://www.microsoft.com/en-us/p/appy-text/9nblggh51knm) - Text editor
+* [Calca](https://www.microsoft.com/en-us/store/p/calca/9nhxz5159n41) - Better calculator
 * [Cyberduck](https://www.microsoft.com/en-us/p/cyberduck/9nblggh43htb/0010) - SFTP client
 * [Dropbox](https://www.dropbox.com/) - Sync files
 * [Encrypt.me](https://encrypt.me/) - VPN
 * [Foo IRC](https://www.microsoft.com/en-us/p/foo-irc/9wzdncrdct50/0010) - Chat client
-* [OpenCalc](https://www.skytopia.com/software/opalcalc/) - Better calculator
 * [Power Toys](https://github.com/microsoft/PowerToys) - Add Spotlight'esque search and swap ctrl and alt keys with Keyboard Manager
 * [Stopwatch + Timer](https://www.microsoft.com/store/productId/9NBLGGGZKFMV) - What I use for pomodoros 
 * [Todoist](https://todoist.com/)  - Cross platform to do list service
