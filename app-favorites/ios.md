@@ -3,7 +3,7 @@
 I've left default Apple apps off this list \(like Calendar, and Music\), but I use those as well.
 
 * [1Blocker](https://apps.apple.com/us/app/1blocker-for-safari/id1365531024) - Content blocker
-* [1Password]https://apps.apple.com/us/app/1password-password-manager/id568903335) - Password vault
+* [1Password](https://apps.apple.com/us/app/1password-password-manager/id568903335) - Password vault
 * [1Writer](https://apps.apple.com/us/app/1writer-markdown-text-editor/id680469088) - Dropbox text client
 * [7 Minute Workout](https://apps.apple.com/us/app/7-minute-workout/id650762525) - 7 minute workout client
 * [Audible](https://apps.apple.com/us/app/audible-audiobooks-originals/id379693831) - Audiobooks
