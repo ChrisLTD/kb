@@ -23,7 +23,7 @@ I use the built in Win key search as an app launcher. I use the built in Snip & 
 
 Always run as Administrator
 
-Keyboard Manager
+Keyboard Manager:
 
 * Caps Lock -&gt; Esc
 * Esc -&gt; Caps Lock
@@ -31,6 +31,10 @@ Keyboard Manager
 * Ctrl \(Left\) -&gt; Alt \(Left\)
 * Alt \(Right\) -&gt; Ctrl \(Right\)
 * Ctrl \(Right\) -&gt; Alt \(Right\)
+
+Shortcuts:
+
+* Ctrl + Q -&gt; Alt F4
 
 PowerToys Run set to Ctrl + Space
 
