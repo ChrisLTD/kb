@@ -44,6 +44,7 @@ PowerToys Run set to Ctrl + Space
 * [Mac App Alternatives on Windows](https://docs.google.com/spreadsheets/d/1zHNhWfis0iJULrYAHOYPeMRGhNUVWVxInIn8YKswlIA/htmlview)
 * [Ruby on Rails dev on Windows](https://www.hanselman.com/blog/RubyOnRailsOnWindowsIsNotJustPossibleItsFabulousUsingWSL2AndVSCode.aspx)
 * [Use Bitlocker on Windows 10](https://www.windowscentral.com/how-use-bitlocker-encryption-windows-10)
+* [Windows 10 app list from Joseph Rooks](https://josephrooks.com/windows-10/)
 
 
 
