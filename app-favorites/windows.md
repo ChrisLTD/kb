@@ -38,6 +38,17 @@ Shortcuts:
 
 PowerToys Run set to Ctrl + Space
 
+**Misc. Settings:**
+
+Go to clipboard settings and enable clipboard history.
+
+Turn on power off button on login screen:
+
+* Open the Local Group Policy Editor \(Press the Windows key + R, type gpedit.msc and press Enter\)
+* Navigate to Computer Configuration -&gt; Windows Settings -&gt; Security Settings -&gt; Local Policies -&gt; Security Options. 
+* Select the “Shutdown: Allow system to be shut down without having to log on” policy. Select Enable and click Apply and OK.
+* Restart.
+
 **Links:**
 
 * [Windows Dev with WSL 2](https://char.gd/blog/2019/windows-web-dev-with-wsl2)
