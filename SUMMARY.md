@@ -12,9 +12,9 @@
 * [Nginx](cheat-sheets/nginx.md)
 * [Rails](cheat-sheets/rails.md)
 * [Shell \(Linux\)](cheat-sheets/shell-linux.md)
+* [SwiftUI](cheat-sheets/swiftui.md)
 * [Ubuntu Server](cheat-sheets/ubuntu-server.md)
 * [Vim](cheat-sheets/vim.md)
-* [Swift UI](cheat-sheets/swift-ui.md)
 
 ## App Favorites
 
