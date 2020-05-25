@@ -24,3 +24,7 @@
 * [iOS](app-favorites/ios.md)
 * [Browser](app-favorites/browser.md)
 
+## Workflows
+
+* [Podcasting](workflows/podcasting.md)
+
