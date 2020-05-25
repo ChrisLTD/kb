@@ -14,6 +14,7 @@
 * [Shell \(Linux\)](cheat-sheets/shell-linux.md)
 * [Ubuntu Server](cheat-sheets/ubuntu-server.md)
 * [Vim](cheat-sheets/vim.md)
+* [Swift UI](cheat-sheets/swift-ui.md)
 
 ## App Favorites
 
