@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Knowledge Base](README.md)
+* [Chris Johnson's KB](README.md)
 
 ## Cheat Sheets
 
