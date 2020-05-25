@@ -51,10 +51,10 @@ Turn on power off button on login screen:
 
 **Links:**
 
+* [Use Bitlocker on Windows 10 without a TPM module](https://www.windowscentral.com/how-use-bitlocker-encryption-windows-10)
 * [Windows Dev with WSL 2](https://char.gd/blog/2019/windows-web-dev-with-wsl2)
 * [Mac App Alternatives on Windows](https://docs.google.com/spreadsheets/d/1zHNhWfis0iJULrYAHOYPeMRGhNUVWVxInIn8YKswlIA/htmlview)
 * [Ruby on Rails dev on Windows](https://www.hanselman.com/blog/RubyOnRailsOnWindowsIsNotJustPossibleItsFabulousUsingWSL2AndVSCode.aspx)
-* [Use Bitlocker on Windows 10](https://www.windowscentral.com/how-use-bitlocker-encryption-windows-10)
 * [Windows 10 app list from Joseph Rooks](https://josephrooks.com/windows-10/)
 
 
