@@ -1,5 +1,7 @@
 # Podcasting
 
+Currently co-host [The Wastebasket](http://wastebasketpodcast.com/) podcast with Jordan Mendenhall.
+
 Using [Samson Meteor Mic](https://www.amazon.com/Samson-Meteor-Studio-Condenser-Microphone/dp/B004MF39YS/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=cd89772b08224f3814684032a4d54624&language=en_US)
 
 Call on Skype
