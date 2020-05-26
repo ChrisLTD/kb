@@ -6,7 +6,7 @@ ChromeOS is mostly a portal to the web, but these are the somewhat obscure apps 
 
 * [Amazon Cloud9](https://aws.amazon.com/cloud9/) - Web based development environment
 * [Apple Music](https://music.apple.com/) - iTunes on the web
-* Harvest - Timesheets \(https://yourname.harvestapp.com/time/m\)
+* Harvest - Timesheets \(https://yourAccount.harvestapp.com/time/m\)
 * [Google Keep](https://keep.google.com/) - Notes
 * [Photopea](https://www.photopea.com/) - Open / edit Photoshop files on the web
 * [Secure Shell](https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo?hl=en) - SSH and SFTP mounting
