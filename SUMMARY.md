@@ -28,3 +28,7 @@
 
 * [Podcasting](workflows/podcasting.md)
 
+## Gaming
+
+* [Rocket League](gaming/rocket-league.md)
+
