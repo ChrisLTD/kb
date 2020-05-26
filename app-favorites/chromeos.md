@@ -5,7 +5,7 @@ ChromeOS is mostly a portal to the web, but these are the somewhat obscure apps 
 ### Web Apps / PWAs
 
 * [Amazon Cloud9](https://aws.amazon.com/cloud9/) - Web based development environment
-* [Apple Music](https://music.apple.com/) - iTunes
+* [Apple Music](https://music.apple.com/) - iTunes on the web
 * Harvest - Timesheets \(https://yourname.harvestapp.com/time/m\)
 * [Google Keep](https://keep.google.com/) - Notes
 * [Photopea](https://www.photopea.com/) - Open / edit Photoshop files on the web
