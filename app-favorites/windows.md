@@ -21,8 +21,6 @@ I use the built in Win key search as an app launcher. I use the built in Snip & 
 
 **Power Toys Settings:**
 
-Always run as Administrator
-
 Keyboard Manager:
 
 * Caps Lock -&gt; Esc
@@ -56,6 +54,7 @@ Turn on power off button on login screen:
 * [Mac App Alternatives on Windows](https://docs.google.com/spreadsheets/d/1zHNhWfis0iJULrYAHOYPeMRGhNUVWVxInIn8YKswlIA/htmlview)
 * [Ruby on Rails dev on Windows](https://www.hanselman.com/blog/RubyOnRailsOnWindowsIsNotJustPossibleItsFabulousUsingWSL2AndVSCode.aspx)
 * [Windows 10 app list from Joseph Rooks](https://josephrooks.com/windows-10/)
+* [Install WSL 2 in Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
 
 
