@@ -7,6 +7,7 @@ I can get by working on Windows in a pinch. Using Power Toys to remap my keyboar
 * [Appy Text](https://www.microsoft.com/en-us/p/appy-text/9nblggh51knm) - Text editor
 * [Calca](https://www.microsoft.com/en-us/store/p/calca/9nhxz5159n41) - Better calculator
 * [Cyberduck](https://www.microsoft.com/en-us/p/cyberduck/9nblggh43htb/0010) - SFTP client
+* [Docker for Windows](https://docs.docker.com/docker-for-windows/wsl/) - Run apps in containers
 * [Dropbox](https://www.dropbox.com/) - Sync files
 * [Encrypt.me](https://encrypt.me/) - VPN
 * [Foo IRC](https://www.microsoft.com/en-us/p/foo-irc/9wzdncrdct50/0010) - Chat client
@@ -16,6 +17,14 @@ I can get by working on Windows in a pinch. Using Power Toys to remap my keyboar
 * [Ubuntu](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6) - What a time to be alive
 * [Visual Studio Code](https://code.visualstudio.com/) - Light code text editor
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) - A store app for some reason
+
+Under consideration:
+
+* 7-Zip
+* HexChat
+* Paint.NET
+* Prime95
+* RealTemp
 
 I use the built in Win key search as an app launcher. I use the built in Snip & Sketch tool for screenshots. Check my ChromeOS list for some of the web apps I also use for productivity. 
 
