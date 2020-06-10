@@ -1,16 +1,24 @@
 # Podcasting
 
-Currently co-host [The Wastebasket](http://wastebasketpodcast.com/) podcast with Jordan Mendenhall.
+I currently co-host [The Wastebasket](http://wastebasketpodcast.com/) podcast with Jordan Mendenhall. We discuss technology, culture, and we review movie on each episode.
 
-Using [Samson Meteor Mic](https://www.amazon.com/Samson-Meteor-Studio-Condenser-Microphone/dp/B004MF39YS/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=cd89772b08224f3814684032a4d54624&language=en_US)
+I hardly have a professional podcasting setup, but I think we sound decent. These are the tools we're currently using:
 
-Call on Skype
+Microphone: [Samson Meteor Mic](https://www.amazon.com/Samson-Meteor-Studio-Condenser-Microphone/dp/B004MF39YS/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=cd89772b08224f3814684032a4d54624&language=en_US) connecting over USB
 
-Record with [Piezo](https://rogueamoeba.com/piezo/)
+Headphones: [Bose SoundLink Around Ear Wireless Headphones II](https://www.amazon.com/Bose-SoundLink-around-ear-wireless-headphones/dp/B0117RGG8E/ref=as_li_ss_tl?dchild=1&keywords=bose+quietcomfort+wireless&qid=1591816477&s=electronics&sr=1-4&linkCode=ll1&tag=chrisltd-20&linkId=53003237613ba135435d25e1acb682bd&language=en_US) wired into laptop
 
-Edit with [GarageBand](https://www.apple.com/mac/garageband/) on Mac and with [Ferrite Recording Studio](https://www.wooji-juice.com/products/ferrite/) on iPad
+We call each other using [Microsoft's Skype](https://www.skype.com/) service.
 
-Host on [Anchor.fm](https://anchor.fm/)
+On the Mac, I can record both sides of the conversation on different audio channels using the app [Piezo](https://rogueamoeba.com/piezo/). Jordan records his side using [Audacity](https://www.audacityteam.org/).
+
+I edit the show using [GarageBand](https://www.apple.com/mac/garageband/) on Mac and with [Ferrite Recording Studio](https://www.wooji-juice.com/products/ferrite/) on iPad using an Apple Pencil. Using Ferrite is actually kind of fun. Definitely worth trying if you find editing on your PC a chore.
+
+When Jordan edits the show he uses [Audacity](https://www.audacityteam.org/).
+
+I prep the final MP3 file with titles, show art, and notes using [Forecast](https://overcast.fm/forecast).
+
+We host the show for free on [Anchor.fm](https://anchor.fm/), owned by Spotify.
 
 
 
