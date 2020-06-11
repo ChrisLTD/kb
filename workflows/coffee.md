@@ -4,6 +4,8 @@ I make coffee with recently roasted beans, a burr grinder, and an [AeroPress](ht
 
 I get whole bean coffee delivered every couple weeks from [Counter Culture](https://counterculturecoffee.com/) and [Yes Plz Coffee](https://www.yesplz.coffee/). There is usually a couple days lag from when they roast their coffee and when it arrives in the mail, but that's a huge improvement over grocery store coffee that might have been roasted months and months ago. Switching to recently roasted beans is the biggest upgrade I made to the taste of coffee I was brewing.
 
+Here's the recipe I've settled on:
+
 1. Run the rubber plunger side of the AeroPress under water \(this makes the last step a bit smoother\).
 2. Pour 2.5 tablespoon of beans measured with the [scoop from AeroPress](https://aeropress.com/product/scoop/) for each cup in my [Baratza Encore grinder](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US). 
 3. Grind the beans on the 11 setting.
@@ -18,6 +20,8 @@ I get whole bean coffee delivered every couple weeks from [Counter Culture](http
 12. Press the plunger down on the AeroPress until it reaches the bottom.
 13. Take off the cap, and eject the used coffee grinds into the garbage.
 14. Enjoy!
+
+If you're curious about the AeroPress, the official site has pretty good instructions and some videos you can [check out](https://aeropress.com/use-it-now/getting-started/).
 
 
 
