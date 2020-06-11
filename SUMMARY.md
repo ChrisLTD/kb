@@ -27,6 +27,7 @@
 ## Workflows
 
 * [Podcasting](workflows/podcasting.md)
+* [Coffee](workflows/coffee.md)
 
 ## Gaming
 
