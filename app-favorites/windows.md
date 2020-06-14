@@ -22,6 +22,7 @@ Under consideration:
 
 * 7-Zip
 * HexChat
+* Notepad++
 * Paint.NET
 * Prime95
 * RealTemp
