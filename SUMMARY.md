@@ -35,5 +35,5 @@
 
 ## Hardware
 
-* [Dell U2720Q](hardware/dell-u2720q.md)
+* [Dell U2720Q Monitor](hardware/dell-u2720q.md)
 
