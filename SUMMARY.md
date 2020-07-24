@@ -33,3 +33,7 @@
 
 * [Rocket League](gaming/rocket-league.md)
 
+## Hardware
+
+* [Dell U2720Q](hardware/dell-u2720q.md)
+
