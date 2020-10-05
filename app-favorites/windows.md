@@ -58,6 +58,11 @@ Turn on power off button on login screen:
 * Select the “Shutdown: Allow system to be shut down without having to log on” policy. Select Enable and click Apply and OK.
 * Restart.
 
+**Open VS Code within WSL 2:**
+
+* In Windows Terminal, go to project folder
+* `wsl code .`
+
 **Links:**
 
 * [Use Bitlocker on Windows 10 without a TPM module](https://www.windowscentral.com/how-use-bitlocker-encryption-windows-10)
@@ -66,6 +71,7 @@ Turn on power off button on login screen:
 * [Ruby on Rails dev on Windows](https://www.hanselman.com/blog/RubyOnRailsOnWindowsIsNotJustPossibleItsFabulousUsingWSL2AndVSCode.aspx)
 * [Windows 10 app list from Joseph Rooks](https://josephrooks.com/windows-10/)
 * [Install WSL 2 in Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+* [WSL 2 with Visual Studio Code](https://code.visualstudio.com/blogs/2019/09/03/wsl2)
 
 
 
