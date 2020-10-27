@@ -26,7 +26,7 @@ If you're curious about the AeroPress, the official site has pretty good instruc
 ### My French press single cup recipe
 
 1. Boil water \(you'll want a bit more than 8 oz\)
-2. Coarsely grind 18 grams of beans \(setting 28 on the Baratza Encore\)
+2. Coarsely grind 18 grams of beans \(setting 28 on the [Baratza Encore](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US)\)
 3. Rinse your mug and French press with warm water
 4. Pour the ground coffee into the French press \(I'm currently using a [Bodum 12 oz model](https://www.amazon.com/dp/B07HC22KQH/ref=as_li_ss_tl?th=1&linkCode=ll1&tag=chrisltd-20&linkId=293e67eae30293ca055e27cfe4905e7f&language=en_US)\)
 5. Pour, don't dump, 8 oz of hot water into the French press. You can measure it, or on my Bodum that means filling it up to about a finger width below the top metal ring.
