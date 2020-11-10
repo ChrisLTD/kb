@@ -41,7 +41,7 @@ Modified from [this video](https://www.youtube.com/watch?v=rpyBYuu-wJI). I'm usi
 1. Boil water
 2. Grind 16 grams of beans somewhere between espresso and medium grind. \(Setting 12 on the [Baratza Encore](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US)\)
 3. Once the water is boiled, pour it into the bottom section of the Moka pot to right below the safety valve
-4. Put your ground coffee into the ground basket. Don't tamp.
+4. Put your ground coffee into the coffee basket. Don't tamp.
 5. Screw together the top and bottom of the Moka pot. Because you poured hot water into the bottom you'll likely need a towel or something to hold the bottom of the pot without burning yourself.
 6. Put the pot on your smallest burner, and turn it to medium heat or whatever just covers the bottom with flame.
 7. Open the top of the Moka pot so you can monitor the brewing
