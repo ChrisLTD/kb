@@ -50,3 +50,11 @@ Modified from [this video](https://www.youtube.com/watch?v=rpyBYuu-wJI). I'm usi
 10. Pour your coffee into a mug and enjoy.
 11. Once the Moka Part is cool enough, take it apart, rinse the inside with warm water, and dry it with a towel or paper towel. Let it completely air dry before putting it back together and storing it.
 
+### My Hario V60 Recipe DRAFT
+
+1. Boil water
+2. Grind 15 grams of beans to about a table salt size \(Setting 15 on the [Baratza Encore](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US)\)
+3. Rinse filter and cup with warm water
+4. Pour a bit of the boiling water on the coffee and let it "bloom" for 20-30 seconds
+5. _Slowly_ pour the remaining water over the coffee
+
