@@ -50,11 +50,15 @@ Modified from [this video](https://www.youtube.com/watch?v=rpyBYuu-wJI). I'm usi
 10. Pour your coffee into a mug and enjoy.
 11. Once the Moka Part is cool enough, take it apart, rinse the inside with warm water, and dry it with a towel or paper towel. Let it completely air dry before putting it back together and storing it.
 
-### My Hario V60 Recipe DRAFT
+### My Hario V60 Recipe
 
-1. Boil water
+I'm using this [plastic V60](https://www.amazon.com/Hario-Ceramic-Coffee-Dripper-White/dp/B000P4D5HG/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=0b098d0724af6d2650b385f1b4b41f23&language=en_US) with [02 sized natural filters](https://www.amazon.com/Hario-V60-Coffee-Filters-Natural-Tabbed/dp/B001O0R46I/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B001O0R46I&pd_rd_r=a05fac9c-4e7e-4d61-9d8a-c2d373b2114e&pd_rd_w=XfRVQ&pd_rd_wg=ByWQR&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=XMY3K5V2MJQHPMAADFXX&psc=1&refRID=XMY3K5V2MJQHPMAADFXX&linkCode=ll1&tag=chrisltd-20&linkId=ccbae1ce09974c5dfb481332ec634f89&language=en_US).
+
+1. Boil water ~10oz of water
 2. Grind 15 grams of beans to about a table salt size \(Setting 15 on the [Baratza Encore](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US)\)
-3. Rinse filter and cup with warm water
-4. Pour a bit of the boiling water on the coffee and let it "bloom" for 20-30 seconds
-5. _Slowly_ pour the remaining water over the coffee
+3. Run some of the hot water through your filter, cone, and into your mug to heat them up
+4. Discard the water in your mug
+5. Pour the grinds into the filter and cone
+6. Pour a bit of the boiling water on the coffee and let it "bloom" for 20-30 seconds
+7. _Slowly_ pour the remaining water over the coffee
 
