@@ -17,6 +17,7 @@ I've left default Apple apps off this list \(like Calendar, and Music\), but I u
 * [HandBrake](https://handbrake.fr/) - Convert video files
 * [Hazel](https://www.noodlesoft.com/) - automate file cleanup and organization
 * [HazeOver](https://apps.apple.com/us/app/hazeover-distraction-dimmer/id430798174?mt=12) - Darken inactive windows
+* [ImageOptim](https://imageoptim.com/mac) - Batch compress images
 * [IntelliJ](https://www.jetbrains.com/idea/) - IDE for web project
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - Keep track of runaway apps
 * [Keyboard Maestro](https://www.keyboardmaestro.com/) - Text snippets, and OS automation
