@@ -52,13 +52,18 @@ Modified from [this video](https://www.youtube.com/watch?v=rpyBYuu-wJI). I'm usi
 
 ### My Hario V60 Recipe
 
-I'm using this [plastic V60](https://www.amazon.com/Hario-Ceramic-Coffee-Dripper-White/dp/B000P4D5HG/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=0b098d0724af6d2650b385f1b4b41f23&language=en_US) with [02 sized natural filters](https://www.amazon.com/Hario-V60-Coffee-Filters-Natural-Tabbed/dp/B001O0R46I/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B001O0R46I&pd_rd_r=a05fac9c-4e7e-4d61-9d8a-c2d373b2114e&pd_rd_w=XfRVQ&pd_rd_wg=ByWQR&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=XMY3K5V2MJQHPMAADFXX&psc=1&refRID=XMY3K5V2MJQHPMAADFXX&linkCode=ll1&tag=chrisltd-20&linkId=ccbae1ce09974c5dfb481332ec634f89&language=en_US).
+I'm using this [plastic V60](https://www.amazon.com/Hario-Ceramic-Coffee-Dripper-White/dp/B000P4D5HG/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=0b098d0724af6d2650b385f1b4b41f23&language=en_US) with [02 sized natural filters](https://www.amazon.com/Hario-V60-Coffee-Filters-Natural-Tabbed/dp/B001O0R46I/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B001O0R46I&pd_rd_r=a05fac9c-4e7e-4d61-9d8a-c2d373b2114e&pd_rd_w=XfRVQ&pd_rd_wg=ByWQR&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=XMY3K5V2MJQHPMAADFXX&psc=1&refRID=XMY3K5V2MJQHPMAADFXX&linkCode=ll1&tag=chrisltd-20&linkId=ccbae1ce09974c5dfb481332ec634f89&language=en_US). Technique modified from [this video](https://youtu.be/AI4ynXzkSQo).
 
-1. Boil water ~10oz of water
+1. Boil 12oz of water. You’ll be using 9oz of water for the coffee, and some of the rest to rinse the filter, and warm your cup and cone.
 2. Grind 15 grams of beans to about a table salt size \(Setting 15 on the [Baratza Encore](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US)\)
 3. Run some of the hot water through your filter, cone, and into your mug to heat them up
 4. Discard the water in your mug
 5. Pour the grinds into the filter and cone
-6. Pour a bit of the boiling water on the coffee and let it "bloom" for 20-30 seconds
-7. _Slowly_ pour the remaining water over the coffee
+6. Optional: With your finger create a little indentation in the middle of grounds to help with the bloom phase.
+7. Pour about an ounce of the boiling water on the coffee and let it bloom for 30-45 seconds
+8. Pour about 60% of remaining 8oz of water over the coffee, try not to hit the sides. Let it pool up to about the top.
+9. Optional: Stir the coffee gently with a spoon, you don’t want to create a vortex
+10. Pour the remaining water to keep it topped up.
+11. Let it drain, and throw away the filter and coffee
+12. Enjoy!
 
