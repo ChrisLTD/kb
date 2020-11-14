@@ -36,7 +36,7 @@ If you're curious about the AeroPress, the official site has pretty good instruc
 
 ### My Moka pot recipe
 
-Modified from [this video](https://www.youtube.com/watch?v=rpyBYuu-wJI). I'm using this 3 cup [Bialeltti Moka pot](https://www.amazon.com/Original-Bialetti-Moka-Express-Stovetop/dp/B0000CF3Q6/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B0000CF3Q6&pd_rd_r=824f42e9-fc1d-45bb-8488-93ea1e090787&pd_rd_w=AZjCe&pd_rd_wg=ZqKzL&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=Q5E29HG6XRSEX1AX4S9K&psc=1&refRID=Q5E29HG6XRSEX1AX4S9K&linkCode=ll1&tag=chrisltd-20&linkId=1a5a84cd47ea5008269747552da37b5d&language=en_US).
+Modified from [this James Hoffmann video](https://www.youtube.com/watch?v=rpyBYuu-wJI). I'm using this 3 cup [Bialeltti Moka pot](https://www.amazon.com/Original-Bialetti-Moka-Express-Stovetop/dp/B0000CF3Q6/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B0000CF3Q6&pd_rd_r=824f42e9-fc1d-45bb-8488-93ea1e090787&pd_rd_w=AZjCe&pd_rd_wg=ZqKzL&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=Q5E29HG6XRSEX1AX4S9K&psc=1&refRID=Q5E29HG6XRSEX1AX4S9K&linkCode=ll1&tag=chrisltd-20&linkId=1a5a84cd47ea5008269747552da37b5d&language=en_US).
 
 1. Boil water
 2. Grind 16 grams of beans somewhere between espresso and medium grind. \(Setting 12 on the [Baratza Encore](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US)\)
@@ -52,7 +52,7 @@ Modified from [this video](https://www.youtube.com/watch?v=rpyBYuu-wJI). I'm usi
 
 ### My Hario V60 Recipe
 
-I'm using this [plastic V60](https://www.amazon.com/Hario-Ceramic-Coffee-Dripper-White/dp/B000P4D5HG/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=0b098d0724af6d2650b385f1b4b41f23&language=en_US) with [02 sized natural filters](https://www.amazon.com/Hario-V60-Coffee-Filters-Natural-Tabbed/dp/B001O0R46I/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B001O0R46I&pd_rd_r=a05fac9c-4e7e-4d61-9d8a-c2d373b2114e&pd_rd_w=XfRVQ&pd_rd_wg=ByWQR&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=XMY3K5V2MJQHPMAADFXX&psc=1&refRID=XMY3K5V2MJQHPMAADFXX&linkCode=ll1&tag=chrisltd-20&linkId=ccbae1ce09974c5dfb481332ec634f89&language=en_US). Technique modified from [this video](https://youtu.be/AI4ynXzkSQo).
+I'm using this [plastic V60](https://www.amazon.com/Hario-Ceramic-Coffee-Dripper-White/dp/B000P4D5HG/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=0b098d0724af6d2650b385f1b4b41f23&language=en_US) with [02 sized natural filters](https://www.amazon.com/Hario-V60-Coffee-Filters-Natural-Tabbed/dp/B001O0R46I/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B001O0R46I&pd_rd_r=a05fac9c-4e7e-4d61-9d8a-c2d373b2114e&pd_rd_w=XfRVQ&pd_rd_wg=ByWQR&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=XMY3K5V2MJQHPMAADFXX&psc=1&refRID=XMY3K5V2MJQHPMAADFXX&linkCode=ll1&tag=chrisltd-20&linkId=ccbae1ce09974c5dfb481332ec634f89&language=en_US). Technique modified from [this James Hoffmann video](https://youtu.be/AI4ynXzkSQo).
 
 1. Boil 12oz of water. You’ll be using 9oz of water for the coffee, and some of the rest to rinse the filter, and warm your cup and cone.
 2. Grind 15 grams of beans to about a table salt size \(Setting 15 on the [Baratza Encore](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US)\)
