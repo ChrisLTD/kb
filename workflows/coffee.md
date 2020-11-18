@@ -59,9 +59,10 @@ I'm using this [plastic V60](https://www.amazon.com/Hario-Ceramic-Coffee-Dripper
 3. Run some of the hot water through your filter, cone, and into your mug to heat them up
 4. Discard the water in your mug
 5. Pour the grinds into the filter and cone
-6. Optional: With your finger create a little indentation in the middle of grounds to help with the bloom phase.
+6. With your finger create a little indentation in the middle of grounds to help with the bloom phase.
 7. Pour about an ounce of the boiling water on the coffee and let it bloom for 30-45 seconds
 8. Pour the remaining 8oz of water over the coffee very slowly. Try not to let it pool.
 9. Let it drain, and throw away the filter and coffee
-10. Enjoy!
+10. Stir the coffee in your mug
+11. Enjoy!
 
