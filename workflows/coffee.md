@@ -25,11 +25,11 @@ If you're curious about the AeroPress, the official site has pretty good instruc
 
 ### My French press single cup recipe
 
-1. Boil water \(you'll want a bit more than 8 oz\)
+1. Boil water \(you'll want a bit more than 8 oz / 225 g\)
 2. Coarsely grind 18 grams of beans \(setting 28 on the [Baratza Encore](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US)\)
 3. Rinse your mug and French press with warm water
 4. Pour the ground coffee into the French press \(I'm currently using a [Bodum 12 oz model](https://www.amazon.com/dp/B07HC22KQH/ref=as_li_ss_tl?th=1&linkCode=ll1&tag=chrisltd-20&linkId=293e67eae30293ca055e27cfe4905e7f&language=en_US)\)
-5. Pour, don't dump, 8 oz of hot water into the French press. You can measure it, or on my Bodum that means filling it up to about a finger width below the top metal ring.
+5. Pour, don't dump, 8 oz / 225 g of hot water into the French press. You can measure it, or on my Bodum that means filling it up to about a finger width below the top metal ring.
 6. Let the coffee steep for 4 minutes
 7. Slowly tamp the coffee down with the French press plunger
 8. Pour into your mug and enjoy
@@ -54,14 +54,14 @@ Modified from [this James Hoffmann video](https://www.youtube.com/watch?v=rpyBYu
 
 I'm using this [plastic V60](https://www.amazon.com/Hario-Ceramic-Coffee-Dripper-White/dp/B000P4D5HG/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=0b098d0724af6d2650b385f1b4b41f23&language=en_US) with [02 sized natural filters](https://www.amazon.com/Hario-V60-Coffee-Filters-Natural-Tabbed/dp/B001O0R46I/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B001O0R46I&pd_rd_r=a05fac9c-4e7e-4d61-9d8a-c2d373b2114e&pd_rd_w=XfRVQ&pd_rd_wg=ByWQR&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=XMY3K5V2MJQHPMAADFXX&psc=1&refRID=XMY3K5V2MJQHPMAADFXX&linkCode=ll1&tag=chrisltd-20&linkId=ccbae1ce09974c5dfb481332ec634f89&language=en_US).
 
-1. Boil 12oz of water. You’ll be using 9oz of water for the coffee, and some of the rest to rinse the filter, and warm your cup and cone.
+1. Boil 12 oz / 340 g of water. You’ll be using 9 oz / 255 g of water for the coffee, and some of the rest to rinse the filter, and warm your cup and cone.
 2. Grind 15 grams of beans to about a table salt size \(Setting 12 on the [Baratza Encore](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US)\)
 3. Run some of the hot water through your filter, cone, and into your mug to heat them up
 4. Discard the water in your mug
 5. Pour the grinds into the filter and cone
 6. With your finger create a little indentation in the middle of grounds to help with the bloom phase.
-7. Pour about an ounce of the boiling water on the coffee and let it bloom for 30-45 seconds
-8. Pour the remaining 8oz of water over the coffee very slowly. Try not to let it pool.
+7. Pour about an ounce / 30 g of the boiling water on the coffee and let it bloom for 30-45 seconds
+8. Pour the remaining 8 oz / 225 g of water over the coffee very slowly. Try not to let it pool.
 9. Let it drain, and throw away the filter and coffee
 10. Stir the coffee in your mug
 11. Enjoy!
