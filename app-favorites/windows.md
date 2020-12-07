@@ -17,11 +17,13 @@ I can get by working on Windows in a pinch. Using Power Toys to remap my keyboar
 * [Ubuntu](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6) - What a time to be alive
 * [Visual Studio Code](https://code.visualstudio.com/) - Light code text editor
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) - A store app for some reason
+* [Winstall.app](https://winstall.app/) - Web GUI for the WinGet package manager
 
 Under consideration:
 
 * 7-Zip
 * HexChat
+* HWMonitor
 * Notepad++
 * Paint.NET
 * Prime95
