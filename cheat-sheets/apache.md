@@ -1,5 +1,7 @@
 # Apache
 
+[Digital Ocean tutorial for Virtual Hosts](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-18-04).
+
 Enable site:`sudo a2ensite SITENAME`
 
 Disable site:`sudo a2dissite SITENAME`
@@ -21,7 +23,9 @@ chown -R www-data:www-data /folder/
 chmod +r /folder
 ```
 
-Virtual Host:
+Virtual hosts directory: `/etc/apache2/sites-available/`
+
+Virtual Host sample file:
 
 ```text
 <VirtualHost *:80>
