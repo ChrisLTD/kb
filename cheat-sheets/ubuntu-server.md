@@ -28,7 +28,7 @@ To make SSH use the Google Authenticator PAM module, add the following line to t
 auth required pam_google_authenticator.so
 ```
 
-Also, so we don't get asked for a password, and instead use our SSH key for auth, comment out this line:
+Also, so we don't get asked for a password, and instead use our SSH key for auth, comment out the line `@include common-auth`:
 ```
 #@include common-auth
 ```
