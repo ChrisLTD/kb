@@ -68,6 +68,42 @@ sudo systemctl restart sshd.service
 
 Digital Ocean, start with [LAMP app](https://marketplace.digitalocean.com/apps/lamp), otherwise follow [these instructions](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04) to get LAMP going.
 
+Download WordPress, and setup the WP Config and Htaccess files:
+
+```
+cd /tmp
+curl -O https://wordpress.org/latest.tar.gz
+tar xzvf latest.tar.gz
+touch /tmp/wordpress/.htaccess
+cp /tmp/wordpress/wp-config-sample.php /tmp/wordpress/wp-config.php
+mkdir /tmp/wordpress/wp-content/upgrade
+```
+ 
+Now, we copy the contents of the WordPress temp directory to our Apache2 site. We are using a dot at the end of our source directory to indicate that everything within the directory should be copied, including hidden files:`
+sudo cp -a /tmp/wordpress/. /var/www/MY_DIR`
+
+Update the ownership with the chown and chmod commands.
+```
+sudo chown -R www-data:www-data /var/www/MY_DIR
+sudo find /var/www/MY_DIR/ -type d -exec chmod 750 {} \;
+sudo find /var/www/MY_DIR/ -type f -exec chmod 640 {} \;
+```
+
+Login to MYSQL:`
+$ mysql -u USERNAME -pPASSWORD
+`
+
+Create a MySQL database and user (note these instructions will give the resulting user access to all databases):
+```
+CREATE DATABASE databasename;
+CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'password';
+GRANT ALL PRIVILEGES ON * . * TO 'newuser'@'localhost';
+FLUSH PRIVILEGES;
+```
+
+Update the `wp-config.php` file to reference your new database and user name. Also update the SALT values.
+
+Visit the site in your browser to finish the installation.
 
 
 ### [Installing Rails](https://gorails.com/setup/ubuntu/16.04)
