@@ -23,9 +23,15 @@ grep "Accepted" /var/log/auth.log
 Start a terminal session and type:`
 sudo apt install libpam-google-authenticator
 `
-To make SSH use the Google Authenticator PAM module, add the following line to the `/etc/pam.d/sshd` file:`
+To make SSH use the Google Authenticator PAM module, add the following line to the `/etc/pam.d/sshd` file:
+```
 auth required pam_google_authenticator.so
-`
+```
+
+Also, so we don't get asked for a password, and instead use our SSH key for auth, comment out this line:
+```
+#@include common-auth
+```
 
 Modify `/etc/ssh/sshd_config` – change `ChallengeResponseAuthentication` from no to yes, so this part of the file looks like this:
 ```
@@ -57,6 +63,12 @@ Store the 2FA stuff in your favorite auth manager, and keep a copy of the recove
 Restart the sshd daemon using:`
 sudo systemctl restart sshd.service
 `
+
+### [Installing WordPress](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-on-ubuntu-20-04-with-a-lamp-stack)
+
+Digital Ocean, start with [LAMP app](https://marketplace.digitalocean.com/apps/lamp), otherwise follow [these instructions](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04) to get LAMP going.
+
+
 
 ### [Installing Rails](https://gorails.com/setup/ubuntu/16.04)
 
