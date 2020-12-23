@@ -14,6 +14,50 @@ Verify SSH key connection, then disable password entry on remote server:`vim /et
 
 Then change `PasswordAuthentication` from `yes` to `no`, save the file, and finally restart SSH:`sudo systemctl restart sshd`
 
+Check recent SSH logins:`
+grep "Accepted" /var/log/auth.log
+`
+
+### [Setup](https://developer.ibm.com/devpractices/devops/blogs/two-factor-authentication-for-ssh/) [2FA](https://www.digitalocean.com/community/tutorials/how-to-set-up-multi-factor-authentication-for-ssh-on-ubuntu-16-04) [for SSH](https://ubuntu.com/tutorials/configure-ssh-2fa#1-overview)
+
+Start a terminal session and type:`
+sudo apt install libpam-google-authenticator
+`
+To make SSH use the Google Authenticator PAM module, add the following line to the `/etc/pam.d/sshd` file:`
+auth required pam_google_authenticator.so
+`
+
+Modify `/etc/ssh/sshd_config` – change `ChallengeResponseAuthentication` from no to yes, so this part of the file looks like this:
+```
+# Change to yes to enable challenge-response passwords (beware issues with
+# some PAM modules and threads)
+ChallengeResponseAuthentication no # CHANGE THIS TO YES
+
+# Change to no to disable tunnelled clear text passwords
+#PasswordAuthentication yes
+```
+
+Then add this to the same `/etc/ssh/sshd_config` file:`
+AuthenticationMethods publickey,keyboard-interactive
+`
+
+In a terminal, run the `google-authenticator` command.
+
+It will ask you a series of questions, here is a recommended configuration:
+
+* Make tokens “time-base””: yes
+* Update the .google_authenticator file: yes
+* Disallow multiple uses: yes
+* Increase the original generation time limit: no
+* Enable rate-limiting: yes
+
+Store the 2FA stuff in your favorite auth manager, and keep a copy of the recovery codes.
+
+
+Restart the sshd daemon using:`
+sudo systemctl restart sshd.service
+`
+
 ### [Installing Rails](https://gorails.com/setup/ubuntu/16.04)
 
 Install Ruby dependencies:`sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties libffi-dev nodejs`
