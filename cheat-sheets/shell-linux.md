@@ -40,3 +40,5 @@ Process list:`ps aux`
 
 Root process list:`ps -u root`
 
+Check memory usage in megabytes:`free -m`
+
