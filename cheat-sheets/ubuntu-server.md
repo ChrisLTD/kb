@@ -1,6 +1,6 @@
 # Ubuntu Server
 
-### [Securing new server](https://www.linode.com/docs/security/securing-your-server)
+## [Securing new server](https://www.linode.com/docs/security/securing-your-server)
 
 On remote server install [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page):`sudo apt-get update && sudo apt-get install fail2ban`
 
@@ -14,27 +14,25 @@ Verify SSH key connection, then disable password entry on remote server:`vim /et
 
 Then change `PasswordAuthentication` from `yes` to `no`, save the file, and finally restart SSH:`sudo systemctl restart sshd`
 
-Check recent SSH logins:`
-grep "Accepted" /var/log/auth.log
-`
+Check recent SSH logins:`grep "Accepted" /var/log/auth.log`
 
-### [Setup](https://developer.ibm.com/devpractices/devops/blogs/two-factor-authentication-for-ssh/) [2FA](https://www.digitalocean.com/community/tutorials/how-to-set-up-multi-factor-authentication-for-ssh-on-ubuntu-16-04) [for SSH](https://ubuntu.com/tutorials/configure-ssh-2fa#1-overview)
+## [Setup](https://developer.ibm.com/devpractices/devops/blogs/two-factor-authentication-for-ssh/) [2FA](https://www.digitalocean.com/community/tutorials/how-to-set-up-multi-factor-authentication-for-ssh-on-ubuntu-16-04) [for SSH](https://ubuntu.com/tutorials/configure-ssh-2fa#1-overview)
 
-Start a terminal session and type:`
-sudo apt install libpam-google-authenticator
-`
-To make SSH use the Google Authenticator PAM module, add the following line to the `/etc/pam.d/sshd` file:
-```
+Start a terminal session and type:`sudo apt install libpam-google-authenticator` To make SSH use the Google Authenticator PAM module, add the following line to the `/etc/pam.d/sshd` file:
+
+```text
 auth required pam_google_authenticator.so
 ```
 
 Also, so we don't get asked for a password, and instead use our SSH key for auth, comment out the line `@include common-auth`:
-```
+
+```text
 #@include common-auth
 ```
 
 Modify `/etc/ssh/sshd_config` – change `ChallengeResponseAuthentication` from no to yes, so this part of the file looks like this:
-```
+
+```text
 # Change to yes to enable challenge-response passwords (beware issues with
 # some PAM modules and threads)
 ChallengeResponseAuthentication no # CHANGE THIS TO YES
@@ -43,34 +41,29 @@ ChallengeResponseAuthentication no # CHANGE THIS TO YES
 #PasswordAuthentication yes
 ```
 
-Then add this to the same `/etc/ssh/sshd_config` file:`
-AuthenticationMethods publickey,keyboard-interactive
-`
+Then add this to the same `/etc/ssh/sshd_config` file:`AuthenticationMethods publickey,keyboard-interactive`
 
 In a terminal, run the `google-authenticator` command.
 
 It will ask you a series of questions, here is a recommended configuration:
 
 * Make tokens “time-base””: yes
-* Update the .google_authenticator file: yes
+* Update the .google\_authenticator file: yes
 * Disallow multiple uses: yes
 * Increase the original generation time limit: no
 * Enable rate-limiting: yes
 
 Store the 2FA stuff in your favorite auth manager, and keep a copy of the recovery codes.
 
+Restart the sshd daemon using:`sudo systemctl restart sshd.service`
 
-Restart the sshd daemon using:`
-sudo systemctl restart sshd.service
-`
-
-### [Installing WordPress](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-on-ubuntu-20-04-with-a-lamp-stack)
+## [Installing WordPress](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-on-ubuntu-20-04-with-a-lamp-stack)
 
 Digital Ocean, start with [LAMP app](https://marketplace.digitalocean.com/apps/lamp), otherwise follow [these instructions](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04) to get LAMP going.
 
 Download WordPress, and setup the WP Config and Htaccess files:
 
-```
+```text
 cd /tmp
 curl -O https://wordpress.org/latest.tar.gz
 tar xzvf latest.tar.gz
@@ -78,23 +71,22 @@ touch /tmp/wordpress/.htaccess
 cp /tmp/wordpress/wp-config-sample.php /tmp/wordpress/wp-config.php
 mkdir /tmp/wordpress/wp-content/upgrade
 ```
- 
-Now, we copy the contents of the WordPress temp directory to our Apache2 site. We are using a dot at the end of our source directory to indicate that everything within the directory should be copied, including hidden files:`
-sudo cp -a /tmp/wordpress/. /var/www/MY_DIR`
+
+Now, we copy the contents of the WordPress temp directory to our Apache2 site. We are using a dot at the end of our source directory to indicate that everything within the directory should be copied, including hidden files:`sudo cp -a /tmp/wordpress/. /var/www/MY_DIR`
 
 Update the ownership with the chown and chmod commands.
-```
+
+```text
 sudo chown -R www-data:www-data /var/www/MY_DIR
 sudo find /var/www/MY_DIR/ -type d -exec chmod 750 {} \;
 sudo find /var/www/MY_DIR/ -type f -exec chmod 640 {} \;
 ```
 
-Login to MYSQL:`
-$ mysql -u USERNAME -pPASSWORD
-`
+Login to MYSQL:`$ mysql -u USERNAME -pPASSWORD`
 
-Create a MySQL database and user (note these instructions will give the resulting user access to all databases):
-```
+Create a MySQL database and user \(note these instructions will give the resulting user access to all databases\):
+
+```text
 CREATE DATABASE databasename;
 CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'password';
 GRANT ALL PRIVILEGES ON * . * TO 'newuser'@'localhost';
@@ -105,8 +97,7 @@ Update the `wp-config.php` file to reference your new database and user name. Al
 
 Visit the site in your browser to finish the installation.
 
-
-### [Installing Rails](https://gorails.com/setup/ubuntu/16.04)
+## [Installing Rails](https://gorails.com/setup/ubuntu/16.04)
 
 Install Ruby dependencies:`sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties libffi-dev nodejs`
 
