@@ -6,20 +6,24 @@ I get whole bean coffee delivered every couple weeks from [Counter Culture](http
 
 ### My AeroPress recipe
 
-1. Run the rubber plunger side of the AeroPress under water \(this makes the last step a bit smoother\).
+1. Run the rubber plunger side of the AeroPress under water \(this makes pressing the plunger smoother\).
 2. Pour 2.5 tablespoon \(18 grams\) of beans measured with the [scoop from AeroPress](https://aeropress.com/product/scoop/) for each cup in my [Baratza Encore grinder](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US). 
 3. Grind the beans on the 11 setting on the Baratza Encore.
-4. Boil about 10 oz / 280 g water on the stove top using a kettle \([mine is this glass model](https://www.amazon.com/CAF%C3%89-BREW-COLLECTION-Stovetop-Whistling/dp/B013JM253U/ref=as_li_ss_tl?dchild=1&keywords=glass+kettle&qid=1591909317&sr=8-2&linkCode=ll1&tag=chrisltd-20&linkId=516c42e37ea40e28e72143dcce080c10&language=en_US)\).
+4. Boil about 10 oz / 280 g of water \(you'll be using 230 g\)
+
+    on the stove top using a kettle \([mine is this glass model](https://www.amazon.com/CAF%C3%89-BREW-COLLECTION-Stovetop-Whistling/dp/B013JM253U/ref=as_li_ss_tl?dchild=1&keywords=glass+kettle&qid=1591909317&sr=8-2&linkCode=ll1&tag=chrisltd-20&linkId=516c42e37ea40e28e72143dcce080c10&language=en_US)\).
+
 5. After the water is boiled, wet the paper filter in the AeroPress with a few drops. I also warm up my mug by putting some hot water in the mug and pouring it out after a few seconds.
 6. Screw the filter and cap on the AeroPress, place on the mug, and pour in the ground coffee.
 7. Pour splash of hot water \(about 20 g\)  into the AeroPress \(if the beans are super fresh, you should see some [bloom](https://theroasterspack.com/blogs/news/13758377-what-is-the-bloom-and-why-should-you-care#:~:text=The%20bloom%20is%20the%20part,begins%20the%20brewing%2Fextraction%20process.)\), tamp down with your AeroPress stirrer or the bottom of a wooden spoon.
 8. Wait 30 seconds.
 9. Pour in more hot water until it reaches the top of the 4 mark on the side of the AeroPress. If you're weighing, use a total of 230 g of water.
-10. Wait 60 seconds.
-11. Stir the coffee ~10 times with your stirrer or spoon.
-12. Press the plunger down on the AeroPress until it reaches the bottom.
-13. Take off the cap, and eject the used coffee grinds into the garbage.
-14. Enjoy!
+10. Optional: If you find that too much brewed coffee is draining during the 60 seconds,  press the plunger in the top just a bit then pull back up to create a vacuum and stop the draining.
+11. Wait 60 seconds.
+12. Stir the coffee ~10 times with your stirrer or spoon.
+13. Press the plunger down on the AeroPress until it reaches the bottom.
+14. Take off the cap, and eject the used coffee grinds into the garbage.
+15. Enjoy!
 
 If you're curious about the AeroPress, the official site has pretty good instructions and some videos you can [check out](https://aeropress.com/use-it-now/getting-started/).
 
