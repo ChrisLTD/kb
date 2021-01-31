@@ -2,6 +2,10 @@
 
 * [Chris Johnson's KB](README.md)
 
+## Meta
+
+* [Pages to Add](meta/pages-to-add.md)
+
 ## Cheat Sheets
 
 * [Docker](cheat-sheets/docker.md)
@@ -29,11 +33,11 @@
 * [Podcasting](workflows/podcasting.md)
 * [Coffee](workflows/coffee.md)
 
-## Gaming
-
-* [Rocket League](gaming/rocket-league.md)
-
 ## Hardware
 
 * [Dell U2720Q Monitor](hardware/dell-u2720q.md)
+
+## Gaming
+
+* [Rocket League](gaming/rocket-league.md)
 
