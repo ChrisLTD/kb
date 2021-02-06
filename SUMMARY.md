@@ -36,6 +36,7 @@
 ## Hardware
 
 * [Dell U2720Q Monitor](hardware/dell-u2720q.md)
+* [Apple Silicon Macs](hardware/apple-silicon-macs.md)
 
 ## Gaming
 
