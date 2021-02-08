@@ -21,8 +21,8 @@ I've left default Apple apps off this list \(like Calendar, and Music\), but I u
 * [HazeOver](https://apps.apple.com/us/app/hazeover-distraction-dimmer/id430798174?mt=12) - Darken inactive windows
 * [ImageOptim](https://imageoptim.com/mac) - Batch compress images
 * [IntelliJ](https://www.jetbrains.com/idea/) - IDE for web project
-* [iStat Menus](https://bjango.com/mac/istatmenus/) - Keep track of runaway apps
 * [Keyboard Maestro](https://www.keyboardmaestro.com/) - Text snippets, and OS automation
+* [MenuBar Stats](https://apps.apple.com/us/app/menubar-stats/id714196447?mt=12) - Keep track of runaway apps
 * [Microsoft Edge](https://www.microsoft.com/en-us/edge) - Gives me the same dev tools as Google Chrome
 * [Moom](https://manytricks.com/moom/) - Window management
 * [Music Converter Pro](https://apps.apple.com/us/app/music-converter-pro/id468990782?mt=12) - Convert audio files
@@ -49,7 +49,7 @@ I've left default Apple apps off this list \(like Calendar, and Music\), but I u
 
 ### Apps to Consider
 
-* [MenuBar Stats](https://apps.apple.com/us/app/menubar-stats/id714196447?mt=12) - Keep track of runaway apps
+* [iStat Menus](https://bjango.com/mac/istatmenus/) - Keep track of runaway apps
 * [LuLu](https://github.com/objective-see/LuLu) - Open Source LittleSnitch alternative, blocks outgoing apps
 * [Hidden](https://github.com/dwarvesf/hidden) - Open Source bartender alternative
 * [Timer](https://github.com/Zeqiang-Lai/Timer-APP) - Open Source timer app
@@ -60,6 +60,7 @@ I've left default Apple apps off this list \(like Calendar, and Music\), but I u
 * [VimMotion](https://github.com/dwarvesf/VimMotionApp) - Vim like keyboard nav for Mac
 * [Blurred](https://github.com/dwarvesf/Blurred) - Open Source alternative to HazeOver
 * Parallels -Virtual Machines
+* Time Out - Take breaks
 
 ### Retired Apps
 
@@ -77,6 +78,15 @@ I've left default Apple apps off this list \(like Calendar, and Music\), but I u
 * 1Password Global - Cmd Shit \
 
 _\(KM\): Custom Keyboard Maestro shortcut_
+
+### References
+
+* [https://github.com/nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os)
+* [https://github.com/serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
+* [https://github.com/learn-anything/macos-apps](https://github.com/learn-anything/macos-apps)
+* [https://github.com/jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+
+
 
 
 
