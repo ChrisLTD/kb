@@ -25,5 +25,10 @@ Moving to a new Mac takes some time. These are the steps I usually take when upg
 21. Enable Watch Unlock under System Prefs / S
 22. Review your startup items. I had to add Rest, and BeFocused Pro to my list of startup apps
 23. Get an empty disk, and create a new Time Machine backup
-24. Open up Backblaze and have it inherit the backup state from your last computer  
+24. Open up Backblaze and have it inherit the backup state from your last computer
+25. Give Backblaze full disk permissions
+
+  
+  
+
 
