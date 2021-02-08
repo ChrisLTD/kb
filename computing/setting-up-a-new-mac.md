@@ -24,9 +24,10 @@ Moving to a new Mac takes some time. These are the steps I usually take when upg
 20. Set up Dropbox, you don't have to give it accessibility permissions
 21. Enable Watch Unlock under System Prefs / S
 22. Review your startup items. I had to add Rest, and BeFocused Pro to my list of startup apps
-23. Get an empty disk, and create a new Time Machine backup
-24. Open up Backblaze and have it inherit the backup state from your last computer
-25. Give Backblaze full disk permissions
+23. On your iPhone setup Text Message Forwarding to new Mac
+24. Get an empty disk, and create a new Time Machine backup
+25. Open up Backblaze and have it inherit the backup state from your last computer
+26. Give Backblaze full disk permissions
 
   
   
