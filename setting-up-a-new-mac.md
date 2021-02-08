@@ -7,8 +7,7 @@ description: >-
 # Setting up a new Mac
 
 1. Run Time Machine on the computer you're replacing 
-2. 
-2.Boot up the new computer and use Migration Assistant to load up your new computer with the contents of the Time Machine backup  
+2. Boot up the new computer and use Migration Assistant to load up your new computer with the contents of the Time Machine backup  
 3. Now that you're booted into your new system it's time to test out your machine.  
 4. But first, you'll need to re-sign into your Apple account in System Prefs under Apple ID. \(The system will likely nag you to do this\)  
 5. Use DirEqual to compare a few of your key document folders to your Time Machine backup to make sure Migration Assistant worked properly.  
