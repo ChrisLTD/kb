@@ -17,10 +17,11 @@ Moving to a new Mac takes some time. These are the steps I usually take when upg
 13. Run Geekbench to see if you're getting advertised performance
 14. Use [Speedtest.net](http://speedtest.net/) to see if your Wifi is OK
 15. If you've gotten to this point, your new computer Your computer is ready to use and configure!
-16. Rename your computer in System Prefs / Sharing
-17. Add any additional fingers to Touch ID prefs if your system has Touch ID.
-18. Login in to your password manager \(LastPass, 1Password, etc.\). This should help with the other steps.
-19. Set up Dropbox, you don't have to give it accessibility permissions
-20. Get an empty disk, and create a new Time Machine backup
-21. Open up Backblaze and have it inherit the backup state from your last computer  
+16. Setup your internal and external keyboards so that Caps Lock is set to Esc. Also setup any Windows keyboards so Alt is Cmd and the Win Key is Option.
+17. Rename your computer in System Prefs / Sharing
+18. Add any additional fingers to Touch ID prefs if your system has Touch ID.
+19. Login in to your password manager \(LastPass, 1Password, etc.\). This should help with the other steps.
+20. Set up Dropbox, you don't have to give it accessibility permissions
+21. Get an empty disk, and create a new Time Machine backup
+22. Open up Backblaze and have it inherit the backup state from your last computer  
 
