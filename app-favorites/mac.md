@@ -6,10 +6,10 @@ I've left default Apple apps off this list \(like Calendar, and Music\), but I u
 * [Acorn](https://flyingmeat.com/acorn/) - Image editor
 * [Arq Backup](https://www.arqbackup.com/) - Backup archived files to B2 or S3
 * [Backblaze](https://www.backblaze.com/) - Backup entire computer
-* [Bartender](https://www.macbartender.com/) - Organize Mac menu bar
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Lightweight text editor
 * [Be Focused Pro](https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517?mt=12) - Pomodoro timer
 * [CodeRunner](https://coderunnerapp.com/) - Playground for different programming languages
+* Creative Cloud - I use this just for Photoshop.
 * [DaisyDisk](https://daisydiskapp.com/) - Helps cleanup old files
 * [Dropbox](https://www.dropbox.com/) - Sync files
 * [Encrypt.me](https://encrypt.me/) - VPN
@@ -29,6 +29,7 @@ I've left default Apple apps off this list \(like Calendar, and Music\), but I u
 * [Piezo](https://rogueamoeba.com/piezo/) - Record audio
 * [Reeder](https://reederapp.com/) - RSS reader
 * [Rest](https://apps.apple.com/us/app/rest/id661067914?mt=12) - Make yourself to take screen breaks
+* [RH Timers](https://apps.apple.com/us/app/rh-timer-manage-your-time/id929960914?mt=12) - Until Siri can do timers
 * [Scrutiny](https://peacockmedia.software/mac/scrutiny/) - Check links for websites
 * [Sequel Pro](https://www.sequelpro.com/) - GUI for MySQL
 * [Soulver](https://acqualia.com/soulver/) - A better calculator
@@ -43,4 +44,25 @@ I've left default Apple apps off this list \(like Calendar, and Music\), but I u
 * [Viscosity](https://www.sparklabs.com/viscosity/) - OpenVPN client
 * [Visual Studio Code](https://code.visualstudio.com/) - Light code text editor
 * [XScope](https://xscopeapp.com/) - Measure things on screen
+
+### Apps to Consider
+
+* [MenuBar Stats](https://apps.apple.com/us/app/menubar-stats/id714196447?mt=12) - Keep track of runaway apps
+* [LuLu](https://github.com/objective-see/LuLu) - Open Source LittleSnitch alternative, blocks outgoing apps
+* [Hidden](https://github.com/dwarvesf/hidden) - Open Source bartender alternative
+* [Timer](https://github.com/Zeqiang-Lai/Timer-APP) - Open Source timer app
+* [SwiftBar](https://github.com/swiftbar/SwiftBar) - Put the results of scripts in your menu bar
+* [CleanShot X](https://cleanshot.com) - Screenshot tool
+* [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - Inspect MacOS installers
+* [Mouseless](https://mouseless.app) - Keyboard shortcut trainer
+* [VimMotion](https://github.com/dwarvesf/VimMotionApp) - Vim like keyboard nav for Mac
+* [Blurred](https://github.com/dwarvesf/Blurred) - Open Source alternative to HazeOver
+* Parallels -Virtual Machines
+
+### Retired Apps
+
+* [Bartender](https://www.macbartender.com/) - Organize Mac menu bar
+* Virtual Box - X86 virtual machines
+
+
 
