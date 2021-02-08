@@ -22,6 +22,7 @@ Moving to a new Mac takes some time. These are the steps I usually take when upg
 18. Add any additional fingers to Touch ID prefs if your system has Touch ID.
 19. Login in to your password manager \(LastPass, 1Password, etc.\). This should help with the other steps.
 20. Set up Dropbox, you don't have to give it accessibility permissions
-21. Get an empty disk, and create a new Time Machine backup
-22. Open up Backblaze and have it inherit the backup state from your last computer  
+21. Enable Watch Unlock under System Prefs / S
+22. Get an empty disk, and create a new Time Machine backup
+23. Open up Backblaze and have it inherit the backup state from your last computer  
 

@@ -71,7 +71,7 @@ I've left default Apple apps off this list \(like Calendar, and Music\), but I u
 * Dictation - Double Tap Right Command 
 * Siri - Hold Opt Space 
 * Keyboard Maestro Macro - Ctrl Opt Cmd T
-* Put Display to Sleep \(KM\) - Ctrl Shift Esc 
+* Lock Screen / Put Display to Sleep - Ctrl Shift Q 
 * Clipboard History \(KM\) - Ctrl Opt Cmd V 
 * 1Password Autofill - Cmd  
 * 1Password Global - Cmd Shit \
