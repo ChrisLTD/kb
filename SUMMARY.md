@@ -32,6 +32,7 @@
 
 * [Podcasting](workflows/podcasting.md)
 * [Coffee](workflows/coffee.md)
+* [Setting up a new Mac](workflows/setting-up-a-new-mac.md)
 
 ## Hardware
 
@@ -41,8 +42,4 @@
 ## Gaming
 
 * [Rocket League](gaming/rocket-league.md)
-
----
-
-* [Setting up a new Mac](setting-up-a-new-mac.md)
 
