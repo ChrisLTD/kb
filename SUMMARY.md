@@ -42,3 +42,7 @@
 
 * [Rocket League](gaming/rocket-league.md)
 
+---
+
+* [Setting up a new Mac](setting-up-a-new-mac.md)
+
