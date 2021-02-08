@@ -1,5 +1,7 @@
 # Mac
 
+### App Favorites
+
 I've left default Apple apps off this list \(like Calendar, and Music\), but I use those as well.
 
 * [1Password](https://1password.com/) - Password vault
@@ -63,6 +65,18 @@ I've left default Apple apps off this list \(like Calendar, and Music\), but I u
 
 * [Bartender](https://www.macbartender.com/) - Organize Mac menu bar
 * Virtual Box - X86 virtual machines
+
+### Keyboard shortcuts of note
+
+* Dictation - Double Tap Right Command 
+* Siri - Hold Opt Space 
+* Keyboard Maestro Macro - Ctrl Opt Cmd T
+* Put Display to Sleep \(KM\) - Ctrl Shift Esc 
+* Clipboard History \(KM\) - Ctrl Opt Cmd V 
+* 1Password Autofill - Cmd  
+* 1Password Global - Cmd Shit \
+
+_\(KM\): Custom Keyboard Maestro shortcut_
 
 
 

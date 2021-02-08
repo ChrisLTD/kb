@@ -2,7 +2,7 @@
 description: Browser plugins and extensions
 ---
 
-# Browser
+# Browser Apps
 
 ### Cross browser
 

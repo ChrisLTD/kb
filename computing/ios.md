@@ -1,5 +1,7 @@
 # iOS
 
+### App Favorites
+
 I've left default Apple apps off this list \(like Calendar, and Music\), but I use those as well.
 
 * [1Blocker](https://apps.apple.com/us/app/1blocker-for-safari/id1365531024) - Content blocker

@@ -20,13 +20,13 @@
 * [Ubuntu Server](cheat-sheets/ubuntu-server.md)
 * [Vim](cheat-sheets/vim.md)
 
-## App Favorites
+## Computing
 
-* [Windows](app-favorites/windows.md)
-* [Mac](app-favorites/mac.md)
-* [ChromeOS](app-favorites/chromeos.md)
-* [iOS](app-favorites/ios.md)
-* [Browser](app-favorites/browser.md)
+* [Windows](computing/windows.md)
+* [Mac](computing/mac.md)
+* [ChromeOS](computing/chromeos.md)
+* [iOS](computing/ios.md)
+* [Browser Apps](computing/browser.md)
 
 ## Workflows
 
