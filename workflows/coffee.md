@@ -50,9 +50,10 @@ I'm using this 3 cup [Bialeltti Moka pot](https://www.amazon.com/Original-Bialet
 6. Put the pot on your smallest burner, and turn it to medium heat or whatever just covers the bottom with flame.
 7. Open the top of the Moka pot so you can monitor the brewing
 8. After the coffee starts coming out, turn the heat down low. 
-9. Eventually it will start gurgling and the coffee coming out of the spout will look more watery. Once this happens, close the lid, take the pot off for the flame. Alternatively, if you're OK with less volume of coffee, take it off the heat as soon as the brewed coffee crosses the bottom of the V of the pouring spout.
-10. Pour your coffee into a mug and enjoy.
-11. Once the Moka Part is cool enough, take it apart, rinse the inside with warm water, and dry it with a towel or paper towel. Let it completely air dry before putting it back together and storing it.
+9. Close the lid and take it off the heat as soon as the brewed coffee passes the bottom of the V of the pouring spout. That's about a third the way up on my 3 cup model.
+10. The Moka pot will still be pretty hot and continue to brew. Wait for it to finish. 
+11. Pour your coffee into a mug and enjoy.
+12. Once the Moka Part is cool enough, take it apart, rinse the inside with warm water, and dry it with a towel or paper towel. Let it completely air dry before putting it back together and storing it.
 
 ### My Hario V60 Recipe
 
