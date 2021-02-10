@@ -15,15 +15,14 @@ I get whole bean coffee delivered every couple weeks from [Counter Culture](http
 
 5. After the water is boiled, wet the paper filter in the AeroPress with a few drops. I also warm up my mug by putting some hot water in the mug and pouring it out after a few seconds.
 6. Screw the filter and cap on the AeroPress, place on the mug, and pour in the ground coffee.
-7. Pour splash of hot water \(about 20 g\)  into the AeroPress \(if the beans are super fresh, you should see some [bloom](https://theroasterspack.com/blogs/news/13758377-what-is-the-bloom-and-why-should-you-care#:~:text=The%20bloom%20is%20the%20part,begins%20the%20brewing%2Fextraction%20process.)\), tamp down with your AeroPress stirrer or the bottom of a wooden spoon.
-8. Wait 30 seconds.
-9. Pour in more hot water until it reaches the top of the 4 mark on the side of the AeroPress. If you're weighing, use a total of 230 g of water.
-10. Optional: If you find that too much brewed coffee is draining during the 60 seconds,  press the plunger in the top just a bit then pull back up to create a vacuum and stop the draining.
-11. Wait 60 seconds.
-12. Stir the coffee ~10 times with your stirrer or spoon.
-13. Press the plunger down on the AeroPress until it reaches the bottom.
-14. Take off the cap, and eject the used coffee grinds into the garbage.
-15. Enjoy!
+7. Slowly pour in 230 g of the hot water.
+8. Stir inside the vessel to make sure all the grounds are saturated.
+9. Press the plunger in the top just a bit then pull back up to create a vacuum and stop the draining.
+10. Wait 90 seconds.
+11. Slowly press the plunger down on the AeroPress until it reaches the bottom.
+12. Take off the cap, and eject the used coffee grinds into the garbage.
+13. Stir your coffee.
+14. Enjoy!
 
 If you're curious about the AeroPress, the official site has pretty good instructions and some videos you can [check out](https://aeropress.com/use-it-now/getting-started/).
 
