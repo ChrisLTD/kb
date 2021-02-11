@@ -77,6 +77,7 @@ Turn on power off button on login screen:
 * [Install WSL 2 in Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 * [WSL 2 with Visual Studio Code](https://code.visualstudio.com/blogs/2019/09/03/wsl2)
 * [Hanselman's 2021 Ultimate Developer and Power Users Tool List for Windows](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
+* [Switching to Windows](http://ignorethecode.net/blog/2021/02/02/switching_to_windows/)
 
 
 
