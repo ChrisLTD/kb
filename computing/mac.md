@@ -79,6 +79,27 @@ I've left default Apple apps off this list \(like Calendar, and Music\), but I u
 
 _\(KM\): Custom Keyboard Maestro shortcut_
 
+### Backup Exclusions
+
+#### Time Machine
+
+* ~/.dropbox
+* ~/Dropbox/.dropbox
+* ~/Dropbox/.dropbox.cache
+* Library/Containers/com.docker.docker
+* docker.driver.amd64-linux/Docker.raw
+* Developer/Xcode/iOS DeviceSupport
+* Developer/Xcode/watchOS DeviceSupport
+
+#### Backblaze
+
+* Library/Containers/com.docker.docker
+* Library/Application support/nvidia
+* docker.driver.amd64-linux/Docker.raw
+* Developer/coresimulator
+* Developer/Xcode/iOS DeviceSupport
+* Developer/Xcode/watchOS DeviceSupport
+
 ### References
 
 * [https://github.com/nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os)
