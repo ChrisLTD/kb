@@ -37,6 +37,7 @@
 ## Hardware
 
 * [Dell U2720Q Monitor](hardware/dell-u2720q.md)
+* [Moonlander Keyboard](hardware/moonlander-keyboard.md)
 * [Apple Silicon Macs](hardware/apple-silicon-macs.md)
 
 ## Gaming
