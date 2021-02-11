@@ -22,10 +22,10 @@
 
 ## Computing
 
-* [Windows](computing/windows.md)
 * [Mac](computing/mac.md)
-* [ChromeOS](computing/chromeos.md)
 * [iOS](computing/ios.md)
+* [ChromeOS](computing/chromeos.md)
+* [Windows](computing/windows.md)
 * [Browser Apps](computing/browser.md)
 * [Setting up a new Mac](computing/setting-up-a-new-mac.md)
 
