@@ -28,6 +28,7 @@
 * [Windows](computing/windows.md)
 * [Browser Apps](computing/browser.md)
 * [Setting up a new Mac](computing/setting-up-a-new-mac.md)
+* [RSI Prevention](computing/rsi-prevention.md)
 
 ## Workflows
 
