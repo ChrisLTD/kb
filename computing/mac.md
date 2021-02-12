@@ -86,7 +86,8 @@ _\(KM\): Custom Keyboard Maestro shortcut_
 
 2017 MacBook Pro \(about ~3 years of usage\):  
 Data Units Read:                    746,318,540 \[382 TB\]  
-Data Units Written:                 100,074,549 \[51.2 TB\]
+Data Units Written:                 100,074,549 \[51.2 TB\]  
+Power On Hours:                    1,349
 
 ### Backup Exclusions
 
