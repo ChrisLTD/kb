@@ -61,6 +61,7 @@ I've left default Apple apps off this list \(like Calendar, and Music\), but I u
 * [Blurred](https://github.com/dwarvesf/Blurred) - Open Source alternative to HazeOver
 * Parallels -Virtual Machines
 * Time Out - Take breaks
+* [LaunchControl](https://www.soma-zone.com/LaunchControl/) - Manage and debug system services
 
 ### Retired Apps
 
