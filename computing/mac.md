@@ -80,6 +80,10 @@ I've left default Apple apps off this list \(like Calendar, and Music\), but I u
 
 _\(KM\): Custom Keyboard Maestro shortcut_
 
+### Useful Terminal Commands
+
+Check disk stats like lifetime read and writes: `$ smartctl --all /dev/disk0`
+
 ### Backup Exclusions
 
 #### Time Machine
