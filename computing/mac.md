@@ -84,6 +84,10 @@ _\(KM\): Custom Keyboard Maestro shortcut_
 
 Check disk stats like lifetime read and writes: `$ smartctl --all /dev/disk0`
 
+2017 MacBook Pro \(about ~3 years of usage\):  
+Data Units Read:                    746,318,540 \[382 TB\]  
+Data Units Written:                 100,074,549 \[51.2 TB\]
+
 ### Backup Exclusions
 
 #### Time Machine
