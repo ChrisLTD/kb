@@ -101,6 +101,37 @@ _\(KM\): Custom Keyboard Maestro shortcut_
 * Developer/Xcode/iOS DeviceSupport
 * Developer/Xcode/watchOS DeviceSupport
 
+### Homebrew Packages
+
+Get list of top level packages with `$ brew leaves`
+
+* apr-util 
+* aspell 
+* autoconf 
+* awscli 
+* carthage 
+* cmake 
+* composer 
+* cputhrottle 
+* freetds 
+* glib 
+* gmp 
+* heroku/brew/heroku 
+* imagemagick 
+* libpq 
+* libsass 
+* libxslt 
+* libzip 
+* lynx 
+* mcrypt 
+* pkg-config 
+* python@3.9 
+* smartmontools 
+* unixodbc 
+* webp 
+* yajl
+* yarn
+
 ### References
 
 * [https://github.com/nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os)
