@@ -82,7 +82,7 @@ _\(KM\): Custom Keyboard Maestro shortcut_
 
 ### Useful Terminal Commands
 
-Check disk stats like lifetime read and writes: `$ smartctl --all /dev/disk0`
+[Check disk stats like lifetime read and writes](https://twitter.com/never_released/status/1358539964460511233): `$ smartctl --all /dev/disk0`
 
 2017 MacBook Pro \(about ~3 years of usage\):  
 Data Units Read:                    746,318,540 \[382 TB\]  
