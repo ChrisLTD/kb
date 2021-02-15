@@ -19,12 +19,17 @@ Run all development projects through Docker, a virtual machine, or a remote mach
 
 ### Resources
 
-* [https://blog.bitsrc.io/malicious-npm-development-kit-a02401e6537e](https://blog.bitsrc.io/malicious-npm-development-kit-a02401e6537e) 
+* [NPM Advisories](https://www.npmjs.com/advisories)
+* [NPM Security](https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities)
+* [MacOS security and privacy guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
+* [Docker for Mac](https://github.com/docker/for-mac)
+* [Using Node in Docker](https://www.docker.com/blog/keep-nodejs-rockin-in-docker/)
+* [Bundler Audit](https://github.com/rubysec/bundler-audit)
+
+### Malicious NPM packages
+
+* [https://blog.bitsrc.io/malicious-npm-development-kit-a02401e6537e](https://blog.bitsrc.io/malicious-npm-development-kit-a02401e6537e)
+* [https://www.twilio.com/blog/2017/08/find-projects-infected-by-malicious-npm-packages.html](https://www.twilio.com/blog/2017/08/find-projects-infected-by-malicious-npm-packages.html)
+* [https://news.ycombinator.com/item?id=17283394](https://news.ycombinator.com/item?id=17283394)
 * [https://www.google.com/amp/s/www.zdnet.com/google-amp/article/malicious-npm-packages-caught-installing-remote-access-trojans/](https://www.google.com/amp/s/www.zdnet.com/google-amp/article/malicious-npm-packages-caught-installing-remote-access-trojans/?authuser=0) 
-* [https://www.twilio.com/blog/2017/08/find-projects-infected-by-malicious-npm-packages.html](https://www.twilio.com/blog/2017/08/find-projects-infected-by-malicious-npm-packages.html) 
-* [https://www.docker.com/blog/keep-nodejs-rockin-in-docker/](https://www.docker.com/blog/keep-nodejs-rockin-in-docker/) 
-* [https://github.com/docker/for-mac](https://github.com/docker/for-mac) 
-* [https://github.com/drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) 
-* [https://github.com/rubysec/bundler-audit](https://github.com/rubysec/bundler-audit) 
-* [https://news.ycombinator.com/item?id=17283394](https://news.ycombinator.com/item?id=17283394) 
 
