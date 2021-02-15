@@ -25,6 +25,7 @@ Run all development projects through Docker, a virtual machine, or a remote mach
 * [Docker for Mac](https://github.com/docker/for-mac)
 * [Using Node in Docker](https://www.docker.com/blog/keep-nodejs-rockin-in-docker/)
 * [Bundler Audit](https://github.com/rubysec/bundler-audit)
+* [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/)
 
 ### Malicious NPM packages
 
