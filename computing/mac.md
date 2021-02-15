@@ -141,6 +141,13 @@ Get list of top level packages with `$ brew leaves`
 * yajl
 * yarn
 
+### Launchd services
+
+List non-apple services: `$ launchctl list | grep -v com.apple`  
+\(`-v` inverts the grep match\)
+
+[More info about launchd](https://www.launchd.info) from the maker of [LaunchControl](https://www.soma-zone.com/LaunchControl/).
+
 ### References
 
 * [https://github.com/nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os)

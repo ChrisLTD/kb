@@ -19,6 +19,7 @@
 * [SwiftUI](cheat-sheets/swiftui.md)
 * [Ubuntu Server](cheat-sheets/ubuntu-server.md)
 * [Vim](cheat-sheets/vim.md)
+* [Security Tools](cheat-sheets/security-tools.md)
 
 ## Computing
 
