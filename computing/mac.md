@@ -145,8 +145,10 @@ Get list of top level packages with `$ brew leaves`
 
 ### Launchd services
 
-List non-apple services: `$ launchctl list | grep -v com.apple`  
+List non-Apple services: `$ launchctl list | grep -v com.apple`  
 \(`-v` inverts the grep match\)
+
+[Remove service](https://osxdaily.com/2011/03/08/remove-an-agent-from-launchd/): `$ launchctl remove NameHere`
 
 [More info about launchd](https://www.launchd.info) from the maker of [LaunchControl](https://www.soma-zone.com/LaunchControl/).
 
