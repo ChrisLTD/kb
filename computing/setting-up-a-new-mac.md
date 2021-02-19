@@ -26,8 +26,10 @@ Moving to a new Mac takes some time. These are the steps I usually take when upg
 22. Review your startup items. I had to add Rest, and BeFocused Pro to my list of startup apps
 23. On your iPhone setup Text Message Forwarding to new Mac
 24. Get an empty disk, and create a new Time Machine backup
-25. Open up Backblaze and have it inherit the backup state from your last computer
-26. Give Backblaze full disk permissions
+25. [Uninstall Backblaze](https://help.backblaze.com/hc/en-us/articles/217666328-Uninstalling-Backblaze-Mac-Win-)
+26. Reinstall Backblaze
+27. Open up Backblaze and have it [inherit the backup state ](https://help.backblaze.com/hc/en-us/articles/217666358-Inherit-Backup-State)from your last computer
+28. Give Backblaze full disk permissions
 
   
   
