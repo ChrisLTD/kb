@@ -97,6 +97,12 @@ Update the `wp-config.php` file to reference your new database and user name. Al
 
 Visit the site in your browser to finish the installation.
 
+#### Additional PHP extensions
+
+One of the themes I use requires mbstring which you can install like this: `$ sudo apt install php-mbstring`
+
+ Then restart Apache: `$ sudo service apache2 restart`
+
 ## [Installing Rails](https://gorails.com/setup/ubuntu/16.04)
 
 Install Ruby dependencies:`sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties libffi-dev nodejs`
