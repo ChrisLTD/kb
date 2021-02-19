@@ -12,6 +12,8 @@ Enable an apache2 module:`sudo a2enmod MODULENAME`
 
 Disable an apache2 module:`sudo a2dismod MODULENAME`
 
+Enable mod rewrite: `sudo a2enmod rewrite`
+
 Reload server:`service apache2 reload`
 
 Force reload the server:`sudo /etc/init.d/apache2 force-reload`
