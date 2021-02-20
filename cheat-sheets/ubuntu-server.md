@@ -1,5 +1,9 @@
 # Ubuntu Server
 
+## General
+
+Check version: `$ cat /etc/lsb-release`
+
 ## [Securing new server](https://www.linode.com/docs/security/securing-your-server)
 
 On remote server install [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page):`sudo apt-get update && sudo apt-get install fail2ban`
