@@ -163,3 +163,14 @@ Setting up a project with PostgreSQL, you may need to edit `config/database.yml`
 
 Run Rails dev server so you can [access it remotely](https://stackoverflow.com/a/30723007/648844):`rails s -b 0.0.0.0`
 
+## Webpack
+
+Increase file watching limit:
+
+```text
+echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf
+sudo sysctl -p
+```
+
+
+
