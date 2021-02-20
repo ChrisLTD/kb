@@ -43,14 +43,14 @@ If you're curious about the AeroPress, the official site has pretty good instruc
 I'm using this 3 cup [Bialeltti Moka pot](https://www.amazon.com/Original-Bialetti-Moka-Express-Stovetop/dp/B0000CF3Q6/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B0000CF3Q6&pd_rd_r=824f42e9-fc1d-45bb-8488-93ea1e090787&pd_rd_w=AZjCe&pd_rd_wg=ZqKzL&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=Q5E29HG6XRSEX1AX4S9K&psc=1&refRID=Q5E29HG6XRSEX1AX4S9K&linkCode=ll1&tag=chrisltd-20&linkId=1a5a84cd47ea5008269747552da37b5d&language=en_US).
 
 1. Boil water
-2. Grind 17 grams of beans somewhere between espresso and medium grind. \(Setting 8 on the [Baratza Encore](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US)\)
+2. Grind 17 grams of beans somewhere between espresso and medium grind. \(Setting 10 on the [Baratza Encore](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US)\)
 3. Once the water is boiled, pour it into the bottom section of the Moka pot to right below the safety valve
 4. Put your ground coffee into the coffee basket. Don't tamp.
 5. Screw together the top and bottom of the Moka pot. Because you poured hot water into the bottom you'll likely need a towel or something to hold the bottom of the pot without burning yourself.
 6. Put the pot on your smallest burner, and turn it to medium heat or whatever just covers the bottom with flame.
 7. Open the top of the Moka pot so you can monitor the brewing
 8. After the coffee starts coming out, turn the heat down low. 
-9. Close the lid and take it off the heat as soon as the brewed coffee passes the bottom of the V of the pouring spout. That's about a third the way up on my 3 cup model.
+9. Close the lid and take it off the heat as soon as the brewed coffee just covers the bottom of the upper chamber.
 10. The Moka pot will still be pretty hot and continue to brew. Wait for it to finish. 
 11. Pour your coffee into a mug and enjoy.
 12. Once the Moka Part is cool enough, take it apart, rinse the inside with warm water, and dry it with a towel or paper towel. Let it completely air dry before putting it back together and storing it.
