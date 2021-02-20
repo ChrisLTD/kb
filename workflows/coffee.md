@@ -43,7 +43,7 @@ If you're curious about the AeroPress, the official site has pretty good instruc
 I'm using this 3 cup [Bialeltti Moka pot](https://www.amazon.com/Original-Bialetti-Moka-Express-Stovetop/dp/B0000CF3Q6/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B0000CF3Q6&pd_rd_r=824f42e9-fc1d-45bb-8488-93ea1e090787&pd_rd_w=AZjCe&pd_rd_wg=ZqKzL&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=Q5E29HG6XRSEX1AX4S9K&psc=1&refRID=Q5E29HG6XRSEX1AX4S9K&linkCode=ll1&tag=chrisltd-20&linkId=1a5a84cd47ea5008269747552da37b5d&language=en_US).
 
 1. Boil water
-2. Grind 17 grams of beans somewhere between espresso and medium grind. \(Setting 10 on the [Baratza Encore](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US)\)
+2. Grind 17 grams of beans somewhere between espresso and medium grind. \(Setting 12 on the [Baratza Encore](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US)\)
 3. Once the water is boiled, pour it into the bottom section of the Moka pot to right below the safety valve
 4. Put your ground coffee into the coffee basket. Don't tamp.
 5. Screw together the top and bottom of the Moka pot. Because you poured hot water into the bottom you'll likely need a towel or something to hold the bottom of the pot without burning yourself.
