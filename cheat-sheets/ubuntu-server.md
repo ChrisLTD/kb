@@ -172,5 +172,11 @@ echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf
 sudo sysctl -p
 ```
 
+## Firewall
 
+Check firewall status: `$ sudo ufw status`
+
+Allow port access \(port/protocal\): `$ ufw allow 8000/tcp` 
+
+Remove an allow rule: `$ ufw delete allow 8000/tcp`
 
