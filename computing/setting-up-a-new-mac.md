@@ -31,6 +31,7 @@ Moving to a new Mac takes some time. These are the steps I usually take when upg
 27. Reboot
 28. Open up Backblaze and have it [inherit the backup state ](https://help.backblaze.com/hc/en-us/articles/217666358-Inherit-Backup-State)from your last computer
 29. Give Backblaze full disk permissions
+30. Re-apply [Backblaze exclusions](https://kb.chrisltd.com/computing/mac#backblaze)
 
   
   

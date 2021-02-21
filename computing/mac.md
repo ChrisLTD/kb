@@ -1,6 +1,6 @@
 # Mac
 
-### App Favorites
+## App Favorites
 
 I've left default Apple apps off this list \(like Calendar, and Music\), but I use those as well.
 
@@ -69,7 +69,7 @@ I've left default Apple apps off this list \(like Calendar, and Music\), but I u
 * [Bartender](https://www.macbartender.com/) - Organize Mac menu bar
 * Virtual Box - X86 virtual machines
 
-### Keyboard shortcuts of note
+## Keyboard shortcuts of note
 
 * Dictation - Double Tap Right Command 
 * Siri - Hold Opt Space 
@@ -81,7 +81,7 @@ I've left default Apple apps off this list \(like Calendar, and Music\), but I u
 
 _\(KM\): Custom Keyboard Maestro shortcut_
 
-### Useful Terminal Commands
+## Useful Terminal Commands
 
 [Check disk stats like lifetime read and writes](https://twitter.com/never_released/status/1358539964460511233): `$ smartctl --all /dev/disk0`
 
@@ -92,28 +92,28 @@ Power On Hours:                    1,349
 
 Check system uptime: `$ uptime`
 
-### Backup Exclusions
+## Backup Exclusions
 
-#### Time Machine
+### Time Machine
 
 * ~/.dropbox
 * ~/Dropbox/.dropbox
 * ~/Dropbox/.dropbox.cache
-* Library/Containers/com.docker.docker
+* ~/Library/Containers/com.docker.docker
 * docker.driver.amd64-linux/Docker.raw
-* Developer/Xcode/iOS DeviceSupport
-* Developer/Xcode/watchOS DeviceSupport
+* ~/Library/Application Support/Developer/Xcode/iOS DeviceSupport
+* ~/Library/Application Support/Developer/Xcode/watchOS DeviceSupport
 
-#### Backblaze
+### Backblaze
 
-* Library/Containers/com.docker.docker
-* Library/Application support/nvidia
+* ~/Library/Containers/com.docker.docker
+* ~/Library/Application Support/NVIDIA
 * docker.driver.amd64-linux/Docker.raw
-* Developer/coresimulator
-* Developer/Xcode/iOS DeviceSupport
-* Developer/Xcode/watchOS DeviceSupport
+* ~/Library/Application Support/Developer/coresimulator
+* ~/Library/Application Support/Developer/Xcode/iOS DeviceSupport
+* ~/Library/Application Support/Developer/Xcode/watchOS DeviceSupport
 
-### Homebrew Packages
+## Homebrew Packages
 
 Get list of top level packages with `$ brew leaves`
 
@@ -144,7 +144,7 @@ Get list of top level packages with `$ brew leaves`
 * yajl
 * yarn
 
-### Launchd services
+## Launchd services
 
 List non-Apple services: `$ launchctl list | grep -v com.apple`  
 \(`-v` inverts the grep match\)
@@ -153,7 +153,7 @@ List non-Apple services: `$ launchctl list | grep -v com.apple`
 
 [More info about launchd](https://www.launchd.info) from the maker of [LaunchControl](https://www.soma-zone.com/LaunchControl/).
 
-### Preventing a Mac From Waking Up Randomly
+## Preventing a Mac From Waking Up Randomly
 
 In Settings / Notifications / Do Not Disturb: Check the box to turn on Do Not Disturb when the Display is Sleeping \(I also have it set to turn on DND from 10pm to 7am, when the screen is locked, and when mirroring\)
 
@@ -161,7 +161,7 @@ In Settings / Battery / Power Adapter disable Wake for Network Access
 
 In Settings / Bluetooth / Advanced disable Allow Bluetooth Devices to Wake This Computer
 
-### References
+## References
 
 * [https://github.com/nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os)
 * [https://github.com/serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
