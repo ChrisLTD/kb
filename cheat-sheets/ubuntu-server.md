@@ -82,6 +82,7 @@ Update the ownership with the chown and chmod commands.
 
 ```text
 sudo chown -R www-data:www-data /var/www/MY_DIR
+chmod -R g+s /var/www/MY_DIR
 sudo find /var/www/MY_DIR/ -type d -exec chmod 750 {} \;
 sudo find /var/www/MY_DIR/ -type f -exec chmod 640 {} \;
 ```
