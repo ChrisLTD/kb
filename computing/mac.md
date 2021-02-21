@@ -50,6 +50,7 @@ I've left default Apple apps off this list \(like Calendar, and Music\), but I u
 ### Apps to Consider
 
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - Keep track of runaway apps
+* [BlockBlock](https://objective-see.com/products/blockblock.html) - Get alerts when apps try to install background processes
 * [LuLu](https://github.com/objective-see/LuLu) - Open Source LittleSnitch alternative, blocks outgoing apps
 * [Hidden](https://github.com/dwarvesf/hidden) - Open Source bartender alternative
 * [Timer](https://github.com/Zeqiang-Lai/Timer-APP) - Open Source timer app
@@ -154,7 +155,7 @@ List non-Apple services: `$ launchctl list | grep -v com.apple`
 
 ### Preventing a Mac From Waking Up Randomly
 
-In Settings / Notifications / Do Not Disturb: Check the box to turn on Do Not Disturb when the Display is Sleeping
+In Settings / Notifications / Do Not Disturb: Check the box to turn on Do Not Disturb when the Display is Sleeping \(I also have it set to turn on DND from 10pm to 7am, when the screen is locked, and when mirroring\)
 
 In Settings / Battery / Power Adapter disable Wake for Network Access
 
