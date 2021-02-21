@@ -29,13 +29,13 @@
 * [ChromeOS](computing/chromeos.md)
 * [Windows](computing/windows.md)
 * [Browser Apps](computing/browser.md)
-* [Setting up a new Mac](computing/setting-up-a-new-mac.md)
 * [RSI Prevention](computing/rsi-prevention.md)
 
 ## Workflows
 
 * [Podcasting](workflows/podcasting.md)
 * [Coffee](workflows/coffee.md)
+* [Setting up a new Mac](workflows/setting-up-a-new-mac.md)
 
 ## Hardware
 
