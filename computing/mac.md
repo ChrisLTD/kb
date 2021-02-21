@@ -160,8 +160,6 @@ In Settings / Battery / Power Adapter disable Wake for Network Access
 
 In Settings / Bluetooth / Advanced disable Allow Bluetooth Devices to Wake This Computer
 
-
-
 ### References
 
 * [https://github.com/nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os)
