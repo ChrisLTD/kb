@@ -152,6 +152,16 @@ List non-Apple services: `$ launchctl list | grep -v com.apple`
 
 [More info about launchd](https://www.launchd.info) from the maker of [LaunchControl](https://www.soma-zone.com/LaunchControl/).
 
+### Preventing a Mac From Waking Up Randomly
+
+In Settings / Notifications / Do Not Disturb: Check the box to turn on Do Not Disturb when the Display is Sleeping
+
+In Settings / Battery / Power Adapter disable Wake for Network Access
+
+In Settings / Bluetooth / Advanced disable Allow Bluetooth Devices to Wake This Computer
+
+
+
 ### References
 
 * [https://github.com/nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os)
