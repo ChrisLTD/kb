@@ -174,9 +174,11 @@ sudo sysctl -p
 
 ## Firewall
 
+I had to open up port 3000 to get browsersync on port 3000 to work with my local browser.
+
 Check firewall status: `$ sudo ufw status`
 
-Allow port access \(port/protocal\): `$ ufw allow 8000/tcp` 
+Allow port access \(port/protocal\): `$ ufw allow 3000/tcp` 
 
-Remove an allow rule: `$ ufw delete allow 8000/tcp`
+Remove an allow rule: `$ ufw delete allow 3000/tcp`
 
