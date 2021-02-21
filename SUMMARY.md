@@ -36,6 +36,7 @@
 * [Podcasting](workflows/podcasting.md)
 * [Coffee](workflows/coffee.md)
 * [Setting up a new Mac](workflows/setting-up-a-new-mac.md)
+* [Site Deploys](workflows/site-deploys.md)
 
 ## Hardware
 
