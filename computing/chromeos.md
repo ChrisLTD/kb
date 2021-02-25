@@ -6,7 +6,6 @@ ChromeOS is mostly a portal to the web, but these are the somewhat obscure apps 
 
 * Caret - Text editor
 * [Secure Shell](https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo?hl=en) - SSH and SFTP mounting
-* [Text.app](https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg?hl=en) - Text 
 
 ### Web Apps / PWAs
 
@@ -25,4 +24,6 @@ ChromeOS is mostly a portal to the web, but these are the somewhat obscure apps 
 
 * [Polari](https://wiki.gnome.org/Apps/Polari) - IRC
 * Chromium - Backup web browser \(if I need two accounts signed in at once\) `$ sudo apt install chromium`
+* Visual Studio Code - Code editor
+* GIMP - Image editor
 
