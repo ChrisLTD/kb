@@ -2,6 +2,12 @@
 
 ChromeOS is mostly a portal to the web, but these are the somewhat obscure apps that help me get work done similar to what I can accomplish on MacOS.
 
+### Chrome Apps
+
+* Caret - Text editor
+* [Secure Shell](https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo?hl=en) - SSH and SFTP mounting
+* [Text.app](https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg?hl=en) - Text 
+
 ### Web Apps / PWAs
 
 * [Amazon Cloud9](https://aws.amazon.com/cloud9/) - Web based development environment
@@ -9,8 +15,6 @@ ChromeOS is mostly a portal to the web, but these are the somewhat obscure apps 
 * Harvest - Timesheets \(https://yourAccount.harvestapp.com/time/m\)
 * [Google Keep](https://keep.google.com/) - Notes
 * [Photopea](https://www.photopea.com/) - Open / edit Photoshop files on the web
-* [Secure Shell](https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo?hl=en) - SSH and SFTP mounting
-* [Text.app](https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg?hl=en) - Text 
 
 ### Android Apps
 
@@ -20,4 +24,5 @@ ChromeOS is mostly a portal to the web, but these are the somewhat obscure apps 
 ### Linux Apps
 
 * [Polari](https://wiki.gnome.org/Apps/Polari) - IRC
+* Chromium - Backup web browser \(if I need two accounts signed in at once\) `$ sudo apt install chromium`
 
