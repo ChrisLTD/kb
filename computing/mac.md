@@ -92,6 +92,8 @@ Power On Hours:                    1,349
 
 Check system uptime: `$ uptime`
 
+Check system sleep / wake cycles: `$ pmset -g log|grep -e " Sleep " -e " Wake "`
+
 ## Backup Exclusions
 
 ### Time Machine
@@ -157,9 +159,13 @@ List non-Apple services: `$ launchctl list | grep -v com.apple`
 
 In Settings / Notifications / Do Not Disturb: Check the box to turn on Do Not Disturb when the Display is Sleeping \(I also have it set to turn on DND from 10pm to 7am, when the screen is locked, and when mirroring\)
 
+Unconfirmed ideas:
+
 In Settings / Battery / Power Adapter disable Wake for Network Access
 
 In Settings / Bluetooth / Advanced disable Allow Bluetooth Devices to Wake This Computer
+
+In Settings / Battery / Power Adapter turn off Sleep When Display is Off
 
 ## References
 
