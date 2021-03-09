@@ -42,6 +42,8 @@ Root process list:`ps -u root`
 
 Check memory usage in megabytes:`free -m`
 
+List of ports in use: `sudo lsof -i -P -n`
+
 ### Permissions
 
 Set all new files and folders to[ inherit the group of the current folder](https://unix.stackexchange.com/a/401751): `$ chmod -R g+s somefolder`
