@@ -28,6 +28,8 @@ Unzip:`unzip FILENAME.ZIP`
 
 Untar & Gzip:`tar -xzf FILENAME.TAR.GZ`
 
+Ungzip: `gzip -d FILENAME.GZ`
+
 Zip folder:`zip -er DESTINATION.ZIP FOLDER`
 
 ### Processes
