@@ -4,7 +4,7 @@ I make coffee with recently roasted beans, a burr grinder, and usually an [AeroP
 
 I get whole bean coffee delivered every couple weeks from [Counter Culture](https://counterculturecoffee.com/) and [Yes Plz Coffee](https://www.yesplz.coffee/). There is usually a couple days lag from when they roast their coffee and when it arrives in the mail, but that's a huge improvement over grocery store coffee that might have been roasted months and months ago. Switching to recently roasted beans is the biggest upgrade I made to the taste of coffee I was brewing.
 
-### My AeroPress recipe
+## AeroPress
 
 1. Run the rubber plunger side of the AeroPress under water \(this makes pressing the plunger smoother\).
 2. Pour 2.5 tablespoon \(18 grams\) of beans measured with the [scoop from AeroPress](https://aeropress.com/product/scoop/) for each cup in my [Baratza Encore grinder](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US). 
@@ -26,7 +26,7 @@ I get whole bean coffee delivered every couple weeks from [Counter Culture](http
 
 If you're curious about the AeroPress, the official site has pretty good instructions and some videos you can [check out](https://aeropress.com/use-it-now/getting-started/).
 
-### My French press single cup recipe
+## French press single cup
 
 1. Boil water \(you'll want a bit more than 8 oz / 225 g\)
 2. Coarsely grind 18 grams of beans \(setting 28 on the [Baratza Encore](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US)\)
@@ -38,7 +38,7 @@ If you're curious about the AeroPress, the official site has pretty good instruc
 8. Slowly tamp the coffee down with the French press plunger
 9. Pour into your mug and enjoy
 
-### My Moka pot recipe
+## Moka pot
 
 I'm using this 3 cup [Bialeltti Moka pot](https://www.amazon.com/Original-Bialetti-Moka-Express-Stovetop/dp/B0000CF3Q6/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B0000CF3Q6&pd_rd_r=824f42e9-fc1d-45bb-8488-93ea1e090787&pd_rd_w=AZjCe&pd_rd_wg=ZqKzL&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=Q5E29HG6XRSEX1AX4S9K&psc=1&refRID=Q5E29HG6XRSEX1AX4S9K&linkCode=ll1&tag=chrisltd-20&linkId=1a5a84cd47ea5008269747552da37b5d&language=en_US).
 
@@ -55,9 +55,9 @@ I'm using this 3 cup [Bialeltti Moka pot](https://www.amazon.com/Original-Bialet
 11. Pour your coffee into a cup and enjoy.
 12. Once the Moka Part is cool enough, take it apart, rinse the inside with warm water, and dry it with a towel or paper towel. Let it completely air dry before putting it back together and storing it.
 
-### My Hario V60 Recipe
+## Hario V60
 
-I'm using this [plastic V60](https://www.amazon.com/Hario-Ceramic-Coffee-Dripper-White/dp/B000P4D5HG/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=0b098d0724af6d2650b385f1b4b41f23&language=en_US) with [02 sized natural filters](https://www.amazon.com/Hario-V60-Coffee-Filters-Natural-Tabbed/dp/B001O0R46I/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B001O0R46I&pd_rd_r=a05fac9c-4e7e-4d61-9d8a-c2d373b2114e&pd_rd_w=XfRVQ&pd_rd_wg=ByWQR&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=XMY3K5V2MJQHPMAADFXX&psc=1&refRID=XMY3K5V2MJQHPMAADFXX&linkCode=ll1&tag=chrisltd-20&linkId=ccbae1ce09974c5dfb481332ec634f89&language=en_US).
+I'm using a ceramic size [01 V60](https://www.amazon.com/dp/B000P4D5F8?_encoding=UTF8&psc=1&linkCode=ll1&tag=chrisltd-20&linkId=44e4544c626aef91aed0e494d76848ae&language=en_US&ref_=as_li_ss_tl) with [01 sized filters](https://www.amazon.com/Hario-V60-Coffee-Filters-White-Tabbed/dp/B001U7CVEA?dchild=1&keywords=v60+filter+01&qid=1616157948&s=home-garden&sr=1-2&linkCode=ll1&tag=chrisltd-20&linkId=e6450ad07f5c07fd359ea98e55cef840&language=en_US&ref_=as_li_ss_tl).
 
 1. Boil 12 oz / 340 g of water. You’ll be using 9 oz / 255 g of water for the coffee, and some of the rest to rinse the filter, and warm your cup and cone.
 2. Grind 15 grams of beans to about a table salt size \(Setting 12 on the [Baratza Encore](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US)\)
@@ -70,4 +70,21 @@ I'm using this [plastic V60](https://www.amazon.com/Hario-Ceramic-Coffee-Dripper
 9. Let it drain, and throw away the filter and coffee
 10. Stir the coffee in your mug
 11. Enjoy!
+
+## Fellow Prismo \(AeroPress "espresso"\)
+
+Using the [Prismo attachment](https://www.amazon.com/Fellow-Pressure-Actuated-Attachment-AeroPress-Espresso-Style/dp/B079YBT2LJ?dchild=1&keywords=fellow+prismo&qid=1616157189&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFFOVA0MDNUMEswOTAmZW5jcnlwdGVkSWQ9QTA0Nzg1MDFFQzRNUk1YTTNDNiZlbmNyeXB0ZWRBZElkPUEwNjk4MjMzMVpWRURVMVVLSEVIRSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=ll1&tag=chrisltd-20&linkId=64f47e808f7a65d64fbdb6e979a4ce40&language=en_US&ref_=as_li_ss_tl) for an AeroPress you can get kind of close to an espresso-like concoction using the official recipe. I've upped the liquid amount a tad. 
+
+1. Boil 100 g of water. You'll be using 55 g for the actual brew
+2. Grind 20 g of coffee at the espresso setting on your grinder. \(I use the finest setting on the [Baratza Encore](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US)\)
+3. Run the rubber part of the AeroPress under some water to get it ready. Cold water is fine.
+4. Use some of the boiled water to preheat your cup. Keep the water boiling for the brew process. You want the water right off the boil when you start brewing.
+5. Attach the Prismo to the AeroPress, and set on your cup
+6. Pour in the grinds, and add 55 g of boiling water
+7. Stir for 20 seconds. \(I use the AeroPress stirring paddle\)
+8. Let it steep for 40 more seconds
+9. Put the plunger in the top of the AeroPress and push it through
+10. Take off the Prismo, and eject the used coffee grinds into the garbage.
+11. Enjoy your "espresso"
+12. When your done make sure to wash the Prismo and filter gently with some mild soap and let it dry.
 
