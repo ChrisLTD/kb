@@ -71,9 +71,9 @@ I've left default Apple apps off this list \(like Calendar, and Music\), but I u
 
 ## Keyboard shortcuts of note
 
-* Dictation - Double Tap Right Command 
-* Siri - Hold Opt Space 
-* Keyboard Maestro Macro - Ctrl Opt Cmd T
+* Dictation - Meh + D 
+* Siri - Hold Opt Space / Meh + S
+* Keyboard Maestro Macro - Meh + T
 * Lock Screen / Put Display to Sleep - Ctrl Shift Q 
 * Clipboard History \(KM\) - Ctrl Opt Cmd V 
 * 1Password Autofill - Cmd  
