@@ -44,6 +44,10 @@
 * [Moonlander Keyboard](hardware/moonlander-keyboard.md)
 * [Apple Silicon Macs](hardware/apple-silicon-macs.md)
 
+## Productivity
+
+* [Structure](productivity/structure.md)
+
 ## Gaming
 
 * [Rocket League](gaming/rocket-league.md)
