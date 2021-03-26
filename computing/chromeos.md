@@ -38,3 +38,11 @@ ChromeOS is mostly a portal to the web, but these are the somewhat obscure apps 
 * Caps Lock -&gt; Escape
 * External Meta -&gt; Ctrl
 
+## System utilities
+
+Check RAM usage: chrome://sys-internals/
+
+Task Manager: Shift + Esc
+
+
+
