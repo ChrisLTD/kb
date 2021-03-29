@@ -42,7 +42,7 @@ ChromeOS is mostly a portal to the web, but these are the somewhat obscure apps 
 
 Check RAM usage: chrome://sys-internals/
 
-Task Manager: Shift + Esc
+Task Manager: Shift + Esc or Search + Esc
 
 
 
