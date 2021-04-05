@@ -2,7 +2,7 @@
 
 ### Stretching
 
-Guitar stretches
+[Guitar stretches](https://www.youtube.com/watch?v=TSrfB7JIzxY)
 
 ### Strength Training
 
@@ -14,7 +14,7 @@ Wrist extensions
 
 ### Yoga
 
-Do at least a few times a week
+Do every morning
 
 Stretch out shoulders, and do foam rolling
 
@@ -27,6 +27,8 @@ Split keyboard
 Vertical mouse
 
 Trackman Marble Mouse
+
+Kensington Expert Trackball
 
 Wacom Tablet
 
