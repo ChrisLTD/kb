@@ -30,6 +30,7 @@
 * [Windows](computing/windows.md)
 * [Browser Apps](computing/browser.md)
 * [RSI Prevention](computing/rsi-prevention.md)
+* [Voice Control](computing/voice-control.md)
 
 ## Workflows
 
