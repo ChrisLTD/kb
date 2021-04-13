@@ -18,6 +18,8 @@ Install gems from current bundle:`bundle install` **or:** `bundle install --with
 
 Run an executable that comes with a gem in your bundle:`bundle exec <GEM COMMAND>`
 
+Update one gem: `bundle update --conservative <GEM NAME>`
+
 ### [Rails](http://guides.rubyonrails.org/)
 
 Create a new Rails project:`rails new <APP NAME>`
