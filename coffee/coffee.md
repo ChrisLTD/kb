@@ -1,8 +1,4 @@
-# Coffee
-
-I make coffee with recently roasted beans, a burr grinder, and usually an [AeroPress](https://www.amazon.com/AeroPress-Coffee-Espresso-Maker-Bitterness/dp/B0047BIWSK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=88cffaf4225567ad72181e8f5d5797e8&language=en_US).
-
-I get whole bean coffee delivered every couple weeks from [Counter Culture](https://counterculturecoffee.com/) and [Yes Plz Coffee](https://www.yesplz.coffee/). There is usually a couple days lag from when they roast their coffee and when it arrives in the mail, but that's a huge improvement over grocery store coffee that might have been roasted months and months ago. Switching to recently roasted beans is the biggest upgrade I made to the taste of coffee I was brewing.
+# Coffee Recipes
 
 ## AeroPress
 
@@ -15,10 +11,10 @@ I get whole bean coffee delivered every couple weeks from [Counter Culture](http
 
 5. After the water is boiled, wet the paper filter in the AeroPress with a few drops. I also warm up my mug by putting some hot water in the mug and pouring it out after a few seconds.
 6. Screw the filter and cap on the AeroPress, place on the mug, and pour in the ground coffee.
-7. Slowly pour in 230 g of the hot water.
+7. Quickly pour in 230 g of the hot water.
 8. Stir inside the vessel to make sure all the grounds are saturated.
 9. Press the plunger in the top just a bit then pull back up to create a vacuum and stop the draining.
-10. Wait 90 seconds.
+10. Wait 2:30.
 11. Slowly press the plunger down on the AeroPress until it reaches the bottom.
 12. Take off the cap, and eject the used coffee grinds into the garbage.
 13. Stir your coffee.

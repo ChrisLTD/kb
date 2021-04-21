@@ -35,7 +35,6 @@
 ## Workflows
 
 * [Podcasting](workflows/podcasting.md)
-* [Coffee](workflows/coffee.md)
 * [Setting up a new Mac](workflows/setting-up-a-new-mac.md)
 * [Site Deploys](workflows/site-deploys.md)
 
@@ -48,6 +47,11 @@
 ## Productivity
 
 * [Structure](productivity/structure.md)
+
+## Coffee
+
+* [Coffee Beans](coffee/coffee-beans.md)
+* [Coffee Recipes](coffee/coffee.md)
 
 ## Gaming
 
