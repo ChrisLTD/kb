@@ -50,8 +50,10 @@
 
 ## Coffee
 
-* [Coffee Beans](coffee/coffee-beans.md)
-* [Coffee Recipes](coffee/coffee.md)
+* [Coffee Beans & Equipment](coffee/coffee-beans.md)
+* [AeroPress Recipes](coffee/aeropress-recipes.md)
+* [Moka Pot Recipes](coffee/moka-pot-recipes.md)
+* [Other Coffee Recipes](coffee/coffee.md)
 
 ## Gaming
 
