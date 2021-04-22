@@ -40,6 +40,12 @@ Remove container:`docker rm CONTAINER_NAME`
 
 Remove image:`docker rmi IMAGE_NAME`
 
+## Dumping and restoring postgres databases in Docker
+
+Backup local database: `docker exec -t postgres_container_name pg_dump -d db_name -c -U postgres > dev_db.dump`
+
+Import to local postgres in docker: `docker exec -i postgres_container_name pg_restore -U postgres -v -d db_name --clean < latest.dump`
+
 ## Documentation links:
 
 * [Official documentation](https://docs.docker.com)
