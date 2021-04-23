@@ -59,3 +59,8 @@
 
 * [Rocket League](gaming/rocket-league.md)
 
+## Food
+
+* [Cocktails](food/cocktails.md)
+* [Favorite Recipes](food/favorite-recipes.md)
+
