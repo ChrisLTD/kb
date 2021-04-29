@@ -9,14 +9,14 @@ I get whole bean coffee delivered every couple weeks from [Counter Culture](http
 ### Half Caffeine Blends
 
 * [https://onyxcoffeelab.com/products/power-nap](https://onyxcoffeelab.com/products/power-nap) 👍
-* [https://www.kumacoffee.com/collections/frontpage/products/momma-bear-new](https://www.kumacoffee.com/collections/frontpage/products/momma-bear-new) 
-* [https://two-brothers-coffee-roasters.myshopify.com/products/half-brother-half-caf](https://two-brothers-coffee-roasters.myshopify.com/products/half-brother-half-caf) 
-* [https://www.vigilantecoffee.com/collections/coffee-beans/products/ethiopia-half-caff](https://www.vigilantecoffee.com/collections/coffee-beans/products/ethiopia-half-caff) 
+* [https://www.kumacoffee.com/collections/frontpage/products/momma-bear-new](https://www.kumacoffee.com/collections/frontpage/products/momma-bear-new)
+* [https://two-brothers-coffee-roasters.myshopify.com/products/half-brother-half-caf](https://two-brothers-coffee-roasters.myshopify.com/products/half-brother-half-caf)
+* [https://www.vigilantecoffee.com/collections/coffee-beans/products/ethiopia-half-caff](https://www.vigilantecoffee.com/collections/coffee-beans/products/ethiopia-half-caff)
 * [https://redroostercoffee.com/shop/coffees/all/night-owl-half-caff](https://redroostercoffee.com/shop/coffees/all/night-owl-half-caff)
 
 ### Decaf
 
-* [https://regaliacoffee.com/products/desvelado-decaf](https://regaliacoffee.com/products/desvelado-decaf) 
-* [https://www.olympiacoffee.com/collections/coffee/products/decaf-asterisk-blend-organic](https://www.olympiacoffee.com/collections/coffee/products/decaf-asterisk-blend-organic) 
+* [https://regaliacoffee.com/products/desvelado-decaf](https://regaliacoffee.com/products/desvelado-decaf)
+* [https://www.olympiacoffee.com/collections/coffee/products/decaf-asterisk-blend-organic](https://www.olympiacoffee.com/collections/coffee/products/decaf-asterisk-blend-organic)
 * [https://drinkarchetype.com/collections/archetype-coffee/products/copy-of-home-model-blend](https://drinkarchetype.com/collections/archetype-coffee/products/copy-of-home-model-blend)
 
