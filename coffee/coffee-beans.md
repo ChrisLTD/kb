@@ -4,6 +4,16 @@
 
 Don't V60 decaf coffee. Use an immersion method like AeroPress or French Press. It just tastes weird otherwise.
 
+Play with ratio of water to coffee, and grind size to adjust for flavor with any technique.
+
+Use good water. If your water out of the tap tastes terrible, filter it or buy packaged water.
+
+Use great beans.
+
+Weigh everything with a scale so you can repeat good recipes and adjust in the future.
+
+Lighter roasts are harder to extract than dark roasts, so you may need to brew for less time or grind coarser with dark roasts.
+
 ## Equipment
 
 ### Grinders
