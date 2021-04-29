@@ -2,7 +2,7 @@
 
 ## AeroPress
 
-1. Run the rubber plunger side of the AeroPress under water \(this makes pressing the plunger smoother\).
+1. Run the rubber plunger side of the [AeroPress](https://www.amazon.com/AeroPress-Coffee-Espresso-Maker-Bitterness/dp/B0047BIWSK?&linkCode=ll1&tag=chrisltd-20&linkId=1021f5e2a658f4b6f710681b16ba2e87&language=en_US&ref_=as_li_ss_tl) under water \(this makes pressing the plunger smoother\).
 2. Pour 2.5 tablespoon \(18 grams\) of beans measured with the [scoop from AeroPress](https://aeropress.com/product/scoop/) for each cup in my [Baratza Encore grinder](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US). 
 3. Grind the beans on the 11 setting on the Baratza Encore.
 4. Boil about 10 oz / 280 g of water \(you'll be using 230 g\)
@@ -21,6 +21,8 @@
 14. Enjoy!
 
 If you're curious about the AeroPress, the official site has pretty good instructions and some videos you can [check out](https://aeropress.com/use-it-now/getting-started/).
+
+Try James Hoffmann's [Ultimate AeroPress Technique](https://www.youtube.com/watch?v=j6VlT_jUVPc).
 
 ## Fellow Prismo \(AeroPress "espresso"\)
 
