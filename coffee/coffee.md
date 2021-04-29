@@ -5,7 +5,7 @@
 I'm using a ceramic size [01 V60](https://www.amazon.com/dp/B000P4D5F8?_encoding=UTF8&psc=1&linkCode=ll1&tag=chrisltd-20&linkId=44e4544c626aef91aed0e494d76848ae&language=en_US&ref_=as_li_ss_tl) with [01 sized filters](https://www.amazon.com/Hario-V60-Coffee-Filters-White-Tabbed/dp/B001U7CVEA?dchild=1&keywords=v60+filter+01&qid=1616157948&s=home-garden&sr=1-2&linkCode=ll1&tag=chrisltd-20&linkId=e6450ad07f5c07fd359ea98e55cef840&language=en_US&ref_=as_li_ss_tl). This is adapted from [Hoffmann's recipe](https://www.youtube.com/watch?v=AI4ynXzkSQo). 
 
 1. Boil 12 oz / 340 g of water. You’ll be using 9 oz / 240 g of water for the coffee, and some of the rest to rinse the filter, and warm your cup and cone.
-2. Grind 14 grams of beans to about a table salt size \(Setting 12 on the [Baratza Encore](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US)\)
+2. Grind 14 grams of beans to about a table salt size \(Setting 10 on the [Baratza Encore](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US)\)
 3. Run some of the hot water through your filter, cone, and into your mug to heat them up
 4. Discard the water in your mug
 5. Pour the grinds into the filter and cone
