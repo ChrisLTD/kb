@@ -6,6 +6,12 @@ When I'm not buying bags of beans from local shops, or specific bags from specia
 
 ## Beans Info
 
+* [Vibrant Café Giraldo](https://www.vibrantcoffeeroasters.com/collections/coffee/products/cafe-giraldo-antioquia)
+* Everything from [Onyx](https://onyxcoffeelab.com) \(Pink Bourbon Anaerobic, Colombian Gesha, Rwanda\)
+* [Wonderstate: Ethiopa Chelbessa](https://wonderstate.com/collections/all/products/organic-ethiopia-chelbessa)
+* Counter Culture: [Hologram](https://counterculturecoffee.com/shop/coffee/hologram) & [Fast Forward](https://counterculturecoffee.com/shop/coffee/collection-fast-forward)
+* [Ninety Plus Kemgin](https://ninetypluscoffee.com/kemgin/)
+
 ### Half Caffeine Blends
 
 * [Onyx: Power Nap](https://onyxcoffeelab.com/products/power-nap) 👍
