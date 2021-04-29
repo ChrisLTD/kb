@@ -6,9 +6,11 @@ I get whole bean coffee delivered every couple weeks from [Counter Culture](http
 
 ## Beans Info
 
+
+
 ### Half Caffeine Blends
 
-* [https://onyxcoffeelab.com/products/power-nap](https://onyxcoffeelab.com/products/power-nap) 👍
+* [Onyx: Power Nap](https://onyxcoffeelab.com/products/power-nap) 👍
 * [https://www.kumacoffee.com/collections/frontpage/products/momma-bear-new](https://www.kumacoffee.com/collections/frontpage/products/momma-bear-new)
 * [https://two-brothers-coffee-roasters.myshopify.com/products/half-brother-half-caf](https://two-brothers-coffee-roasters.myshopify.com/products/half-brother-half-caf)
 * [https://www.vigilantecoffee.com/collections/coffee-beans/products/ethiopia-half-caff](https://www.vigilantecoffee.com/collections/coffee-beans/products/ethiopia-half-caff)
