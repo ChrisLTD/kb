@@ -1,10 +1,8 @@
 # Coffee Beans
 
-## Beans
-
 When I'm not buying bags of beans from local shops, or specific bags from specialty roasters, I get whole bean coffee delivered every couple weeks from [Counter Culture](https://counterculturecoffee.com/) or [Yes Plz Coffee](https://www.yesplz.coffee/). There is usually a couple days lag from when they roast their coffee and when it arrives in the mail, but that's a huge improvement over grocery store coffee that might have been roasted months and months ago. Switching to recently roasted beans is the biggest upgrade I made to the taste of coffee I was brewing.
 
-## Beans Info
+## Beans List
 
 * [Vibrant: Café Giraldo](https://www.vibrantcoffeeroasters.com/collections/coffee/products/cafe-giraldo-antioquia)
 * [Onyx](https://onyxcoffeelab.com) \(Pink Bourbon Anaerobic, Colombian Gesha, Rwanda\)
@@ -12,6 +10,7 @@ When I'm not buying bags of beans from local shops, or specific bags from specia
 * Counter Culture: [Hologram](https://counterculturecoffee.com/shop/coffee/hologram) & [Fast Forward](https://counterculturecoffee.com/shop/coffee/collection-fast-forward)
 * [Ninety Plus: Kemgin](https://ninetypluscoffee.com/kemgin/)
 * [Proud Mary: Burundi Gisha](https://proudmarycoffee.com/collections/wild/products/burundi-gisha-red-bourbon-natural)
+* [Backroom: Cross Goat](https://www.backroomcoffeeroasters.com/coffees/cross-goat)
 
 ### Half Caffeine Blends
 
