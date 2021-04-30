@@ -4,6 +4,8 @@ When I'm not buying bags of beans from local shops, or specific bags from specia
 
 ## Beans List
 
+I'll rate these beans with a thumbs up or down as I try them.
+
 * [Vibrant: Café Giraldo](https://www.vibrantcoffeeroasters.com/collections/coffee/products/cafe-giraldo-antioquia)
 * [Onyx](https://onyxcoffeelab.com) \(Pink Bourbon Anaerobic, Colombian Gesha, Rwanda\)
 * [Wonderstate: Ethiopa Chelbessa](https://wonderstate.com/collections/all/products/organic-ethiopia-chelbessa)
