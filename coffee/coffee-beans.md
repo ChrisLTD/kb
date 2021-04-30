@@ -35,6 +35,7 @@ Hand Burr Grinder: [Comandante C40](https://comandantegrinder.com)
 * [Niche Zero Grinder](https://www.nichecoffee.co.uk)
 * [Flair Signature Espresso Machine](https://flairespresso.com/products/espresso-makers/flair-signature/)
 * [Gaggia Classic Espresso Machine](https://www.amazon.com/Gaggia-14101-Semi-Automatic-Pannarello-Cappuccino/dp/B0001KOA4Q)
+* [Loveramics glassware](https://www.loveramics.com)
 
 ## 
 
