@@ -1,43 +1,42 @@
-# Coffee Notes & Equipment
+# Coffee Beans
 
-## Notes
+When I'm not buying bags of beans from local shops, or specific bags from specialty roasters, I get whole bean coffee delivered every couple weeks from [Counter Culture](https://counterculturecoffee.com/) or [Yes Plz Coffee](https://www.yesplz.coffee/). There is usually a couple days lag from when they roast their coffee and when it arrives in the mail, but that's a huge improvement over grocery store coffee that might have been roasted months and months ago. Switching to recently roasted beans is the biggest upgrade I made to the taste of coffee I was brewing.
 
-Don't V60 decaf coffee. Use an immersion method like AeroPress or French Press. It just tastes weird otherwise.
+## Beans List
 
-Play with ratio of water to coffee, and grind size to adjust for flavor with any technique.
+I'll rate these beans with a thumbs up or down as I try them.
 
-Use good water. If your water out of the tap tastes terrible, filter it or buy packaged water.
+* [Vibrant: Café Giraldo](https://www.vibrantcoffeeroasters.com/collections/coffee/products/cafe-giraldo-antioquia)
+* [Onyx](https://onyxcoffeelab.com) \(Pink Bourbon Anaerobic, Colombian Gesha, Rwanda\)
+* [Wonderstate: Ethiopa Chelbessa](https://wonderstate.com/collections/all/products/organic-ethiopia-chelbessa)
+* Counter Culture: [Hologram](https://counterculturecoffee.com/shop/coffee/hologram) & [Fast Forward](https://counterculturecoffee.com/shop/coffee/collection-fast-forward)
+* [Ninety Plus: Kemgin](https://ninetypluscoffee.com/kemgin/)
+* [Proud Mary: Burundi Gisha](https://proudmarycoffee.com/collections/wild/products/burundi-gisha-red-bourbon-natural)
+* [Backroom: Cross Goat](https://www.backroomcoffeeroasters.com/coffees/cross-goat)
+* [Passenger: Mario Moreno](https://www.passengercoffee.com/products/mario-moreno-2020?variant=33215785042000)
 
-Use great beans.
+### Half Caffeine Blends
 
-Weigh everything with a scale so you can repeat good recipes and adjust in the future.
+* [Onyx: Power Nap](https://onyxcoffeelab.com/products/power-nap) 👍
+* [Kuma Coffee: Momma Bear](https://www.kumacoffee.com/collections/frontpage/products/momma-bear-new)
+* [Two Brothers: Half Brother](https://two-brothers-coffee-roasters.myshopify.com/products/half-brother-half-caf)
+* [Vigilante: Ethiopia Half Caff](https://www.vigilantecoffee.com/collections/coffee-beans/products/ethiopia-half-caff)
+* [Red Rooster: Night Owl](https://redroostercoffee.com/shop/coffees/all/night-owl-half-caff)
 
-Lighter roasts are harder to extract than dark roasts, so you may need to brew for less time or grind coarser with dark roasts.
+### Decaf
 
-## Equipment
+* [Merit Sugarcane Decaf](https://meritcoffee.com/products/sugarcane-decaf)
+* [Equator Decaf Blend](https://www.equatorcoffees.com/products/decaf-equator-retail)
+* [Regalia: Desvelado Decaf](https://regaliacoffee.com/products/desvelado-decaf)
+* [Olympia Coffee: Decaf Asterisk](https://www.olympiacoffee.com/collections/coffee/products/decaf-asterisk-blend-organic)
+* [Archetype Coffee: Home Decaf](https://drinkarchetype.com/collections/archetype-coffee/products/copy-of-home-model-blend)
 
-### Grinders
+### Robusta
 
-Electric Burr Grinder: [Baratza Encore](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chrisltd-20&linkId=506f78ac8127812a94bcf7c9032f63cd&language=en_US)
-
-Hand Burr Grinder: [Comandante C40](https://comandantegrinder.com)
-
-### Brewers
-
-* [AeroPress](https://www.amazon.com/AeroPress-Coffee-Espresso-Maker-Bitterness/dp/B0047BIWSK?&linkCode=ll1&tag=chrisltd-20&linkId=1021f5e2a658f4b6f710681b16ba2e87&language=en_US&ref_=as_li_ss_tl)
-* [V60](https://www.amazon.com/dp/B000P4D5F8?_encoding=UTF8&psc=1&linkCode=ll1&tag=chrisltd-20&linkId=44e4544c626aef91aed0e494d76848ae&language=en_US&ref_=as_li_ss_tl)
-* [Bodum French Press](https://www.amazon.com/dp/B07HC22KQH/ref=as_li_ss_tl?th=1&linkCode=ll1&tag=chrisltd-20&linkId=293e67eae30293ca055e27cfe4905e7f&language=en_US)
-* Bialetti [Aluminum](https://www.amazon.com/Original-Bialetti-Moka-Express-Stovetop/dp/B0000CF3Q6/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B0000CF3Q6&pd_rd_r=824f42e9-fc1d-45bb-8488-93ea1e090787&pd_rd_w=AZjCe&pd_rd_wg=ZqKzL&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=Q5E29HG6XRSEX1AX4S9K&psc=1&refRID=Q5E29HG6XRSEX1AX4S9K&linkCode=ll1&tag=chrisltd-20&linkId=1a5a84cd47ea5008269747552da37b5d&language=en_US) & [Stainless Steel](https://www.amazon.com/dp/B08556XV39?pd_rd_i=B07ZKZXM4B&pd_rd_w=Ahlpd&pf_rd_p=4269e1a0-a218-4fbd-9748-1cd337d2f2a5&pd_rd_wg=veWc3&pf_rd_r=QW0BRC2D0ZMVGC2X4KQ1&pd_rd_r=d3a9b097-a9a5-4eba-a072-b2ac24743af2&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSFFBU0lPTkhROUFWJmVuY3J5cHRlZElkPUEwODM2NjU5MzFDVU5SOVZUSjJKRyZlbmNyeXB0ZWRBZElkPUEwMTY2OTIzMUVYOUVYUDZJNVhTSyZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1&linkCode=ll1&tag=chrisltd-20&linkId=df7a89b79ac98c5a8d3c40abd19b7e38&language=en_US&ref_=as_li_ss_tl) Moka pots
-
-### Future Purchases?
-
-* [Zen Roast](https://zenroast.co)
-* [Niche Zero Grinder](https://www.nichecoffee.co.uk)
-* [Flair Signature Espresso Machine](https://flairespresso.com/products/espresso-makers/flair-signature/)
-* [Gaggia Classic Espresso Machine](https://www.amazon.com/Gaggia-14101-Semi-Automatic-Pannarello-Cappuccino/dp/B0001KOA4Q)
-* [Loveramics glassware](https://www.loveramics.com)
-
-## 
+* [Nguyen Coffee Supply](https://nguyencoffeesupply.com/collections/vendors?q=Nguyen%20Coffee%20Supply): [True Grit](https://nguyencoffeesupply.com/collections/vietnamese-coffee-collection/products/grit-100-peaberry-robusta)
+* [Càphê Roasters: Humility _Blend_](https://www.capheroasters.com/shop/ij4u6iafwh5go9jivx5wa0q8qztyr6)\_\_
+* [Chestbrew: Big Bad Bear](https://chestbrew.com/product/big-bad-bear/) _Blend_
+* [Copper Cow](https://coppercowcoffee.com/collections/coffee/products/whole-bean-dark-roast-8-oz-copper-cow-coffee) _Blend_
 
 
 
