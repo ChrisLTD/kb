@@ -1,4 +1,4 @@
-# Other Coffee Recipes
+# V60 & French Press Recipes
 
 ## Hario V60
 

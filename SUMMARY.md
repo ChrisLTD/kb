@@ -53,7 +53,7 @@
 * [Coffee Notes & Equipment](coffee/coffee-beans.md)
 * [AeroPress Recipes](coffee/aeropress-recipes.md)
 * [Moka Pot Recipes](coffee/moka-pot-recipes.md)
-* [Other Coffee Recipes](coffee/coffee.md)
+* [V60 & French Press Recipes](coffee/coffee.md)
 * [Coffee Beans](coffee/coffee-beans-1.md)
 
 ## Gaming

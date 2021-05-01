@@ -13,6 +13,7 @@ I'll rate these beans with a thumbs up or down as I try them.
 * [Ninety Plus: Kemgin](https://ninetypluscoffee.com/kemgin/)
 * [Proud Mary: Burundi Gisha](https://proudmarycoffee.com/collections/wild/products/burundi-gisha-red-bourbon-natural)
 * [Backroom: Cross Goat](https://www.backroomcoffeeroasters.com/coffees/cross-goat)
+* [Passenger: Mario Moreno](https://www.passengercoffee.com/products/mario-moreno-2020?variant=33215785042000)
 
 ### Half Caffeine Blends
 
