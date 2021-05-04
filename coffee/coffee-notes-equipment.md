@@ -1,5 +1,7 @@
 # Coffee Notes & Equipment
 
+You know how different wines have different flavors? Coffee – without the milk and sugar – can be just as varied. The origin and variety of bean can influence the flavor, as well as how the seed was separated from the coffee fruit. The roast has a major impact on the flavor, is it lighter or darker. Plus, depending on how you prepare the coffee, you can bring out more of the flavors you prefer.
+
 ## Notes
 
 Don't V60 decaf coffee. Use an immersion method like AeroPress or French Press. It just tastes weird otherwise.
