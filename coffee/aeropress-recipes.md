@@ -5,7 +5,7 @@
 Slightly modified from James Hoffmann's [Ultimate AeroPress Technique](https://www.youtube.com/watch?v=j6VlT_jUVPc).
 
 1. Run the rubber plunger side of the [AeroPress](https://www.amazon.com/AeroPress-Coffee-Espresso-Maker-Bitterness/dp/B0047BIWSK?&linkCode=ll1&tag=chrisltd-20&linkId=1021f5e2a658f4b6f710681b16ba2e87&language=en_US&ref_=as_li_ss_tl) under water \(this makes pressing the plunger smoother\).
-2. Grind 12 grams of beans on the 10 setting on the Baratza Encore or 15 clicks on the Comandante C40.
+2. Grind 12 grams of beans on the 8 setting on the Baratza Encore or 15 clicks on the Comandante C40.
 3. Boil about 10 oz / 280 g of water \(you'll be using 200 g\) on the stove top using a kettle \([mine is this glass model](https://www.amazon.com/CAF%C3%89-BREW-COLLECTION-Stovetop-Whistling/dp/B013JM253U/ref=as_li_ss_tl?dchild=1&keywords=glass+kettle&qid=1591909317&sr=8-2&linkCode=ll1&tag=chrisltd-20&linkId=516c42e37ea40e28e72143dcce080c10&language=en_US)\).
 4. After the water is boiled, wet the paper filter in the AeroPress with a few drops.
 5. Screw the filter and cap on the AeroPress, place on the mug, and pour in the ground coffee.
