@@ -47,6 +47,7 @@
 ## Productivity
 
 * [Structure](productivity/structure.md)
+* [Nuggets of Wisdom](productivity/nuggets-of-wisdom.md)
 
 ## Coffee
 
