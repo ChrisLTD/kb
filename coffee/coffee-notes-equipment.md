@@ -38,6 +38,8 @@ Hand Burr Grinder: [Comandante C40](https://comandantegrinder.com)
 * [Flair Signature Espresso Machine](https://flairespresso.com/products/espresso-makers/flair-signature/)
 * [Gaggia Classic Espresso Machine](https://www.amazon.com/Gaggia-14101-Semi-Automatic-Pannarello-Cappuccino/dp/B0001KOA4Q)
 * [Loveramics glassware](https://www.loveramics.com)
+* [Square Mile Grind Size Sample Pack](https://shop.squaremilecoffee.com/products/grind-size-sample-pack)
+* [1zpresso Travel Case](https://1zpresso.coffee/product/travelcase/)
 
 ## 
 
