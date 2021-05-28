@@ -52,10 +52,11 @@
 ## Coffee
 
 * [Coffee Notes & Equipment](coffee/coffee-notes-equipment.md)
-* [AeroPress Recipes](coffee/aeropress-recipes.md)
-* [V60 & French Press Recipes](coffee/other-recipes.md)
-* [Moka Pot Recipes](coffee/moka-pot-recipes.md)
 * [Coffee Beans](coffee/coffee-beans.md)
+* [AeroPress Recipes](coffee/aeropress-recipes.md)
+* [V60 Recipes](coffee/other-recipes.md)
+* [Moka Pot Recipes](coffee/moka-pot-recipes.md)
+* [French Press Recipes](coffee/french-press-recipes.md)
 
 ## Gaming
 
