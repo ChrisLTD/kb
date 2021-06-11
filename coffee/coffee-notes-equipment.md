@@ -40,6 +40,7 @@ Hand Burr Grinder: [Comandante C40](https://comandantegrinder.com)
 * [Loveramics glassware](https://www.loveramics.com)
 * [Square Mile Grind Size Sample Pack](https://shop.squaremilecoffee.com/products/grind-size-sample-pack)
 * [1zpresso Travel Case](https://1zpresso.coffee/product/travelcase/)
+* Origami [Aroma](https://loisthestore.com/collections/origami-coffee-tools-accessories/products/copy-of-origami-aroma-mug) [Mug](https://www.roguewavecoffee.ca/collections/origami-series-1/products/origami-aroma-mug)
 
 ## 
 
