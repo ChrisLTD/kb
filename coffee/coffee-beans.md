@@ -6,7 +6,7 @@ When I'm not buying bags of beans from local shops, or specific bags from specia
 
 I'll rate these beans with a thumbs up or down as I try them.
 
-* [Variety Coffee: Gatomboya AA](https://varietycoffeeroasters.com/collections/coffee/products/gatomboya)
+* [Variety Coffee: Gatomboya AA](https://varietycoffeeroasters.com/collections/coffee/products/gatomboya) 👍
 * [Vibrant: Café Giraldo](https://www.vibrantcoffeeroasters.com/collections/coffee/products/cafe-giraldo-antioquia)
 * [Onyx](https://onyxcoffeelab.com) \(Pink Bourbon Anaerobic, Colombian Gesha, Rwanda\)
 * [Wonderstate: Ethiopa Chelbessa](https://wonderstate.com/collections/all/products/organic-ethiopia-chelbessa)
@@ -15,13 +15,14 @@ I'll rate these beans with a thumbs up or down as I try them.
 * [Proud Mary: Burundi Gisha](https://proudmarycoffee.com/collections/wild/products/burundi-gisha-red-bourbon-natural)
 * [Backroom: Cross Goat](https://www.backroomcoffeeroasters.com/coffees/cross-goat)
 * [Passenger: Mario Moreno](https://www.passengercoffee.com/products/mario-moreno-2020?variant=33215785042000)
+* [Vigilante: Ethiopia Worka Chelbessa](https://www.vigilantecoffee.com/collections/coffee-beans/products/ethiopia-chelbessa) 
 
 ### Half Caffeine Blends
 
 * [Onyx: Power Nap](https://onyxcoffeelab.com/products/power-nap) 👍
 * [Kuma Coffee: Momma Bear](https://www.kumacoffee.com/collections/frontpage/products/momma-bear-new) 👍
 * [Two Brothers: Half Brother](https://two-brothers-coffee-roasters.myshopify.com/products/half-brother-half-caf)
-* [Vigilante: Ethiopia Half Caff](https://www.vigilantecoffee.com/collections/coffee-beans/products/ethiopia-half-caff)
+* [Vigilante: Ethiopia Half Caff](https://www.vigilantecoffee.com/collections/coffee-beans/products/ethiopia-half-caff) 👎
 * [Red Rooster: Night Owl](https://redroostercoffee.com/shop/coffees/all/night-owl-half-caff)
 
 ### Decaf
