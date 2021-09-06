@@ -2,7 +2,7 @@
 
 ### Libraries
 
-styled-bootstrap-grid
+styled-bootstrap-grid or [bootstrap-styled](https://bootstrap-styled.github.io/bootstrap-styled/)
 
 styled-components
 
