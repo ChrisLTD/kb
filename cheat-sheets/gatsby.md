@@ -8,3 +8,5 @@ gatsby-plugin-styled-components
 
 styled-bootstrap-grid
 
+[gatsby-plugin-sass](https://www.gatsbyjs.com/plugins/gatsby-plugin-sass/)
+
