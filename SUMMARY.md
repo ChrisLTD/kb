@@ -21,6 +21,8 @@
 * [Ubuntu Server](cheat-sheets/ubuntu-server.md)
 * [Vim](cheat-sheets/vim.md)
 * [Security Tools](cheat-sheets/security-tools.md)
+* [React](cheat-sheets/react.md)
+* [Gatsby](cheat-sheets/gatsby.md)
 
 ## Computing
 
