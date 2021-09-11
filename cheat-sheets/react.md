@@ -10,6 +10,8 @@ react-helmet
 
 [react-accessible-accordion](https://github.com/springload/react-accessible-accordion)
 
+react-icons
+
 Slider: [react-slick](https://github.com/akiran/react-slick), and slick-carousel for styles:
 
 ```text
