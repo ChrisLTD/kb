@@ -28,6 +28,7 @@ I'll rate these beans with a thumbs up or down as I try them.
 ### Decaf
 
 * [Kuma Coffee: Costa Rica El Poeta Decaf](https://www.kumacoffee.com/collections/frontpage/products/costa-rica-decaf) 👍
+* [Variety Coffee: Midnight Cowboy](https://varietycoffeeroasters.com/products/decaf)  👍
 * [Merit Sugarcane Decaf](https://meritcoffee.com/products/sugarcane-decaf)
 * [Equator Decaf Blend](https://www.equatorcoffees.com/products/decaf-equator-retail)
 * [Regalia: Desvelado Decaf](https://regaliacoffee.com/products/desvelado-decaf)
