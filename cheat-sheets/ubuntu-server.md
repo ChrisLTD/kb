@@ -6,7 +6,7 @@ Check version: `$ cat /etc/lsb-release`
 
 ## [Securing new server](https://www.linode.com/docs/security/securing-your-server)
 
-On remote server install [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page):`sudo apt-get update && sudo apt-get install fail2ban`
+On remote server install [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main\_Page):`sudo apt-get update && sudo apt-get install fail2ban`
 
 Add folder for SSH keys:`mkdir -p ~/.ssh && sudo chmod -R 700 ~/.ssh/`
 
@@ -24,19 +24,19 @@ Check recent SSH logins:`grep "Accepted" /var/log/auth.log`
 
 Start a terminal session and type:`sudo apt install libpam-google-authenticator` To make SSH use the Google Authenticator PAM module, add the following line to the `/etc/pam.d/sshd` file:
 
-```text
+```
 auth required pam_google_authenticator.so
 ```
 
 Also, so we don't get asked for a password, and instead use our SSH key for auth, comment out the line `@include common-auth`:
 
-```text
+```
 #@include common-auth
 ```
 
 Modify `/etc/ssh/sshd_config` – change `ChallengeResponseAuthentication` from no to yes, so this part of the file looks like this:
 
-```text
+```
 # Change to yes to enable challenge-response passwords (beware issues with
 # some PAM modules and threads)
 ChallengeResponseAuthentication no # CHANGE THIS TO YES
@@ -67,7 +67,7 @@ Digital Ocean, start with [LAMP app](https://marketplace.digitalocean.com/apps/l
 
 Download WordPress, and setup the WP Config and Htaccess files:
 
-```text
+```
 cd /tmp
 curl -O https://wordpress.org/latest.tar.gz
 tar xzvf latest.tar.gz
@@ -80,7 +80,7 @@ Now, we copy the contents of the WordPress temp directory to our Apache2 site. W
 
 Update the ownership with the chown and chmod commands.
 
-```text
+```
 sudo chown -R www-data:www-data /var/www/MY_DIR
 chmod -R g+s /var/www/MY_DIR
 sudo find /var/www/MY_DIR/ -type d -exec chmod 750 {} \;
@@ -89,9 +89,9 @@ sudo find /var/www/MY_DIR/ -type f -exec chmod 640 {} \;
 
 Login to MYSQL:`$ mysql -u USERNAME -pPASSWORD`
 
-Create a MySQL database and user \(note these instructions will give the resulting user access to all databases\):
+Create a MySQL database and user (note these instructions will give the resulting user access to all databases):
 
-```text
+```
 CREATE DATABASE databasename;
 CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'password';
 GRANT ALL PRIVILEGES ON * . * TO 'newuser'@'localhost';
@@ -106,7 +106,7 @@ Visit the site in your browser to finish the installation.
 
 One of the themes I use requires mbstring which you can install like this: `$ sudo apt install php-mbstring`
 
- Then restart Apache: `$ sudo service apache2 restart`
+&#x20;Then restart Apache: `$ sudo service apache2 restart`
 
 ## [Installing Rails](https://gorails.com/setup/ubuntu/16.04)
 
@@ -114,7 +114,7 @@ Install Ruby dependencies:`sudo apt-get install git-core curl zlib1g-dev build-e
 
 Install Ruby with rbenv, be sure to change 2.2.2 with whatever Ruby version you want:
 
-```text
+```
 cd
 git clone https://github.com/rbenv/rbenv.git ~/.rbenv
 echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
@@ -136,7 +136,7 @@ Install NodeJS:`curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash - s
 
 Install Rails, change the version to the one you want:
 
-```text
+```
 gem install rails -v 5.1.3
 rbenv rehash
 rails -v
@@ -144,7 +144,7 @@ rails -v
 
 Install PostgreSQL:
 
-```text
+```
 sudo sh -c "echo 'deb http://apt.postgresql.org/pub/repos/apt/ xenial-pgdg main' > /etc/apt/sources.list.d/pgdg.list"
 wget --quiet -O - http://apt.postgresql.org/pub/repos/apt/ACCC4CF8.asc | sudo apt-key add -
 sudo apt-get update
@@ -168,7 +168,7 @@ Run Rails dev server so you can [access it remotely](https://stackoverflow.com/a
 
 Increase file watching limit:
 
-```text
+```
 echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf
 sudo sysctl -p
 ```
@@ -179,7 +179,51 @@ I had to open up port 3000 to get browsersync on port 3000 to work with my local
 
 Check firewall status: `$ sudo ufw status`
 
-Allow port access \(port/protocal\): `$ ufw allow 3000/tcp` 
+Allow port access (port/protocal): `$ ufw allow 3000/tcp`&#x20;
 
 Remove an allow rule: `$ ufw delete allow 3000/tcp`
 
+## Postgres
+
+Installing postgres on Ubuntu/Debian for dev
+
+```
+sudo apt update
+sudo apt install postgresql postgresql-contrib
+```
+
+Log in to postgres and create the uprise db
+
+```
+sudo -u postgres psql
+createdb uprise
+\q
+```
+
+Allow passwordless connections for postgres dev:
+
+```
+sudo -u postgres psql
+show hba_file;
+\q
+```
+
+Copy result of command above, and edit in vim/nano
+
+Change this line:
+
+```
+host    all             all             127.0.0.1/32            md5
+```
+
+To:
+
+```
+host    all             all             127.0.0.1/32            trust
+```
+
+Restart postgres:
+
+```
+sudo /etc/init.d/postgresql restart
+```
