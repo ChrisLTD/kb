@@ -196,7 +196,7 @@ Log in to postgres and create the uprise db
 
 ```
 sudo -u postgres psql
-createdb uprise
+createdb my_db;
 \q
 ```
 
