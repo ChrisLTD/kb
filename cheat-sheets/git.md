@@ -6,9 +6,29 @@ Remove a file from the repo without deleting it:`git rm --cached MYFILE.TXT`
 
 Remove a directory from the repo without deleting it:`git rm --cached -r MYDIRECTORY`
 
+#### Reset remote "busted\_branch" with the contents of a "better\_branch"
+
+Make sure everything is pushed up to your remote repository, then checkout your `busted_branch`:
+
+```
+git checkout busted_branch
+```
+
+Overwrite `busted_branch` with `better_branch`:
+
+```
+git reset --hard better_branch
+```
+
+Force the push to your remote:
+
+```
+git push -f origin busted_branch
+```
+
 ### Aliases to add to .gitconfig file
 
-```text
+```
 [alias]
   co = checkout
   ec = config --global -e
@@ -26,4 +46,3 @@ Remove a directory from the repo without deleting it:`git rm --cached -r MYDIREC
   logp = log --pretty=oneline --max-count=20
   subinit = !git submodule init && git submodule update
 ```
-
