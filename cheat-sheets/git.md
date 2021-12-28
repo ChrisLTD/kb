@@ -6,6 +6,8 @@ Remove a file from the repo without deleting it:`git rm --cached MYFILE.TXT`
 
 Remove a directory from the repo without deleting it:`git rm --cached -r MYDIRECTORY`
 
+Search through git branches: `git branch --all | grep -i MYSEARCH`
+
 #### Reset remote "busted\_branch" with the contents of a "better\_branch"
 
 Make sure everything is pushed up to your remote repository, then checkout your `busted_branch`:
