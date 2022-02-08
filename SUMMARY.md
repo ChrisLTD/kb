@@ -68,6 +68,7 @@
 
 * [Cocktails](food/cocktails.md)
 * [Favorite Recipes](food/favorite-recipes.md)
+* [Whisky Reviews](food/whisky-reviews.md)
 
 ## Inspiration
 
