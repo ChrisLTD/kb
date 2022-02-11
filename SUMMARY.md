@@ -8,21 +8,21 @@
 
 ## Cheat Sheets
 
-* [Docker](cheat-sheets/docker.md)
 * [Apache](cheat-sheets/apache.md)
+* [Docker](cheat-sheets/docker.md)
+* [Gatsby](cheat-sheets/gatsby.md)
 * [Git](cheat-sheets/git.md)
 * [iOS](cheat-sheets/ios.md)
 * [MySQL](cheat-sheets/mysql.md)
 * [Nginx](cheat-sheets/nginx.md)
 * [NodeJS](cheat-sheets/nodejs.md)
 * [Rails](cheat-sheets/rails.md)
+* [React](cheat-sheets/react.md)
+* [Security Tools](cheat-sheets/security-tools.md)
 * [Shell (Linux)](cheat-sheets/shell-linux.md)
 * [SwiftUI](cheat-sheets/swiftui.md)
 * [Ubuntu Server](cheat-sheets/ubuntu-server.md)
 * [Vim](cheat-sheets/vim.md)
-* [Security Tools](cheat-sheets/security-tools.md)
-* [React](cheat-sheets/react.md)
-* [Gatsby](cheat-sheets/gatsby.md)
 
 ## Computing
 
