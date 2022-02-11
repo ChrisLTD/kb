@@ -8,4 +8,6 @@
 
 "The meaning of life is just to be alive. It is so plain and so obvious and so simple. And yet, everybody rushes around in a great panic as if it were necessary to achieve something beyond themselves." - Alan Watts
 
-"A good plan, violently executed now, is better than a perfect plan next week" - George Patton.
+"A good plan, violently executed now, is better than a perfect plan next week" - George Patton
+
+"There is one rule to be learned. Life is not you. Life is outside you. If it is outside, you must go toward it. You must go toward a person, and if he or she backs off it’s their fault. The essential thing to know is that life is in front of you. Go toward it." - Stella Adler
