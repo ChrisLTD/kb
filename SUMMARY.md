@@ -73,3 +73,8 @@
 ## Inspiration
 
 * [Quotes](inspiration/quotes.md)
+
+## Philosophy
+
+* [Life](philosophy/life.md)
+* [Programming](philosophy/programming.md)
