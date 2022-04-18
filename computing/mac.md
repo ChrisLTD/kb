@@ -52,6 +52,8 @@ I've left default Apple apps off this list (like Calendar, and Music), but I use
 
 ### Apps to Consider
 
+Great list of open source Mac apps: [https://github.com/serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
+
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - Keep track of runaway apps
 * [BlockBlock](https://objective-see.com/products/blockblock.html) - Get alerts when apps try to install background processes
 * [LuLu](https://github.com/objective-see/LuLu) - Open Source LittleSnitch alternative, blocks outgoing apps
