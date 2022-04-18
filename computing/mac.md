@@ -31,6 +31,7 @@ I've left default Apple apps off this list (like Calendar, and Music), but I use
 * [Patterns](https://apps.apple.com/us/app/patterns-the-regex-app/id429449079?mt=12) - Regex helper
 * [Paw](https://paw.cloud) - Debug HTTP requests
 * [Piezo](https://rogueamoeba.com/piezo/) - Record audio
+* [Postman](https://www.postman.com) - Debug HTTP requests (free)
 * [Reeder](https://reederapp.com) - RSS reader
 * [Rest](https://apps.apple.com/us/app/rest/id661067914?mt=12) - Make yourself to take screen breaks
 * [RH Timers](https://apps.apple.com/us/app/rh-timer-manage-your-time/id929960914?mt=12) - Until Siri can do timers
