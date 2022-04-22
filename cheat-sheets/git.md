@@ -28,18 +28,6 @@ Force the push to your remote:
 git push -f origin busted_branch
 ```
 
-Resolve conflicted file with "their" changes:
-
-```
-git checkout --theirs path/to/file
-```
-
-Resolve conflicted file with "our" changes:
-
-```
-git checkout --ours path/to/file
-```
-
 ### Aliases to add to .gitconfig file
 
 ```
