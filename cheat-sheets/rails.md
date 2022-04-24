@@ -44,7 +44,7 @@ Create app:`heroku create`
 
 Push app:`git push heroku master`
 
-Auth heroku w/out browser: `heroku login -i`
+Auth Heroku: `heroku auth:login`
 
 Open app:`heroku open`
 
@@ -68,6 +68,8 @@ You may need to add the Ruby version to your gemfile as well:`ruby '1.9.3'`
 
 To get your assets to properly compile on heroku, change your production.rb file to say true here instead of false:`config.assets.compile = true`
 
+`Deploying to Heroku using`&#x20;
+
 ### Dokku
 
 Push app:`git push dokku master`
@@ -80,3 +82,5 @@ gem 'rails_12factor' # for logging
 ```
 
 SSH into server to run dokku commands. Use `dokku --help` for list of commands.
+
+[Use git to deploy Heroku app](https://devcenter.heroku.com/articles/git).
