@@ -6,13 +6,13 @@ List current ruby version: `rbenv versions`
 
 Set local/directory version of ruby:`rbenv local <VERSION>`
 
-After installing a gem that adds new binaries \(new commands\):`rbenv rehash`
+After installing a gem that adds new binaries (new commands):`rbenv rehash`
 
-### [Ruby Gems](http://docs.rubygems.org/)
+### [Ruby Gems](http://docs.rubygems.org)
 
 Updating gem system:`gem update --system --no-document`
 
-### [Bundler](http://gembundler.com/)
+### [Bundler](http://gembundler.com)
 
 Install gems from current bundle:`bundle install` **or:** `bundle install --without production`
 
@@ -20,7 +20,7 @@ Run an executable that comes with a gem in your bundle:`bundle exec <GEM COMMAND
 
 Update one gem: `bundle update --conservative <GEM NAME>`
 
-### [Rails](http://guides.rubyonrails.org/)
+### [Rails](http://guides.rubyonrails.org)
 
 Create a new Rails project:`rails new <APP NAME>`
 
@@ -44,6 +44,8 @@ Create app:`heroku create`
 
 Push app:`git push heroku master`
 
+Auth heroku w/out browser: `heroku login -i`
+
 Open app:`heroku open`
 
 Run console:`heroku run rails console`
@@ -52,7 +54,7 @@ Migrate database:`heroku run rake db:migrate`
 
 If you want to run sqlite locally and pg on heroku, your gemfile needs to look like this:
 
-```text
+```
 group :development do
    gem 'sqlite3'
 end
@@ -72,10 +74,9 @@ Push app:`git push dokku master`
 
 In your production group, you'll likely want these two gems:
 
-```text
+```
 gem 'pg' # postgres
 gem 'rails_12factor' # for logging
 ```
 
 SSH into server to run dokku commands. Use `dokku --help` for list of commands.
-
