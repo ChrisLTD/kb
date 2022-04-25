@@ -31,6 +31,7 @@ I've left default Apple apps off this list (like Calendar, and Music), but I use
 * [Music Converter Pro](https://apps.apple.com/us/app/music-converter-pro/id468990782?mt=12) - Convert audio files
 * [Patterns](https://apps.apple.com/us/app/patterns-the-regex-app/id429449079?mt=12) - Regex helper
 * [Paw](https://paw.cloud) - Debug HTTP requests
+* [PGAdmin](https://www.pgadmin.org) - Postgres admin GUI
 * [Piezo](https://rogueamoeba.com/piezo/) - Record audio
 * [Postman](https://www.postman.com) - Debug HTTP requests (free)
 * [Reeder](https://reederapp.com) - RSS reader
