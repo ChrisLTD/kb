@@ -68,7 +68,9 @@ You may need to add the Ruby version to your gemfile as well:`ruby '1.9.3'`
 
 To get your assets to properly compile on heroku, change your production.rb file to say true here instead of false:`config.assets.compile = true`
 
-`Deploying to Heroku using`&#x20;
+[Deploy to heroku through git](https://devcenter.heroku.com/articles/git).
+
+Deploy with branch name other than master or main: `git push heroku my-branch:main`
 
 ### Dokku
 
