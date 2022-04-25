@@ -22,6 +22,7 @@ I've left default Apple apps off this list (like Calendar, and Music), but I use
 * [HazeOver](https://apps.apple.com/us/app/hazeover-distraction-dimmer/id430798174?mt=12) - Darken inactive windows
 * [Hidden](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12) - Hide menu bar apps
 * [ImageOptim](https://imageoptim.com/mac) - Batch compress images
+* [Insomnia](https://github.com/Kong/insomnia) - HTTP / REST client (free)
 * [IntelliJ](https://www.jetbrains.com/idea/) - IDE for web project
 * [Keyboard Maestro](https://www.keyboardmaestro.com) - Text snippets, and OS automation
 * [Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager
