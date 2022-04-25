@@ -8,6 +8,7 @@ I've left default Apple apps off this list (like Calendar, and Music), but I use
 * [Acorn](https://flyingmeat.com/acorn/) - Image editor
 * [Arq Backup](https://www.arqbackup.com) - Backup archived files to B2 or S3
 * [Backblaze](https://www.backblaze.com) - Backup entire computer
+* [Beekeeper Studio](https://www.beekeeperstudio.io) - Database editor (SQLite, MySQL, MariaDB, Postgres, CockroachDB, SQL Server, and Amazon Redshift)
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Lightweight text editor
 * [Be Focused Pro](https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517?mt=12) - Pomodoro timer
 * [CodeRunner](https://coderunnerapp.com) - Playground for different programming languages
