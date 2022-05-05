@@ -13,5 +13,6 @@ description: These are pages I plan on adding in the future
 * Hiking gear
 * Travel gear
 * Clothes Sizes
-* Link to friends' digital gardens, like Chuck's [https://notes.cagrimmett.com](https://notes.cagrimmett.com)
+
+
 

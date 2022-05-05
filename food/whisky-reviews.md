@@ -165,3 +165,168 @@ Smells like caramel. Long slow pepper burn. Sweet. Complex. Heavy.
 ## Maker’s Mark Cask Strength 20-05
 
 Sweet smell. Mellow pepper after the sweetness. Maraschino syrup. Very easy to drink.
+
+## Spice Tree Compass Box (Blended)
+
+Oaky. Viscous. Pleasant spice kick.
+
+## Elijah Craig Small Batch
+
+Pepper hit. Spicy. Woody. Good.
+
+## Bowmore Vault Edition
+
+Corduroy.
+
+## Glenfiddich 15
+
+Nose smells a bit of raisin, molasses. Smooth, deep, a little vegetal on the finish. Delightful.
+
+## Kikori (All rice)
+
+Smells a bit like sake. Sort of evaporates in your mouth, like it’s high proof. But it’s only 82 proof. Interesting.
+
+## Bruichladdich Port Charlotte
+
+Smells like smoke. Tastes like licking charcoal.
+
+## GlenLivet Caribbean Reserve
+
+Smells a bit sweet. Tastes light, young, acidic. I don’t like it.
+
+## Ledaig
+
+Very good. Woody smell. Gentle smoke.
+
+## Bowmore Vault
+
+Smells like tart apples. Oily, salty. Very good. I really like it.
+
+## Johnnie Walker Green Label
+
+Oaky slightly sweet nose. Taste is light, slightly sweet, slightly smoky. Very tasty.
+
+## Laphroaig Quarter Cask
+
+Honey and smoke on the nose. Tastes oaky and slightly peaty. The finish dissipates quickly. Good, not great.
+
+## Chattanooga 111 Cask
+
+Smells a bit funky. Like overripe bananas. Tastes like cherry coke. Not much burn considering it’s 111 proof. Really tasty and interesting.
+
+## Mortlach 16
+
+Pleasant nose. Oak and sherry. Peppery and thick on the palate. Smooth. Slightly bitter aftertaste. Really good.
+
+## Glenfiddich 14 Bourbon Reserve
+
+Nose is like bourbon. Sweet. Light. Taste is a bit weak. Finish has a pleasant burn. Not my favorite.
+
+## Jefferson’s Ocean
+
+Sweet and mellow spice nose. Spice up front, then a smooth finish. Very good.
+
+## Bunnahabhain Stiuireadair
+
+Nose salted caramel. Fruit, smoke. Long fruit finish. Very good. I’d buy a bottle.
+
+## Glenfarclas 17
+
+Nose has sherry notes. Palate is also sherry with a bit of smoke and spice. Finish is long with spiciness.
+
+## Glenrothes 11
+
+Allspice nose. Spice forward on the palette. Deep chocolate finish.
+
+## Templeton Rye
+
+Nose is honey, slightly medicinal. Rye spice and honey palette. Residual low spice. Good stuff.
+
+## Octomore 12.1
+
+Nose is charcoal and caramel. Palette is complex. Smoke, mild sweetness, pepper, salt. Finish is lingering smoke. Amazing. I absolutely love it.
+
+## Lagavulin 8
+
+Nose sweet apple. Smooth palette with pepper, stone fruit. Finish is where the smoke comes in. Good.
+
+## Laphroaig Cairdeas Cask
+
+Nose is initially sweet, then you get hints of a campfire that’s been put out. Salty palette. Finish is chocolatey. Very good.
+
+## Ardbeg An Oa
+
+Nose is toffee. A bit funky. Palette is smooth. Oily. Not much flavor. A bit of a weird juxtaposition with the nose. Finish is a bit of lingering salt and smoke. It grew on me.
+
+## Ardbeg 10
+
+Sweet and peppery nose. Palette is smooth like the An Oa, with a bit of oil, but with more spice. Lingering spice on the finish. I like it. Between this and An Oa, I’d pick this.
+
+## Garrison Brothers Bourbon
+
+Nose is a bit of raisin and oak. Rounded palette. Not too sweet. Finish is just a little warm and spicy. Very easy to drink.
+
+## Glengoyne 12
+
+Butterscotch nose. Very interesting. Initial palette is a bit watery, but then it develops into the butterscotch on the finish. Interesting.
+
+## Michters Rye
+
+Good stuff.
+
+## Oban 18
+
+Molasses and raisins on the nose. Oily palette, finish brings back the molasses and raisins. Really tasty.
+
+## Knob Creek Rye
+
+Sweet peppery nose. A bit like a cigar. Smooth rich palette. Tasty on its own.
+
+## Tobermory 12
+
+Nose: salty sweet, a little hint of pepper. Palette
+
+## Arran 10
+
+Nose: rounded honey. Smooth and silky. Palette has a bit of citrus. Mellow but good.
+
+## Glencadam 13
+
+Nose is a bit sweet and vanilla. Palette is pepper.
+
+## Singleton 12
+
+Nose has the smell of apples. Palette is complex. Fruity, little to no alcohol burn. Lingering sweetness. Good. Not great.
+
+## Corsair Triple Smoke
+
+Nose is light and sweet, candied cherries. Taste is a bit oily, candy cane under tone.
+
+## Pittyvaich 29 (1989 ghost)
+
+Palette mellow fruitiness. Raisins on the palette. You feel the 102.8 at the end with some heat. Astringent. Very good.
+
+## Highland Park 12
+
+Nose: honey and sherry sweet. Palette is smooth and viscous. Soft sweetness. Good finish that develops a bit of spice. Pretty great for a 12 year.
+
+## High West Double Rye
+
+Nose has a nice rye spice. Palette is smooth with an underlying rye spiciness. Very tasty.
+
+## Highland Park 18
+
+Nose: honey and sherry sweet. Palette is smooth and viscous. Soft sweetness. Amazingly drinkable.
+
+## Willet Bourbon
+
+Smells a bit like rye. Smooth with a bit of spice. Tastes like a rye. Very good.
+
+## Weller Special Reserve
+
+Nose is sweet, oaky. Palette is a bit of spice and citrus. Back half is heat.
+
+## Hudson Whisky NY Back Room Deal
+
+Very odd. Weird smoke on the back end. Did not like.
+
