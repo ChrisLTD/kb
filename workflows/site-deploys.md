@@ -25,8 +25,8 @@ pipelines:
             variables:
               USER: $USER
               SERVER: 'sftp.pressable.com'
-              REMOTE_PATH: '/htdocs/wp-content/mu-plugins/'
-              LOCAL_PATH: 'wp-content/mu-plugins/'
+              REMOTE_PATH: '/htdocs/wp-content/mu-plugins'
+              LOCAL_PATH: 'wp-content/mu-plugins/*'
               PASSWORD: $PASSWORD
     - step:
         name: 'Deploy Theme to Production'
@@ -36,8 +36,8 @@ pipelines:
             variables:
               USER: $USER
               SERVER: 'sftp.pressable.com'
-              REMOTE_PATH: '/htdocs/wp-content/themes/seismic/'
-              LOCAL_PATH: 'wp-content/themes/seismic/'
+              REMOTE_PATH: '/htdocs/wp-content/themes/YOUR_THEME'
+              LOCAL_PATH: 'wp-content/themes/YOUR_THEME/*'
               PASSWORD: $PASSWORD
 ```
 
