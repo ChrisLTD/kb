@@ -43,6 +43,8 @@ pipelines:
 
 ## Github Actions
 
+Potential Github SFTP action: [https://github.com/Creepios/sftp-action](https://github.com/Creepios/sftp-action)
+
 ## Dandelion
 
 [https://github.com/scttnlsn/dandelion](https://github.com/scttnlsn/dandelion)
