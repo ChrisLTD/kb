@@ -81,3 +81,8 @@
 
 * [Life](philosophy/life.md)
 * [Programming](philosophy/programming.md)
+
+## Fitness
+
+* [Diets](fitness/diets.md)
+* [Exercise Notes](fitness/exercise-notes.md)
