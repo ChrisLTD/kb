@@ -1,5 +1,15 @@
 # Exercise Notes
 
+## General
+
+Mind muscle connection is key.
+
+Make sure you're not doing junk volume. Consider what reps in reserve you're aiming for.
+
+Breathe.
+
+Engage your core.
+
 ## Leg Press
 
 Focus on the quads\
