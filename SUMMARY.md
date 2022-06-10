@@ -35,6 +35,7 @@
 * [Browser Apps](computing/browser.md)
 * [RSI Prevention](computing/rsi-prevention.md)
 * [Voice Control](computing/voice-control.md)
+* [AWS Cloud 9](computing/aws-cloud-9.md)
 
 ## Workflows
 

@@ -28,9 +28,32 @@ Force the push to your remote:
 git push -f origin busted_branch
 ```
 
-### Aliases to add to .gitconfig file
+Resolve conflicted file with "their" changes:
 
 ```
+git checkout --theirs path/to/file
+```
+
+Resolve conflicted file with "our" changes:
+
+```
+git checkout --ours path/to/file
+```
+
+### Aliases to add to .gitconfig file
+
+To prevent weird indenting, set paste mode in vim: `:set paste`
+
+```
+[user]
+  name = Your Name
+  email = your@email.com
+[core]
+  quotepath = false
+  autocrlf = input
+  editor = 'vim'
+[push]
+  default = simple
 [alias]
   co = checkout
   ec = config --global -e
@@ -48,3 +71,5 @@ git push -f origin busted_branch
   logp = log --pretty=oneline --max-count=20
   subinit = !git submodule init && git submodule update
 ```
+
+When done pasting: `:set nopaste`
