@@ -4,53 +4,56 @@
 
 I've left default Apple apps off this list (like Calendar, and Music), but I use those as well.
 
-* [1Password](https://1password.com) - Password vault
+* [1Password](https://1password.com/) - Password vault
 * [Acorn](https://flyingmeat.com/acorn/) - Image editor
-* [Arq Backup](https://www.arqbackup.com) - Backup archived files to B2 or S3
-* [Backblaze](https://www.backblaze.com) - Backup entire computer
+* [Arq Backup](https://www.arqbackup.com/) - Backup archived files to B2 or S3
+* [Backblaze](https://www.backblaze.com/) - Backup entire computer
 * [Beekeeper Studio](https://www.beekeeperstudio.io) - Database editor (SQLite, MySQL, MariaDB, Postgres, CockroachDB, SQL Server, and Amazon Redshift)
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Lightweight text editor
 * [Be Focused Pro](https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517?mt=12) - Pomodoro timer
-* [CodeRunner](https://coderunnerapp.com) - Playground for different programming languages
+* [CodeRunner](https://coderunnerapp.com/) - Playground for different programming languages
 * Creative Cloud - I use this just for Photoshop.
-* [DaisyDisk](https://daisydiskapp.com) - Helps cleanup old files
-* [Dropbox](https://www.dropbox.com) - Sync files
-* [Encrypt.me](https://encrypt.me) - VPN
+* [DaisyDisk](https://daisydiskapp.com/) - Helps cleanup old files
+* [Dropbox](https://www.dropbox.com/) - Sync files
+* [Encrypt.me](https://encrypt.me/) - VPN
 * [Forecast](https://overcast.fm/forecast) - Edit tags for podcast mp3s
-* [HandBrake](https://handbrake.fr) - Convert video files
-* [Hazel](https://www.noodlesoft.com) - automate file cleanup and organization
+* [HandBrake](https://handbrake.fr/) - Convert video files
+* [Hazel](https://www.noodlesoft.com/) - automate file cleanup and organization
 * [HazeOver](https://apps.apple.com/us/app/hazeover-distraction-dimmer/id430798174?mt=12) - Darken inactive windows
 * [Hidden](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12) - Hide menu bar apps
 * [ImageOptim](https://imageoptim.com/mac) - Batch compress images
+* [Insomnia](https://github.com/Kong/insomnia) - HTTP / REST client (free)
 * [IntelliJ](https://www.jetbrains.com/idea/) - IDE for web project
-* [Keyboard Maestro](https://www.keyboardmaestro.com) - Text snippets, and OS automation
+* [Keyboard Maestro](https://www.keyboardmaestro.com/) - Text snippets, and OS automation
 * [Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager
 * [MenuBar Stats](https://apps.apple.com/us/app/menubar-stats/id714196447?mt=12) - Keep track of runaway apps
 * [Microsoft Edge](https://www.microsoft.com/en-us/edge) - Gives me the same dev tools as Google Chrome
 * [Moom](https://manytricks.com/moom/) - Window management
 * [Music Converter Pro](https://apps.apple.com/us/app/music-converter-pro/id468990782?mt=12) - Convert audio files
 * [Patterns](https://apps.apple.com/us/app/patterns-the-regex-app/id429449079?mt=12) - Regex helper
-* [Paw](https://paw.cloud) - Debug HTTP requests
+* [Paw](https://paw.cloud/) - Debug HTTP requests
 * [PGAdmin](https://www.pgadmin.org) - Postgres admin GUI
 * [Piezo](https://rogueamoeba.com/piezo/) - Record audio
 * [Postman](https://www.postman.com) - Debug HTTP requests (free)
-* [Reeder](https://reederapp.com) - RSS reader
+* [Rectangle](https://rectangleapp.com) - Move and resize windows with keyboard shortcuts
+* [Reeder](https://reederapp.com/) - RSS reader
 * [Rest](https://apps.apple.com/us/app/rest/id661067914?mt=12) - Make yourself to take screen breaks
 * [RH Timers](https://apps.apple.com/us/app/rh-timer-manage-your-time/id929960914?mt=12) - Until Siri can do timers
 * [Scrutiny](https://peacockmedia.software/mac/scrutiny/) - Check links for websites
-* [Sequel Pro](https://www.sequelpro.com) - GUI for MySQL
+* [Sequel Pro](https://www.sequelpro.com/) - GUI for MySQL
 * [Soulver](https://acqualia.com/soulver/) - A better calculator
-* [SourceTree](https://www.sourcetreeapp.com) - Free Git GUI
+* [SourceTree](https://www.sourcetreeapp.com/) - Free Git GUI
 * [SuperDuper!](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html)  - Full disk backup
 * [Textual](https://apps.apple.com/us/app/textual-7/id1262957439?mt=12) - IRC client
-* [Todoist](https://todoist.com)  - Cross platform to do list service
+* [Todoist](https://todoist.com/)  - Cross platform to do list service
 * [ToothFairy](https://c-command.com/toothfairy/) - Connect to AirPods from menu bar
 * [Transmit](https://panic.com/transmit/) - File transfer to remote&#x20;
-* [TripMode](https://www.tripmode.ch) - Throttle apps while on cellular data
+* [TripMode](https://www.tripmode.ch/) - Throttle apps while on cellular data
 * [Turbo Boost Switcher Pro](https://www.rugarciap.com/turbo-boost-switcher-for-os-x/) - Turn off CPU turbo boost while on battery power
 * [Viscosity](https://www.sparklabs.com/viscosity/) - OpenVPN client
-* [Visual Studio Code](https://code.visualstudio.com) - Light code text editor
-* [XScope](https://xscopeapp.com) - Measure things on screen
+* [Visual Studio Code](https://code.visualstudio.com/) - Light code text editor
+* [Xnip](https://apps.apple.com/us/app/xnip-screenshot-annotation/id1221250572?mt=12) - Annotate screenshots
+* [XScope](https://xscopeapp.com/) - Measure things on screen
 
 ### Apps to Consider
 
@@ -74,7 +77,7 @@ List of Homebrew Casks: [https://formulae.brew.sh/cask/](https://formulae.brew.s
 
 ### Retired Apps
 
-* [Bartender](https://www.macbartender.com) - Organize Mac menu bar
+* [Bartender](https://www.macbartender.com/) - Organize Mac menu bar
 * Virtual Box - X86 virtual machines
 
 ## Keyboard shortcuts of note
