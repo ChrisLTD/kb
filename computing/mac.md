@@ -51,7 +51,7 @@ I've left default Apple apps off this list (like Calendar, and Music), but I use
 * [TripMode](https://www.tripmode.ch/) - Throttle apps while on cellular data
 * [Turbo Boost Switcher Pro](https://www.rugarciap.com/turbo-boost-switcher-for-os-x/) - Turn off CPU turbo boost while on battery power
 * [Viscosity](https://www.sparklabs.com/viscosity/) - OpenVPN client
-* [Visual Studio Code](https://code.visualstudio.com/) - Light code text editor
+* [Visual Studio Code](https://code.visualstudio.com/) - Light code text editor (Use Github for settings sync)
 * [Xnip](https://apps.apple.com/us/app/xnip-screenshot-annotation/id1221250572?mt=12) - Annotate screenshots
 * [XScope](https://xscopeapp.com/) - Measure things on screen
 
