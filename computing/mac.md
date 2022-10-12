@@ -11,6 +11,7 @@ I've left default Apple apps off this list (like Calendar, and Music), but I use
 * [Beekeeper Studio](https://www.beekeeperstudio.io) - Database editor (SQLite, MySQL, MariaDB, Postgres, CockroachDB, SQL Server, and Amazon Redshift)
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Lightweight text editor
 * [Be Focused Pro](https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517?mt=12) - Pomodoro timer
+* [Boop](https://apps.apple.com/us/app/boop/id1518425043) - Text transformers
 * [CodeRunner](https://coderunnerapp.com/) - Playground for different programming languages
 * Creative Cloud - I use this just for Photoshop.
 * [DaisyDisk](https://daisydiskapp.com/) - Helps cleanup old files
