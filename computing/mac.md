@@ -30,6 +30,7 @@ I've left default Apple apps off this list (like Calendar, and Music), but I use
 * [MenuBar Stats](https://apps.apple.com/us/app/menubar-stats/id714196447?mt=12) - Keep track of runaway apps
 * [Microsoft Edge](https://www.microsoft.com/en-us/edge) - Gives me the same dev tools as Google Chrome
 * [Moom](https://manytricks.com/moom/) - Window management
+* [Monitor Control](https://github.com/MonitorControl/MonitorControl) - Control 3rd party monitors with system UI
 * [Music Converter Pro](https://apps.apple.com/us/app/music-converter-pro/id468990782?mt=12) - Convert audio files
 * [Patterns](https://apps.apple.com/us/app/patterns-the-regex-app/id429449079?mt=12) - Regex helper
 * [Paw](https://paw.cloud/) - Debug HTTP requests
@@ -81,7 +82,8 @@ List of Homebrew Casks: [https://formulae.brew.sh/cask/](https://formulae.brew.s
 * [Wooshy](https://wooshy.app) - Search and click things by text
 * [Red Lines Tools](https://apps.apple.com/us/app/red-lines-tools/id1469400117?mt=12) - Add guides to the screen
 * [Warp.dev](https://www.warp.dev) - New terminal&#x20;
-* [Monitor Control](https://github.com/MonitorControl/MonitorControl) - control 3rd party monitors with system UI
+
+
 
 ### Retired Apps
 
