@@ -80,6 +80,7 @@ List of Homebrew Casks: [https://formulae.brew.sh/cask/](https://formulae.brew.s
 * [Homerow.app](https://www.homerow.app) - Search and click things by text
 * [Wooshy](https://wooshy.app) - Search and click things by text
 * [Red Lines Tools](https://apps.apple.com/us/app/red-lines-tools/id1469400117?mt=12) - Add guides to the screen
+* [Warp.dev](https://www.warp.dev) - New terminal&#x20;
 
 ### Retired Apps
 
