@@ -75,6 +75,8 @@ List of Homebrew Casks: [https://formulae.brew.sh/cask/](https://formulae.brew.s
 * Parallels -Virtual Machines
 * Time Out - Take breaks
 * [LaunchControl](https://www.soma-zone.com/LaunchControl/) - Manage and debug system services
+* [Shortcat](https://shortcat.app) - Universal command palette
+* [Superkey](https://superkey.app) - Search and click on things by text
 
 ### Retired Apps
 
