@@ -77,6 +77,8 @@ List of Homebrew Casks: [https://formulae.brew.sh/cask/](https://formulae.brew.s
 * [LaunchControl](https://www.soma-zone.com/LaunchControl/) - Manage and debug system services
 * [Shortcat](https://shortcat.app) - Universal command palette
 * [Superkey](https://superkey.app) - Search and click on things by text
+* [Homerow.app](https://www.homerow.app) - Search and click things by text
+* [Wooshy](https://wooshy.app) - Search and click things by text
 * [Red Lines Tools](https://apps.apple.com/us/app/red-lines-tools/id1469400117?mt=12) - Add guides to the screen
 
 ### Retired Apps
