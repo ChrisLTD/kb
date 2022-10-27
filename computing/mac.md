@@ -43,9 +43,11 @@ I've left default Apple apps off this list (like Calendar, and Music), but I use
 * [RH Timers](https://apps.apple.com/us/app/rh-timer-manage-your-time/id929960914?mt=12) - Until Siri can do timers
 * [Scrutiny](https://peacockmedia.software/mac/scrutiny/) - Check links for websites
 * [Sequel Pro](https://www.sequelpro.com/) - GUI for MySQL
+* [Shortcat](https://shortcat.app) - Universal command palette
 * [Soulver](https://acqualia.com/soulver/) - A better calculator
 * [SourceTree](https://www.sourcetreeapp.com/) - Free Git GUI
 * [SuperDuper!](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html)  - Full disk backup
+* [Superkey](https://superkey.app) - Search and click on things by text, and remap a key to Hyper
 * [Textual](https://apps.apple.com/us/app/textual-7/id1262957439?mt=12) - IRC client
 * [Todoist](https://todoist.com/)  - Cross platform to do list service
 * [ToothFairy](https://c-command.com/toothfairy/) - Connect to AirPods from menu bar
@@ -76,8 +78,6 @@ List of Homebrew Casks: [https://formulae.brew.sh/cask/](https://formulae.brew.s
 * Parallels -Virtual Machines
 * Time Out - Take breaks
 * [LaunchControl](https://www.soma-zone.com/LaunchControl/) - Manage and debug system services
-* [Shortcat](https://shortcat.app) - Universal command palette
-* [Superkey](https://superkey.app) - Search and click on things by text
 * [Homerow.app](https://www.homerow.app) - Search and click things by text
 * [Wooshy](https://wooshy.app) - Search and click things by text
 * [Red Lines Tools](https://apps.apple.com/us/app/red-lines-tools/id1469400117?mt=12) - Add guides to the screen
