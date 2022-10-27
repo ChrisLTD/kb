@@ -99,8 +99,11 @@ List of Homebrew Casks: [https://formulae.brew.sh/cask/](https://formulae.brew.s
 * Clipboard History (KM) - Ctrl Opt Cmd V&#x20;
 * 1Password Autofill - Cmd &#x20;
 * 1Password Global - Cmd Shit \\
+* Shortcat (Superkey) - Right Cmd F
 
 _(KM): Custom Keyboard Maestro shortcut_
+
+_(Superkey): Right Cmd mapped to Hyper key using Superkey or Karabiner_
 
 ## Useful Terminal Commands
 
