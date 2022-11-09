@@ -23,3 +23,5 @@ Old Forester 1920
 Old Forester Rye&#x20;
 
 Weller Special Reserve
+
+Fuji Whisky World Blend
