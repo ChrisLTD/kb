@@ -92,7 +92,7 @@ List of Homebrew Casks: [https://formulae.brew.sh/cask/](https://formulae.brew.s
 
 ## Keyboard shortcuts of note
 
-* Dictation - Meh + D&#x20;
+* Dictation - Ctrl twice (needs to be set in System prefs) / Meh + D&#x20;
 * Siri - Hold Opt Space / Meh + S
 * Keyboard Maestro Macro - Meh + T
 * Lock Screen / Put Display to Sleep - Ctrl Shift Q&#x20;
