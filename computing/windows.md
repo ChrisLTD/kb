@@ -1,6 +1,6 @@
 # Windows
 
-I can get by working on Windows in a pinch. Using Power Toys to remap my keyboard to be more "Mac Like" with Alt Swapped for Control and Caps Lock mapped to Esc really helps. 
+I can get by working on Windows in a pinch. Using Power Toys to remap my keyboard to be more "Mac Like" with Alt Swapped for Control and Caps Lock mapped to Esc really helps.&#x20;
 
 ### App favorites
 
@@ -14,7 +14,7 @@ I can get by working on Windows in a pinch. Using Power Toys to remap my keyboar
 * [Encrypt.me](https://encrypt.me/) - VPN
 * [Foo IRC](https://www.microsoft.com/en-us/p/foo-irc/9wzdncrdct50/0010) - Chat client
 * [Power Toys](https://github.com/microsoft/PowerToys) - Add Spotlight'esque search and swap ctrl and alt keys with Keyboard Manager
-* [Stopwatch + Timer](https://www.microsoft.com/store/productId/9NBLGGGZKFMV) - What I use for pomodoros 
+* [Stopwatch + Timer](https://www.microsoft.com/store/productId/9NBLGGGZKFMV) - What I use for pomodoros&#x20;
 * [Todoist](https://todoist.com/)  - Cross platform to do list service
 * [Ubuntu](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6) - What a time to be alive
 * [Visual Studio Code](https://code.visualstudio.com/) - Light code text editor
@@ -32,22 +32,22 @@ I can get by working on Windows in a pinch. Using Power Toys to remap my keyboar
 * RealTemp
 * Sumatra PDF
 
-I use the built in Win key search as an app launcher. I use the built in Snip & Sketch tool for screenshots. Check my ChromeOS list for some of the web apps I also use for productivity. 
+I use the built in Win key search as an app launcher. I use the built in Snip & Sketch tool for screenshots. Check my ChromeOS list for some of the web apps I also use for productivity.&#x20;
 
 **Power Toys Settings:**
 
 Keyboard Manager:
 
-* Caps Lock -&gt; Esc
-* Esc -&gt; Caps Lock
-* Alt \(Left\) -&gt; Ctrl \(Left\)
-* Ctrl \(Left\) -&gt; Alt \(Left\)
-* Alt \(Right\) -&gt; Ctrl \(Right\)
-* Ctrl \(Right\) -&gt; Alt \(Right\)
+* Caps Lock -> Esc
+* Esc -> Caps Lock
+* Alt (Left) -> Ctrl (Left)
+* Ctrl (Left) -> Alt (Left)
+* Alt (Right) -> Ctrl (Right)
+* Ctrl (Right) -> Alt (Right)
 
 Shortcuts:
 
-* Ctrl + Q -&gt; Alt F4
+* Ctrl + Q -> Alt F4
 
 PowerToys Run set to Ctrl + Space
 
@@ -57,8 +57,8 @@ Go to clipboard settings and enable clipboard history.
 
 Turn on power off button on login screen:
 
-* Open the Local Group Policy Editor \(Press the Windows key + R, type gpedit.msc and press Enter\)
-* Navigate to Computer Configuration -&gt; Windows Settings -&gt; Security Settings -&gt; Local Policies -&gt; Security Options. 
+* Open the Local Group Policy Editor (Press the Windows key + R, type gpedit.msc and press Enter)
+* Navigate to Computer Configuration -> Windows Settings -> Security Settings -> Local Policies -> Security Options.&#x20;
 * Select the “Shutdown: Allow system to be shut down without having to log on” policy. Select Enable and click Apply and OK.
 * Restart.
 
@@ -77,8 +77,7 @@ Turn on power off button on login screen:
 * [Install WSL 2 in Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 * [WSL 2 with Visual Studio Code](https://code.visualstudio.com/blogs/2019/09/03/wsl2)
 * [Hanselman's 2021 Ultimate Developer and Power Users Tool List for Windows](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
-* [Switching to Windows](http://ignorethecode.net/blog/2021/02/02/switching_to_windows/)
+* [Switching to Windows](http://ignorethecode.net/blog/2021/02/02/switching\_to\_windows/)
 * [Nitpicky Differences Between Windows and OS X](https://hellojason.net/blog/nitpicky-differences-between-windows-and-os-x/)
-
-
+* [Awesome list of Windows apps](https://github.com/Awesome-Windows/Awesome)
 
