@@ -27,6 +27,7 @@ I can get by working on Windows in a pinch. Using Power Toys to remap my keyboar
 * HexChat
 * HWMonitor
 * Notepad++
+* [Notepads](https://apps.microsoft.com/store/detail/notepads-app/9NHL4NSC67WM?hl=en-us\&gl=us\&ranMID=24542\&ranEAID=TnL5HPStwNw\&ranSiteID=TnL5HPStwNw-VH.o7fBFG1HY1Vre.ILzTA\&epi=TnL5HPStwNw-VH.o7fBFG1HY1Vre.ILzTA\&irgwc=1\&OCID=AID2200057\_aff\_7593\_1243925\&tduid=%28ir\_\_6vcch0rig0kfb3hpyf93prpvyf2xct33v11wn6p100%29%287593%29%281243925%29%28TnL5HPStwNw-VH.o7fBFG1HY1Vre.ILzTA%29%28%29\&irclickid=\_6vcch0rig0kfb3hpyf93prpvyf2xct33v11wn6p100)
 * Paint.NET
 * Prime95
 * RealTemp
