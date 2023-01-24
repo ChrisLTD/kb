@@ -66,6 +66,7 @@ Great list of open source Mac apps: [https://github.com/serhii-londar/open-sourc
 List of Homebrew Casks: [https://formulae.brew.sh/cask/](https://formulae.brew.sh/cask/)
 
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - Keep track of runaway apps
+* [iTerm](https://www.iterm2.com/) - Terminal alternative with more features
 * [BlockBlock](https://objective-see.com/products/blockblock.html) - Get alerts when apps try to install background processes
 * [LuLu](https://github.com/objective-see/LuLu) - Open Source LittleSnitch alternative, blocks outgoing apps
 * [Timer](https://github.com/Zeqiang-Lai/Timer-APP) - Open Source timer app
@@ -81,7 +82,9 @@ List of Homebrew Casks: [https://formulae.brew.sh/cask/](https://formulae.brew.s
 * [Homerow.app](https://www.homerow.app) - Search and click things by text
 * [Wooshy](https://wooshy.app) - Search and click things by text
 * [Red Lines Tools](https://apps.apple.com/us/app/red-lines-tools/id1469400117?mt=12) - Add guides to the screen
-* [Warp.dev](https://www.warp.dev) - New terminal&#x20;
+* [AltTab.app](https://alt-tab-macos.netlify.app) - Windows like Alt Tabbing interface
+
+
 
 
 
