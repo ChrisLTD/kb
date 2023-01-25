@@ -83,6 +83,9 @@ List of Homebrew Casks: [https://formulae.brew.sh/cask/](https://formulae.brew.s
 * [Wooshy](https://wooshy.app) - Search and click things by text
 * [Red Lines Tools](https://apps.apple.com/us/app/red-lines-tools/id1469400117?mt=12) - Add guides to the screen
 * [AltTab.app](https://alt-tab-macos.netlify.app) - Windows like Alt Tabbing interface
+* [Multitouch.app](https://multitouch.app/) - Customize trackpad and mouse gestures
+* [Raycast](https://www.raycast.com/) - Extensible launcher, like Quicksilver or Spotlight
+* [Rewind.ai](https://www.rewind.ai/) - Search engine for everything you do on the Mac
 
 
 
