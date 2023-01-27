@@ -86,6 +86,7 @@ List of Homebrew Casks: [https://formulae.brew.sh/cask/](https://formulae.brew.s
 * [Multitouch.app](https://multitouch.app/) - Customize trackpad and mouse gestures
 * [Raycast](https://www.raycast.com/) - Extensible launcher, like Quicksilver or Spotlight
 * [Rewind.ai](https://www.rewind.ai/) - Search engine for everything you do on the Mac
+* [Github CLI](https://cli.github.com) - Commands to help w/ Github
 
 
 
