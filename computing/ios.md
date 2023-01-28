@@ -2,7 +2,7 @@
 
 ### App Favorites
 
-I've left default Apple apps off this list (like Calendar, and Music), but I use those as well.
+I've left default Apple apps off this list \(like Calendar, and Music\), but I use those as well.
 
 * [1Blocker](https://apps.apple.com/us/app/1blocker-for-safari/id1365531024) - Content blocker
 * [1Password](https://apps.apple.com/us/app/1password-password-manager/id568903335) - Password vault
@@ -44,6 +44,3 @@ I've left default Apple apps off this list (like Calendar, and Music), but I use
 * [Waking Up](https://apps.apple.com/us/app/waking-up-a-meditation-course/id1307736395) - Meditations
 * [Yoga Studio](https://apps.apple.com/us/app/yoga-studio-mind-body/id567767430) - Yoga workouts
 
-### Under Consideration
-
-* [Vimlike](https://apps.apple.com/us/app/vimlike/id1584519802) - Vimium or Vimari like plugin for iOS
