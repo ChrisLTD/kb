@@ -7,15 +7,16 @@ When I'm not buying bags of beans from local shops, or specific bags from specia
 I'll rate these beans with a thumbs up or down as I try them.
 
 * [Variety Coffee: Gatomboya AA](https://varietycoffeeroasters.com/collections/coffee/products/gatomboya) 👍
+* [Atomic Bali Kintamani Natural](https://www.drinktrade.com/bali-kintamani-htzaqpnq/p/4499) 👍
 * [Vibrant: Café Giraldo](https://www.vibrantcoffeeroasters.com/collections/coffee/products/cafe-giraldo-antioquia)
-* [Onyx](https://onyxcoffeelab.com) \(Pink Bourbon Anaerobic, Colombian Gesha, Rwanda\)
+* [Onyx](https://onyxcoffeelab.com) (Pink Bourbon Anaerobic, Colombian Gesha, Rwanda)
 * [Wonderstate: Ethiopa Chelbessa](https://wonderstate.com/collections/all/products/organic-ethiopia-chelbessa)
 * Counter Culture: [Hologram](https://counterculturecoffee.com/shop/coffee/hologram) & [Fast Forward](https://counterculturecoffee.com/shop/coffee/collection-fast-forward)
 * [Ninety Plus: Kemgin](https://ninetypluscoffee.com/kemgin/)
 * [Proud Mary: Burundi Gisha](https://proudmarycoffee.com/collections/wild/products/burundi-gisha-red-bourbon-natural)
 * [Backroom: Cross Goat](https://www.backroomcoffeeroasters.com/coffees/cross-goat)
 * [Passenger: Mario Moreno](https://www.passengercoffee.com/products/mario-moreno-2020?variant=33215785042000)
-* [Vigilante: Ethiopia Worka Chelbessa](https://www.vigilantecoffee.com/collections/coffee-beans/products/ethiopia-chelbessa) 
+* [Vigilante: Ethiopia Worka Chelbessa](https://www.vigilantecoffee.com/collections/coffee-beans/products/ethiopia-chelbessa)&#x20;
 
 ### Half Caffeine Blends
 
@@ -37,10 +38,9 @@ I'll rate these beans with a thumbs up or down as I try them.
 
 ### Robusta
 
+* [Blue Bottle Robusta Blend No. 1](https://bluebottlecoffee.com/us/eng/product/robusta-blend)  👍
 * [Nguyen Coffee Supply](https://nguyencoffeesupply.com/collections/vendors?q=Nguyen%20Coffee%20Supply): [True Grit](https://nguyencoffeesupply.com/collections/vietnamese-coffee-collection/products/grit-100-peaberry-robusta)
-* [Càphê Roasters: Humility _Blend_](https://www.capheroasters.com/shop/ij4u6iafwh5go9jivx5wa0q8qztyr6)\_\_
+* [Càphê Roasters: Humility _Blend_](https://www.capheroasters.com/shop/ij4u6iafwh5go9jivx5wa0q8qztyr6)__
 * [Chestbrew: Big Bad Bear](https://chestbrew.com/product/big-bad-bear/) _Blend_
 * [Copper Cow](https://coppercowcoffee.com/collections/coffee/products/whole-bean-dark-roast-8-oz-copper-cow-coffee) _Blend_
-
-
 
