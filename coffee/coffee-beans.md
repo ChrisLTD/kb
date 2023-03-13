@@ -8,6 +8,7 @@ I'll rate these beans with a thumbs up or down as I try them.
 
 * [Variety Coffee: Gatomboya AA](https://varietycoffeeroasters.com/collections/coffee/products/gatomboya) 👍
 * [Atomic Bali Kintamani Natural](https://www.drinktrade.com/bali-kintamani-htzaqpnq/p/4499) 👍
+* [Oren's Papua New Guinea Mile High A](https://orenscoffee.com/offerings/papua-new-guinea-mile-high-a-2/) 👍
 * [Vibrant: Café Giraldo](https://www.vibrantcoffeeroasters.com/collections/coffee/products/cafe-giraldo-antioquia)
 * [Onyx](https://onyxcoffeelab.com) (Pink Bourbon Anaerobic, Colombian Gesha, Rwanda)
 * [Wonderstate: Ethiopa Chelbessa](https://wonderstate.com/collections/all/products/organic-ethiopia-chelbessa)
