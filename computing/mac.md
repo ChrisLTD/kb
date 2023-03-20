@@ -25,7 +25,7 @@ I've left default Apple apps off this list (like Calendar, and Music), but I use
 * [ImageOptim](https://imageoptim.com/mac) - Batch compress images
 * [Insomnia](https://github.com/Kong/insomnia) - HTTP / REST client (free)
 * [IntelliJ](https://www.jetbrains.com/idea/) - IDE for web project
-* [Keyboard Maestro](https://www.keyboardmaestro.com/) - Text snippets, and OS automation
+* [Keyboard Maestro](https://www.keyboardmaestro.com/) - Text snippets, clipboard history, and OS automation
 * [Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager
 * [MenuBar Stats](https://apps.apple.com/us/app/menubar-stats/id714196447?mt=12) - Keep track of runaway apps
 * [Microsoft Edge](https://www.microsoft.com/en-us/edge) - Gives me the same dev tools as Google Chrome
