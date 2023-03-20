@@ -25,6 +25,7 @@ I've left default Apple apps off this list (like Calendar, and Music), but I use
 * [ImageOptim](https://imageoptim.com/mac) - Batch compress images
 * [Insomnia](https://github.com/Kong/insomnia) - HTTP / REST client (free)
 * [IntelliJ](https://www.jetbrains.com/idea/) - IDE for web project
+* [iTerm](https://www.iterm2.com/) - Terminal alternative with more features
 * [Keyboard Maestro](https://www.keyboardmaestro.com/) - Text snippets, clipboard history, and OS automation
 * [Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager
 * [MenuBar Stats](https://apps.apple.com/us/app/menubar-stats/id714196447?mt=12) - Keep track of runaway apps
@@ -65,7 +66,6 @@ Great list of open source Mac apps: [https://github.com/serhii-londar/open-sourc
 List of Homebrew Casks: [https://formulae.brew.sh/cask/](https://formulae.brew.sh/cask/)
 
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - Keep track of runaway apps
-* [iTerm](https://www.iterm2.com/) - Terminal alternative with more features
 * [BlockBlock](https://objective-see.com/products/blockblock.html) - Get alerts when apps try to install background processes
 * [LuLu](https://github.com/objective-see/LuLu) - Open Source LittleSnitch alternative, blocks outgoing apps
 * [Timer](https://github.com/Zeqiang-Lai/Timer-APP) - Open Source timer app
