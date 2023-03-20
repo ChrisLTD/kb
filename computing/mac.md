@@ -28,7 +28,6 @@ I've left default Apple apps off this list (like Calendar, and Music), but I use
 * [Keyboard Maestro](https://www.keyboardmaestro.com/) - Text snippets, clipboard history, and OS automation
 * [Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager
 * [MenuBar Stats](https://apps.apple.com/us/app/menubar-stats/id714196447?mt=12) - Keep track of runaway apps
-* [Microsoft Edge](https://www.microsoft.com/en-us/edge) - Gives me the same dev tools as Google Chrome
 * [Moom](https://manytricks.com/moom/) - Window management
 * [Monitor Control](https://github.com/MonitorControl/MonitorControl) - Control 3rd party monitors with system UI
 * [Music Converter Pro](https://apps.apple.com/us/app/music-converter-pro/id468990782?mt=12) - Convert audio files
