@@ -87,6 +87,7 @@ List of Homebrew Casks: [https://formulae.brew.sh/cask/](https://formulae.brew.s
 * [Rewind.ai](https://www.rewind.ai/) - Search engine for everything you do on the Mac
 * [Github CLI](https://cli.github.com) - Commands to help w/ Github
 * [Scoot](https://github.com/mjrusso/scoot) - Another element based Vim like keyboard for Mac
+* [Pomy](https://apps.apple.com/us/app/pomy/id1422640635?mt=12) - Pomodoro & eye strain timer
 
 
 
