@@ -90,6 +90,8 @@ List of Homebrew Casks: [https://formulae.brew.sh/cask/](https://formulae.brew.s
 * [Pomy](https://apps.apple.com/us/app/pomy/id1422640635?mt=12) - Pomodoro & eye strain timer
 * [Intermission](https://apps.apple.com/us/app/intermission-breaks-for-eyes/id1439431081?mt=12) - Break timer
 * [Breaktimer.app](https://github.com/tom-james-watson/breaktimer-app) - Break timer
+* [TripMode App Store Version](https://apps.apple.com/us/app/tripmode/id1513400665?mt=12) - Control which apps have access to the internet
+* [Little Snitch Mini](https://apps.apple.com/us/app/little-snitch-mini/id1629008763?mt=12) - See what apps are doing what on the internet
 
 
 
