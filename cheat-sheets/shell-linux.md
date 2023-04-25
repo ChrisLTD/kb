@@ -1,4 +1,4 @@
-# Shell \(Linux\)
+# Shell (Linux)
 
 ## Shell Cheat Sheet
 
@@ -36,6 +36,8 @@ Zip folder:`zip -er DESTINATION.ZIP FOLDER`
 
 Kill process:`kill -9 PROCESSID`
 
+Kill process on port: `kill $(lsof -t -i:PORT_HERE)`
+
 Find process:`ps -ef | grep PROCESS NAME`
 
 Process list:`ps aux`
@@ -49,4 +51,3 @@ List of ports in use: `sudo lsof -i -P -n`
 ### Permissions
 
 Set all new files and folders to[ inherit the group of the current folder](https://unix.stackexchange.com/a/401751): `$ chmod -R g+s somefolder`
-
