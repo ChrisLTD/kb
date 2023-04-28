@@ -32,7 +32,7 @@
 * [iOS](computing/ios.md)
 * [ChromeOS](computing/chromeos.md)
 * [Windows](computing/windows.md)
-* [Browser Apps](computing/browser.md)
+* [Browser Plugins](computing/browser.md)
 * [RSI Prevention](computing/rsi-prevention.md)
 * [Voice Control](computing/voice-control.md)
 * [AWS Cloud 9](computing/aws-cloud-9.md)

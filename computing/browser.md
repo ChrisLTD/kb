@@ -2,7 +2,7 @@
 description: Browser plugins and extensions
 ---
 
-# Browser Apps
+# Browser Plugins
 
 ### Cross browser
 
@@ -13,6 +13,9 @@ description: Browser plugins and extensions
 
 * [Resource Override](https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii/related?hl=en) - Override urls in dev
 * [Vimium](https://www.google.com/url?sa=t\&rct=j\&q=\&esrc=s\&source=web\&cd=\&cad=rja\&uact=8\&ved=2ahUKEwj936qlgsD7AhUbk4kEHaHXAzQQFnoECAwQAQ\&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fvimium%2Fdbepggeogbaibhgnhhndojpepiihcmeb%3Fhl%3Den\&usg=AOvVaw0OTqNaj\_KVNa9JwY5tDyQb) - Vim style navigation
+* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+* [React Context DevTool](https://chrome.google.com/webstore/detail/react-context-devtool/oddhnidmicpefilikhgeagedibnefkcf)
+* [GraphQL Network Inspector](https://chrome.google.com/webstore/detail/graphql-network-inspector/ndlbedplllcgconngcnfmkadhokfaaln)
 
 ### Safari
 
