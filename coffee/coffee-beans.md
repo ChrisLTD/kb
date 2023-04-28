@@ -41,7 +41,7 @@ I'll rate these beans with a thumbs up or down as I try them.
 
 * [Blue Bottle Robusta Blend No. 1](https://bluebottlecoffee.com/us/eng/product/robusta-blend)  👍
 * [Nguyen Coffee Supply](https://nguyencoffeesupply.com/collections/vendors?q=Nguyen%20Coffee%20Supply): [True Grit](https://nguyencoffeesupply.com/collections/vietnamese-coffee-collection/products/grit-100-peaberry-robusta)
-* [Càphê Roasters: Humility _Blend_](https://www.capheroasters.com/shop/ij4u6iafwh5go9jivx5wa0q8qztyr6)__
+* [Càphê Roasters: Humility _Blend_](https://www.capheroasters.com/shop/ij4u6iafwh5go9jivx5wa0q8qztyr6)
 * [Chestbrew: Big Bad Bear](https://chestbrew.com/product/big-bad-bear/) _Blend_
 * [Copper Cow](https://coppercowcoffee.com/collections/coffee/products/whole-bean-dark-roast-8-oz-copper-cow-coffee) _Blend_
 

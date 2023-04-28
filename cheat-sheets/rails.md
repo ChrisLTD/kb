@@ -8,11 +8,11 @@ Set local/directory version of ruby:`rbenv local <VERSION>`
 
 After installing a gem that adds new binaries (new commands):`rbenv rehash`
 
-### [Ruby Gems](http://docs.rubygems.org)
+### [Ruby Gems](http://docs.rubygems.org/)
 
 Updating gem system:`gem update --system --no-document`
 
-### [Bundler](http://gembundler.com)
+### [Bundler](http://gembundler.com/)
 
 Install gems from current bundle:`bundle install` **or:** `bundle install --without production`
 
@@ -20,7 +20,7 @@ Run an executable that comes with a gem in your bundle:`bundle exec <GEM COMMAND
 
 Update one gem: `bundle update --conservative <GEM NAME>`
 
-### [Rails](http://guides.rubyonrails.org)
+### [Rails](http://guides.rubyonrails.org/)
 
 Create a new Rails project:`rails new <APP NAME>`
 

@@ -1,4 +1,4 @@
-# VS Code
+# Visual Studi Code
 
 ## Extensions
 
@@ -16,4 +16,5 @@
 * PaperColor Redux Theme&#x20;
 * Path Intellisense&#x20;
 * Peacock&#x20;
+* Playwright Test for VSCode
 * Rewrap
