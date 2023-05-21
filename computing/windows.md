@@ -37,6 +37,7 @@ I can get by working on Windows in a pinch. Using Power Toys to remap my keyboar
 * [GWSL](https://apps.microsoft.com/store/detail/gwsl/9NL6KD1H33V3?hl=en-us\&gl=us\&rtc=1) - Run X Windows Linux apps on Windows
 * [OpenInWSL](https://apps.microsoft.com/store/detail/openinwsl/9NGMQPWCG7SF) - Set WSL apps as the default file handler
 * [ShareX](https://getsharex.com/) - screenshot tool
+* [Feedlab](https://apps.microsoft.com/store/detail/feedlab/9WZDNCRDKRQ3?hl=en-us\&gl=us) - RSS reader
 
 I use the built in Win key search as an app launcher. I use the built in Snip & Sketch tool for screenshots. Check my ChromeOS list for some of the web apps I also use for productivity.&#x20;
 
