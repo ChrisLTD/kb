@@ -34,6 +34,8 @@ I can get by working on Windows in a pinch. Using Power Toys to remap my keyboar
 * Sumatra PDF
 * [Fluent Search](https://fluentsearch.net/) - search everything, including things on screen
 * [Breaktimer.app](https://github.com/tom-james-watson/breaktimer-app) - Break timer
+* [GWSL](https://apps.microsoft.com/store/detail/gwsl/9NL6KD1H33V3?hl=en-us\&gl=us\&rtc=1) - Run X Windows Linux apps on Windows
+* [OpenInWSL](https://apps.microsoft.com/store/detail/openinwsl/9NGMQPWCG7SF) - Set WSL apps as the default file handler
 
 I use the built in Win key search as an app launcher. I use the built in Snip & Sketch tool for screenshots. Check my ChromeOS list for some of the web apps I also use for productivity.&#x20;
 

@@ -1,4 +1,4 @@
-# Visual Studi Code
+# Visual Studio Code
 
 ## Extensions
 
