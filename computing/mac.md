@@ -92,10 +92,7 @@ List of Homebrew Casks: [https://formulae.brew.sh/cask/](https://formulae.brew.s
 * [Breaktimer.app](https://github.com/tom-james-watson/breaktimer-app) - Break timer
 * [TripMode App Store Version](https://apps.apple.com/us/app/tripmode/id1513400665?mt=12) - Control which apps have access to the internet
 * [Little Snitch Mini](https://apps.apple.com/us/app/little-snitch-mini/id1629008763?mt=12) - See what apps are doing what on the internet
-
-
-
-
+* [Exporter](https://apps.apple.com/us/app/exporter/id1099120373?mt=12) - export Apples notes files
 
 ### Retired Apps
 
