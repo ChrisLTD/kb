@@ -75,6 +75,7 @@
 * [Favorite Recipes](food/favorite-recipes.md)
 * [Whisky Reviews](food/whisky-reviews.md)
 * [Infinity Bottle](food/infinity-bottle.md)
+* [Favorite Wines](food/favorite-wines.md)
 
 ## Inspiration
 
