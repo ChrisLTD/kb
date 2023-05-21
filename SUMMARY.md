@@ -36,7 +36,7 @@
 * [RSI Prevention](computing/rsi-prevention.md)
 * [Voice Control](computing/voice-control.md)
 * [AWS Cloud 9](computing/aws-cloud-9.md)
-* [Visual Studi Code](computing/visual-studi-code.md)
+* [Visual Studio Code](computing/visual-studio-code.md)
 
 ## Workflows
 
