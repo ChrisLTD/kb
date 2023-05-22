@@ -206,6 +206,7 @@ In Settings / Battery / Power Adapter turn off Sleep When Display is Off
 * [https://github.com/serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 * [https://github.com/learn-anything/macos-apps](https://github.com/learn-anything/macos-apps)
 * [https://github.com/jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+* [https://getenet.notion.site/Eighty-Shades-of-Option-Key-3c6e58feb5c848ee9d4c027f0b9d52e0](https://getenet.notion.site/Eighty-Shades-of-Option-Key-3c6e58feb5c848ee9d4c027f0b9d52e0)
 
 
 
