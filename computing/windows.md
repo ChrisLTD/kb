@@ -68,7 +68,7 @@ PowerToys Run set to Ctrl + Space
 
 Go to clipboard settings and enable clipboard history.
 
-Go to mouse pointer and enable inverted cursor color
+Go to mouse pointer and set the cursor to a custom color of black. The default black cursor option is smaller and harder to see.
 
 **Open VS Code within WSL 2:**
 
