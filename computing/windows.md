@@ -39,7 +39,8 @@ I can get by working on Windows in a pinch. Using Power Toys to remap my keyboar
 * [ShareX](https://getsharex.com/) - screenshot tool
 * [Feedlab](https://apps.microsoft.com/store/detail/feedlab/9WZDNCRDKRQ3?hl=en-us\&gl=us) - RSS reader
 * [simplewall](https://github.com/henrypp/simplewall) - blocks all network traffic
-*
+
+
 
 I use the built in Win key search as an app launcher. I use the built in Snip & Sketch tool for screenshots. Check my ChromeOS list for some of the web apps I also use for productivity.&#x20;
 
@@ -49,6 +50,9 @@ Keyboard Manager:
 
 * Caps Lock -> Esc
 * Esc -> Caps Lock
+
+(Optional) To make alt and ctrl more Mac like:
+
 * Alt (Left) -> Ctrl (Left)
 * Ctrl (Left) -> Alt (Left)
 * Alt (Right) -> Ctrl (Right)
@@ -64,12 +68,7 @@ PowerToys Run set to Ctrl + Space
 
 Go to clipboard settings and enable clipboard history.
 
-Turn on power off button on login screen:
-
-* Open the Local Group Policy Editor (Press the Windows key + R, type gpedit.msc and press Enter)
-* Navigate to Computer Configuration -> Windows Settings -> Security Settings -> Local Policies -> Security Options.&#x20;
-* Select the “Shutdown: Allow system to be shut down without having to log on” policy. Select Enable and click Apply and OK.
-* Restart.
+Go to mouse pointer and enable inverted cursor color
 
 **Open VS Code within WSL 2:**
 
