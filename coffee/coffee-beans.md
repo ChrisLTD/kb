@@ -18,6 +18,7 @@ I'll rate these beans with a thumbs up or down as I try them.
 * [Backroom: Cross Goat](https://www.backroomcoffeeroasters.com/coffees/cross-goat)
 * [Passenger: Mario Moreno](https://www.passengercoffee.com/products/mario-moreno-2020?variant=33215785042000)
 * [Vigilante: Ethiopia Worka Chelbessa](https://www.vigilantecoffee.com/collections/coffee-beans/products/ethiopia-chelbessa)&#x20;
+* [Devoción Honey](https://www.devocion.com/collections/house-blends/products/coffee-colombia-honey) 👍
 
 ### Half Caffeine Blends
 
